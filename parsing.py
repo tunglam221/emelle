@@ -52,7 +52,7 @@ def parseData(inputFile):
     # Input: the name of a file
     # Output: a list of Sentences, with finished counting
 
-    fin = open(inputFile, 'r')
+    fin = open(inputFile, encoding="utf8")
     vecSentence = []
     checkLabel = fin.readline().strip().split();
     if len(checkLabel) == 1:

@@ -1,3 +1,5 @@
+from parsing import *
+
 class Sentence:
     
     def __init__(self,observation,count_transition,count_emission):
@@ -76,28 +78,37 @@ class Counting:
             emissCount[i] = 1/(countPerState[i] + 1)
         return emissCount
         
-            
+fname = 'EN/dev.out';
+aha = parseData(fname);
+
+z = Counting.transCount(aha);
+x = Counting.emissCount(aha);
+c = Counting.countPerState(z);
+tranmissionParameters = Counting.transPara(z,c);
+emissionParameters = Counting.emissPara(x,c);
+
+
 #Testing
-listofSentences = []      
-count_transition = {(1,2): 5,(2,3): 6 }
-count_emission =  {('Pandora',3):1 , ('Pandora',6):7 ,('Lam',7):1, ('Nata',1):5} 
-count_transition1 = {(7,8): 8,(4,5): 2, (6,7):2 , (1,2):5}
-count_emission1 =  {('Stanley',7):1 , ('Anker',3):7 ,('Lam',7):1, ('Nata',1):5, ('Pandora',6):7} 
-listofSentences.append(Sentence(["a","b"],count_transition,count_emission))
-listofSentences.append(Sentence(["a","b"],count_transition1,count_emission1))
-print("Tramission Count :")
-z = Counting.transCount(listofSentences)
-print(z)
-print("Emission Count :")
-x = Counting.emissCount(listofSentences)
-print(x)
-print("Count Per State :")
-c = Counting.countPerState(z)
-print(c)
-print("Tramission Parameter :")
-print(Counting.transPara(z,c))
-print("Emission Parameter :")
-print(Counting.emissPara(x,c))
+# listofSentences = []      
+# count_transition = {(1,2): 5,(2,3): 6 }
+# count_emission =  {('Pandora',3):1 , ('Pandora',6):7 ,('Lam',7):1, ('Nata',1):5} 
+# count_transition1 = {(7,8): 8,(4,5): 2, (6,7):2 , (1,2):5}
+# count_emission1 =  {('Stanley',7):1 , ('Anker',3):7 ,('Lam',7):1, ('Nata',1):5, ('Pandora',6):7} 
+# listofSentences.append(Sentence(["a","b"],count_transition,count_emission))
+# listofSentences.append(Sentence(["a","b"],count_transition1,count_emission1))
+# print("Tramission Count :")
+# z = Counting.transCount(listofSentences)
+# print(z)
+# print("Emission Count :")
+# x = Counting.emissCount(listofSentences)
+# print(x)
+# print("Count Per State :")
+# c = Counting.countPerState(z)
+# print(c)
+# print("Tramission Parameter :")
+# print(Counting.transPara(z,c))
+# print("Emission Parameter :")
+# print(Counting.emissPara(x,c))
 
 
 
