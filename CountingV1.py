@@ -27,7 +27,7 @@ class Counting:
     #Input: List of object(sentences)
     #Output: Dictionary of Emission Count, in the Form of {"obs1" : array, "obs2" : array}, where array contains counts of each state
     #States are as follows:
-    #O = 1, B-VE = 2, B-neutral = 3, B+ve = 4, I-VE = 5, I-neutral = 6, I+ve = 7
+    #START = 0 , O = 1, B-VE = 2, B-neutral = 3, B+ve = 4, I-VE = 5, I-neutral = 6, I+ve = 7, STOP = 8
     
     def emissCount(los):
         emissionPara = {}
@@ -35,12 +35,12 @@ class Counting:
             for word in s.count_emission:
                 if word[0] in emissionPara:
                     temp = emissionPara.get(word[0])
-                    temp[word[1]-1] += s.count_emission.get(word)
+                    temp[word[1]] += s.count_emission.get(word)
                     emissionPara[word[0]] = temp
                     
                 else:
-                    array = [0] * 7
-                    array[word[1]-1] = s.count_emission.get(word)
+                    array = [0] * 9
+                    array[word[1]] = s.count_emission.get(word)
                     emissionPara[word[0]] = array
                 
         return emissionPara
@@ -68,10 +68,12 @@ class Counting:
     def emissPara(emissCount,countPerState):
         for word in emissCount:
             temp = emissCount.get(word)
-            for i in range(0,7):
-                if(countPerState[i+1]!=0):
-                    temp[i] = temp[i]/countPerState[i+1]
+            for i in range(0,9):
+                temp[i] = temp[i]/(countPerState[i]+1)
             emissCount[word] = temp
+            
+        for i in range(0,9):
+            emissCount[i] = 1/(countPerState[i] + 1)
         return emissCount
         
             
