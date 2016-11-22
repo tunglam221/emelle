@@ -1,3 +1,5 @@
+import math
+
 class Node:
 	def __init__(self, score, parent, state):
 		self.score = score
@@ -10,19 +12,18 @@ class Viterbi:
 		self.emis = emis
 
 	def max_node(self, graph, i, j, x):
-		max_score = 0
+		max_score = -float('inf')
 		parent = None
 		for node in graph[i-1]:
 			if x[i-2] not in self.emis:
 				emis = self.emis[node.state]
 			else:
 				emis = self.emis[x[i-2]][node.state]
-			score = node.score*self.tran[node.state][j]*emis
+			score = node.score + log(self.tran[node.state][j]) + log(emis)
 			if max_score < score:
 				max_score = score
 				parent = node
 		return (max_score, parent)
-
 
 	def decode(self, sentence):
 		x = sentence.split()
@@ -32,12 +33,12 @@ class Viterbi:
 
 		# set node(0,0)
 		graph.append([])
-		graph[0].append(Node(1, None, 0))
+		graph[0].append(Node(0, None, 0))
 
 		# time step 1
 		graph.append([])
 		for j in range(1, t-1):
-			graph[1].append(Node(self.tran[0][j], graph[0][0], j))
+			graph[1].append(Node(log(self.tran[0][j]), graph[0][0], j))
 
 		for i in range(2, n+1):	#step i
 			graph.append([])
@@ -58,20 +59,22 @@ class Viterbi:
 
 		return path
 
-tran = [[0, 0.5, 0, 0.5, 0],
-		[0, 0, 0.4, 0.4, 0.2],
-		[0, 0.2, 0, 0.2, 0.6],
-		[0, 0.4, 0.6, 0, 0],
-		[0, 0, 0, 0, 0]]
+def log(a):
+	if a==0:
+		return -float('inf')
+	else:
+		return math.log(a)
 
-emis = {'a': [0, 0.4, 0.4, 0.2, 0],
-		'b': [0, 0.6, 0, 0.6, 0],
-		'c': [0, 0, 0.6, 0.2, 0],
-		1: 0.1, 2: 0.1, 3: 0.1}
+# tran = [[0, 0.5, 0, 0.5, 0],
+# 		[0, 0, 0.4, 0.4, 0.2],
+# 		[0, 0.2, 0, 0.2, 0.6],
+# 		[0, 0.4, 0.6, 0, 0],
+# 		[0, 0, 0, 0, 0]]
 
-# emis = {(1, 'a'): 0.4, (1, 'b'): 0.6, (1, 'c'): 0, (1): 0.1,
-# 		(2, 'a'): 0.4, (2, 'b'): 0, (2, 'c'): 0.6, (2): 0.1,
-# 		(3, 'a'): 0.2, (3, 'b'): 0.6, (3, 'c'): 0.2, (3): 0.1}
+# emis = {'a': [0, 0.4, 0.4, 0.2, 0],
+# 		'b': [0, 0.6, 0, 0.6, 0],
+# 		'c': [0, 0, 0.6, 0.2, 0],
+# 		1: 0.1, 2: 0.1, 3: 0.1}
 
-v = Viterbi(tran, emis)
-print(v.decode("b d"))
+# v = Viterbi(tran, emis)
+# print(v.decode("b b"))

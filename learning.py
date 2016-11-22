@@ -1,25 +1,26 @@
-from parsing import *
-
-class Sentence:
+# class Sentence:
     
-    def __init__(self,observation,count_transition,count_emission):
-        #Observations
-        self.observation = observation
-        #Form of Dictionary {(i,j):count, ....}
-        self.count_transition = count_transition
-        #Form of Dictionary {('Pandora',3):count, .....} 
-        self.count_emission = count_emission
+#     def __init__(self,observation,count_transition,count_emission):
+#         #Observations
+#         self.observation = observation
+#         #Form of Dictionary {(i,j):count, ....}
+#         self.count_transition = count_transition
+#         #Form of Dictionary {('Pandora',3):count, .....} 
+#         self.count_emission = count_emission
         
 class Counting:
+
+    def __init__(self, sentences):
+        self.sentences = sentences
     
     #Input: List of objects(sentences)
     #Output: 2D array of transition Count
     #States are as follows:    
     #START = 0, O = 1, B-VE = 2, B-neutral = 3, B+ve = 4, I-VE = 5, I-neutral = 6, I+ve = 7, STOP = 8
     
-    def transCount(los):
+    def transCount(self):
         transPara = [x[:] for x in [[0] * 9] * 9]
-        for s in los:
+        for s in self.sentences:
             for z in s.count_transition:
                 transPara[z[0]][z[1]] += s.count_transition.get(z)
                 
@@ -31,9 +32,9 @@ class Counting:
     #States are as follows:
     #START = 0 , O = 1, B-VE = 2, B-neutral = 3, B+ve = 4, I-VE = 5, I-neutral = 6, I+ve = 7, STOP = 8
     
-    def emissCount(los):
+    def emissCount(self):
         emissionPara = {}
-        for s in los:
+        for s in self.sentences:
             for word in s.count_emission:
                 if word[0] in emissionPara:
                     temp = emissionPara.get(word[0])
@@ -47,7 +48,8 @@ class Counting:
                 
         return emissionPara
     
-    def countPerState(transmission):
+    def countPerState(self):
+        transmission = self.transCount()
         result = [0] * 9
         count = 0
         for i in transmission:
@@ -59,7 +61,9 @@ class Counting:
         return result
     
     #Transmission Parameters    
-    def transPara(transCount,countPerState):
+    def transPara(self):
+        transCount = self.transCount()
+        countPerState = self.countPerState()
         for i in range(0,9):
             for j in range(0,9):
                 if(countPerState[i]!=0):
@@ -67,7 +71,9 @@ class Counting:
         return transCount
     
     #Emission Parameters
-    def emissPara(emissCount,countPerState):
+    def emissPara(self):
+        emissCount = self.emissCount()
+        countPerState = self.countPerState()
         for word in emissCount:
             temp = emissCount.get(word)
             for i in range(0,9):
@@ -78,16 +84,6 @@ class Counting:
             emissCount[i] = 1/(countPerState[i] + 1)
         return emissCount
         
-fname = 'EN/dev.out';
-aha = parseData(fname);
-
-z = Counting.transCount(aha);
-x = Counting.emissCount(aha);
-c = Counting.countPerState(z);
-tranmissionParameters = Counting.transPara(z,c);
-emissionParameters = Counting.emissPara(x,c);
-
-
 #Testing
 # listofSentences = []      
 # count_transition = {(1,2): 5,(2,3): 6 }

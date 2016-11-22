@@ -1,4 +1,5 @@
 from heapq import nlargest
+from viterbi import log
 
 class PathNode:
 	def __init__(self, score, parent, state):
@@ -27,10 +28,9 @@ class ModifiedViterbi:
 				emis = self.emis[state_node[0].state]
 			else:
 				emis = self.emis[x[step-2]][state_node[0].state]
-			scores += map(lambda x: x.score*tran*emis , state_node)
+			scores += map(lambda x: x.score + log(tran*emis) , state_node)
 
 		# find the k best scores
-		#print(scores)
 		klargest = nlargest(k, scores)
 		if k > len(klargest):
 			k = klargest
@@ -44,7 +44,7 @@ class ModifiedViterbi:
 			else:
 				emis = self.emis[x[step-2]][state_node[0].state]
 			for path_node in state_node:
-				score = path_node.score*tran*emis
+				score = path_node.score+ log(tran*emis)
 				if score in klargest:
 					idx = klargest.index(score)
 					while parents[idx]:
@@ -64,13 +64,13 @@ class ModifiedViterbi:
 		# set node(0,0)
 		graph.append([]) 	# step
 		graph[0].append([]) # state node
-		graph[0][0].append(PathNode(1, None, 0))
+		graph[0][0].append(PathNode(0, None, 0))
 				
 		# step 1
 		graph.append([])
 		for j in range(1, t-1):
 			graph[1].append([])
-			graph[1][j-1].append(PathNode(self.tran[0][j], graph[0][0][0], j))
+			graph[1][j-1].append(PathNode(log(self.tran[0][j]), graph[0][0][0], j))
 
 		# step i - recursive step
 		for i in range(2, n+1): 
@@ -80,7 +80,6 @@ class ModifiedViterbi:
 				max_k = self.max_k_nodes(graph, i, j, x, k)
 				for a in range(len(max_k)):
 					graph[i][j-1].append(PathNode(max_k[0][a], max_k[1][a], j))
-			print(graph)
 
 		# step n+1
 		graph.append([])
@@ -88,7 +87,6 @@ class ModifiedViterbi:
 		graph[n+1].append([])
 		for a in range(k):
 			graph[n+1][0].append(PathNode(max_k[0][a], max_k[1][a], t-1))
-			print(graph)
 				
 		paths = []
 		for i in range(k):
@@ -100,20 +98,16 @@ class ModifiedViterbi:
 			paths.append(path)	
 		return paths
 
-tran = [[0, 0.5, 0, 0.5, 0],
-		[0, 0, 0.4, 0.4, 0.2],
-		[0, 0.2, 0, 0.2, 0.6],
-		[0, 0.4, 0.6, 0, 0],
-		[0, 0, 0, 0, 0]]
+# tran = [[0, 0.5, 0, 0.5, 0],
+# 		[0, 0, 0.4, 0.4, 0.2],
+# 		[0, 0.2, 0, 0.2, 0.6],
+# 		[0, 0.4, 0.6, 0, 0],
+# 		[0, 0, 0, 0, 0]]
 
-emis = {'a': [0, 0.4, 0.4, 0.2, 0],
-		'b': [0, 0.6, 0, 0.6, 0],
-		'c': [0, 0, 0.6, 0.2, 0],
-		1: 0.1, 2: 0.1, 3: 0.1}
+# emis = {'a': [0, 0.4, 0.4, 0.2, 0],
+# 		'b': [0, 0.6, 0, 0.6, 0],
+# 		'c': [0, 0, 0.6, 0.2, 0],
+# 		1: 0.1, 2: 0.1, 3: 0.1}
 
-# emis = {(1, 'a'): 0.4, (1, 'b'): 0.6, (1, 'c'): 0, (1): 0.1,
-#     (2, 'a'): 0.4, (2, 'b'): 0, (2, 'c'): 0.6, (2): 0.1,
-#     (3, 'a'): 0.2, (3, 'b'): 0.6, (3, 'c'): 0.2, (3): 0.1}
-
-v = ModifiedViterbi(tran, emis)
-print(v.decode("b b", 2))
+# v = ModifiedViterbi(tran, emis)
+# print(v.decode("a b", 2))
