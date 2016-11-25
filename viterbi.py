@@ -1,4 +1,5 @@
 import math
+from state_num_dictionary import *
 
 class Node:
 	def __init__(self, score, parent, state):
@@ -58,21 +59,9 @@ class Viterbi:
 			path.insert(0, next.parent.state)
 			next = next.parent
 
-		return path
+		for p in path:
+			sentence.state.append(num2state[p])
 
-	def simple_decode(self, sentence):
-		words = sentence.observation
-		path = []
-		for word in words:
-			emission = [0]
-			if word not in self.emis:
-				for i in range(1, self.number_of_states-1):
-					emission.append(self.emis[i])
-			else:
-				emission = self.emis[word]
-			print(emission)
-			path.append(emission.index(max(emission)))
-		return path
 
 def log(a):
 	if a==0:

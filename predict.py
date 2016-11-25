@@ -4,16 +4,22 @@ from viterbi import *
 from modified_viterbi import *
 from state_num_dictionary import *
 
-enFile = 'EN/dev.out'
-sentences = parseData(enFile)
-params = Counting(sentences)
+enTrainFile = 'EN/train'
+enTestFile = 'EN/dev.in'
+fout = 'EN/dev.p2.out'
+print('======= Test Output =======', file = open(fout,'w'))
+
+train_sentences = parseData(enTrainFile)
+test_sentences = parseData(enTestFile)
+
+params = Counting(train_sentences)
 
 tranParams = params.transPara()
 emisParams = params.emissPara()
 
-vit = ModifiedViterbi(tranParams, emisParams)
-for result in vit.decode("Starbucks is my favorite brand of coffee", 3):
-  print('========================')
-  for i in result:
-    print(num2state[i])
+for sentence in test_sentences:
+  vit = Viterbi(tranParams, emisParams)
+  for word in sentence:
+    print('{} {}'.(word,num2state[])
+
 
