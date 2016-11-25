@@ -61,7 +61,7 @@ for lang in ['EN','ES','SG','CN']:
         # part 4 
         fout = lang + '/dev.p4.out' 
         sentences_process = deepcopy(sentence_raw) 
-        algo_part3 = ModifiedViterbi(trans_par, emiss_par) 
+        algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
         for sen in sentences_process:
-            algo_part3.decode(sen, 5)
+            algo_part4.decode(sen, 5)
         printPrediction(sentences_process, fout, 5)
