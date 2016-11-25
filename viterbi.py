@@ -16,16 +16,18 @@ class Viterbi:
 	def max_node(self, graph, i, j, x):
 		max_score = -float('inf')
 		parent = None
+		if i > len(x): 	# STOP state
+			emis = 1
+		elif x[i-1] not in self.emis:
+			emis = self.emis[j]
+		else:
+			emis = self.emis[x[i-1]][j]
 		for node in graph[i-1]:
-			if x[i-2] not in self.emis:
-				emis = self.emis[node.state]
-			else:
-				emis = self.emis[x[i-2]][node.state]
 			score = node.score + log(self.tran[node.state][j]) + log(emis)
 			if max_score < score:
 				max_score = score
 				parent = node
-		return (max_score, parent)
+		return Node(max_score, parent, j)
 
 	def decode(self, sentence):
 		x = sentence.observation
@@ -37,21 +39,14 @@ class Viterbi:
 		graph.append([])
 		graph[0].append(Node(0, None, 0))
 
-		# time step 1
-		graph.append([])
-		for j in range(1, t-1):
-			graph[1].append(Node(log(self.tran[0][j]), graph[0][0], j))
-
-		for i in range(2, n+1):	#step i
+		for i in range(1, n+1):	#step i
 			graph.append([])
 			for j in range(1, t-1):
-				_max = self.max_node(graph, i, j, x)
-				graph[i].append(Node(_max[0], _max[1], j))
+				graph[i].append(self.max_node(graph, i, j, x))
 
-		# time step n+1
+		# step n+1
 		graph.append([])
-		_max = self.max_node(graph, n+1, t-1, x)
-		graph[n+1].append(Node(_max[0], _max[1], t-1))
+		graph[n+1].append(self.max_node(graph, n+1, t-1, x))
 
 		path = []
 		next = graph[n+1][0]
@@ -61,7 +56,6 @@ class Viterbi:
 
 		for p in path:
 			sentence.state.append(num2state[p])
-
 
 def log(a):
 	if a==0:

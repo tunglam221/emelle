@@ -17,9 +17,10 @@ params = Counting(train_sentences)
 tranParams = params.transPara()
 emisParams = params.emissPara()
 
+vit = Viterbi(tranParams, emisParams)
 for sentence in test_sentences:
-  vit = Viterbi(tranParams, emisParams)
-  for word in sentence:
-    print('{} {}'.(word,num2state[])
+  v = vit.decode(sentence)
+  for i in range(len(v)):
+    print('{} {}'.(sentence[i], num2state[])
 
 
