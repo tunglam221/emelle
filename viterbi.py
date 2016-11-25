@@ -10,6 +10,7 @@ class Viterbi:
 	def __init__(self, tran, emis):
 		self.tran = tran
 		self.emis = emis
+		self.number_of_states = len(tran)
 
 	def max_node(self, graph, i, j, x):
 		max_score = -float('inf')
@@ -26,9 +27,9 @@ class Viterbi:
 		return (max_score, parent)
 
 	def decode(self, sentence):
-		x = sentence.split()
+		x = sentence.observation
 		n = len(x)
-		t = len(self.tran)
+		t = self.number_of_states
 		graph = []
 
 		# set node(0,0)
@@ -57,6 +58,20 @@ class Viterbi:
 			path.insert(0, next.parent.state)
 			next = next.parent
 
+		return path
+
+	def simple_decode(self, sentence):
+		words = sentence.observation
+		path = []
+		for word in words:
+			emission = [0]
+			if word not in self.emis:
+				for i in range(1, self.number_of_states-1):
+					emission.append(self.emis[i])
+			else:
+				emission = self.emis[word]
+			print(emission)
+			path.append(emission.index(max(emission)))
 		return path
 
 def log(a):
