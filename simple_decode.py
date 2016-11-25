@@ -16,7 +16,6 @@ class SimpleDecode:
           emission.append(self.emis[i])
       else:
         emission = self.emis[word]
-      print(emission)
       path.append(emission.index(max(emission)))
     for p in path:
       sentence.state.append(num2state[p])
