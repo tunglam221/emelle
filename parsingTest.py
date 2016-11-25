@@ -1,6 +1,6 @@
 from parsing import *
 
-fname = 'EN/dev.out'
+fname = 'EN/dev.in'
 fout = 'parsingTest.out'
 print('======= Test Output =======', file = open(fout,'w'))
 

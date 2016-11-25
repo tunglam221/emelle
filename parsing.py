@@ -89,10 +89,11 @@ def parseData(inputFile):
     else:
         obs = [checkLabel[0]];
         for line in fin:
-            word = line.strip()
+            word = line.strip().split()
             if word:
                 obs.append(word[0])
             else:
                 sen = Sentence(obs,[])
+                obs = []
                 vecSentence.append(sen)
     return vecSentence
