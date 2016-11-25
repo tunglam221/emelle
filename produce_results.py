@@ -21,6 +21,7 @@ def printPrediction(sentences, fout, k):
         observation = sen.observation
 
         for it in range(0,len(state)):
+            print(observation[it],state[it], file = open(fout,'a'))
         print('', file = open(fout,'a'))
 
 
@@ -36,7 +37,6 @@ for lang in ['EN','ES','SG','CN']:
     learn = Counting(sentences_labelled) 
     trans_par = learn.transPara() 
     emiss_par = learn.emissPara()
-    print(emiss_par['New'])
 
     # parse the data to be predicted
     sentences_raw = parseData(fname_pre)
@@ -60,7 +60,7 @@ for lang in ['EN','ES','SG','CN']:
     if (lang == 'EN' or lang == 'ES'): 
         # part 4 
         fout = lang + '/dev.p4.out' 
-        sentences_process = deepcopy(sentence_raw) 
+        sentences_process = deepcopy(sentences_raw) 
         algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
         for sen in sentences_process:
             algo_part4.decode(sen, 5)
