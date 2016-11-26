@@ -145,18 +145,18 @@ def get_observed(observed):
     return observations
 
 #Print Results and deal with division by 0
-def printResult(evalTarget, num_correct, prec, rec):
+def printResult(evalTarget, num_correct, prec, rec, fout):
     if abs(prec + rec ) < 1e-6:
         f = 0
     else:
         f = 2 * prec * rec / (prec + rec)
-    print('#Correct', evalTarget, ':', num_correct)
-    print(evalTarget, ' precision: %.4f' % (prec))
-    print(evalTarget, ' recall: %.4f' %   (rec))
-    print(evalTarget, ' F: %.4f' % (f))
+    print('#Correct', evalTarget, ':', num_correct, file = open(fout,'a'))
+    print(evalTarget, ' precision: %.4f' % (prec), file = open(fout,'a'))
+    print(evalTarget, ' recall: %.4f' %   (rec), file = open(fout,'a'))
+    print(evalTarget, ' F: %.4f' % (f), file = open(fout,'a'))
 
 #Compare results bewteen gold data and prediction data
-def compare_observed_to_predicted(observed, predicted):
+def compare_observed_to_predicted(observed, predicted, fout):
 
     correct_sentiment = 0
     correct_entity = 0
@@ -197,45 +197,27 @@ def compare_observed_to_predicted(observed, predicted):
                     if span_sent == sent:
                         correct_sentiment += 1
 
-    print()
-    print('#Entity in gold data: %d' % (total_observed))
-    print('#Entity in prediction: %d' % (total_predicted))
-    print()
+    print('', file = open(fout,'a'))
+    print('#Entity in gold data: %d' % (total_observed), file = open(fout,'a'))
+    print('#Entity in prediction: %d' % (total_predicted), file = open(fout,'a'))
+    print('', file = open(fout,'a'))
 
     prec = correct_entity/total_predicted
     rec = correct_entity/total_observed
-    printResult('Entity', correct_entity, prec, rec)
-    print()
+    printResult('Entity', correct_entity, prec, rec, fout)
+    print('', file = open(fout,'a'))
 
     prec = correct_sentiment/total_predicted
     rec = correct_sentiment/total_observed
-    printResult('Sentiment',correct_sentiment, prec, rec)
+    printResult('Sentiment',correct_sentiment, prec, rec, fout)
 
 
 
 
 ##############Main Function##################
 
-if len(sys.argv) < 3:
-    print ('Please make sure you have installed Python 3.4 or above!')
-    print ("Usage on Windows:  python evalResult.py gold predictions")
-    print ("Usage on Linux/Mac:  python3 evalResult.py gold predictions")
-    sys.exit()
-
-gold = open(sys.argv[1], "r", encoding='UTF-8')
-prediction = open(sys.argv[2], "r", encoding='UTF-8')
-
 #column separator
 separator = ' '
 
 #the column index for tags
 outputColumnIndex = 1
-#Read Gold data
-observed = get_observed(gold)
-
-#Read Predction data
-predicted = get_predicted(prediction)
-
-#Compare
-compare_observed_to_predicted(observed, predicted)
-
