@@ -87,17 +87,3 @@ class ModifiedViterbi:
 			for p in path:
 				sentence.state[i].append(num2state[p])
 
-
-# tran = [[0, 0.5, 0, 0.5, 0],
-# 		[0, 0, 0.4, 0.4, 0.2],
-# 		[0, 0.2, 0, 0.2, 0.6],
-# 		[0, 0.4, 0.6, 0, 0],
-# 		[0, 0, 0, 0, 0]]
-
-# emis = {'a': [0, 0.4, 0.4, 0.2, 0],
-# 		'b': [0, 0.6, 0, 0.6, 0],
-# 		'c': [0, 0, 0.6, 0.2, 0],
-# 		1: 0.1, 2: 0.1, 3: 0.1}
-
-# v = ModifiedViterbi(tran, emis)
-# v.decode("b a", 2)

@@ -50,7 +50,8 @@ class Sentence:
 def parseData(inputFile):
 
     # Input: the name of a file
-    # Output: a list of Sentences, with finished counting
+    # Output: a list of Sentences, with finished counting (if labelled) 
+    #         a list of Sentences without observation and empty state (if unlabelled)
 
     fin = open(inputFile, encoding="utf8")
     vecSentence = []

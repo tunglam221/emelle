@@ -1,3 +1,5 @@
+# Using only emission parameter to predict
+
 from state_num_dictionary import *
 
 class SimpleDecode:

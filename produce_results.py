@@ -26,6 +26,10 @@ def printPrediction(sentences, fout, k):
         print('', file = open(fout,'a'))
 
 def printEvaluation(fpre, fgold, fout):
+    # input:
+    #       fpre, prediction file name
+    #       fgold, golden standard file name
+    #       fout, output file name
     gold = open(fgold, 'r', encoding='UTF-8')
     prediction = open(fpre, 'r', encoding='UTF-8')
 

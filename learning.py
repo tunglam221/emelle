@@ -1,13 +1,3 @@
-# class Sentence:
-    
-#     def __init__(self,observation,count_transition,count_emission):
-#         #Observations
-#         self.observation = observation
-#         #Form of Dictionary {(i,j):count, ....}
-#         self.count_transition = count_transition
-#         #Form of Dictionary {('Pandora',3):count, .....} 
-#         self.count_emission = count_emission
-        
 class Counting:
 
     def __init__(self, sentences):
@@ -48,6 +38,7 @@ class Counting:
                 
         return emissionPara
     
+    # Output: total state count
     def countPerState(self):
         transmission = self.transCount()
         result = [0] * 9
@@ -80,31 +71,9 @@ class Counting:
                 temp[i] = temp[i]/(countPerState[i]+1)
             emissCount[word] = temp
             
+        # Parameter for potential unseen data
         for i in range(0,9):
             emissCount[i] = 1/(countPerState[i] + 1)
         return emissCount
-        
-#Testing
-# listofSentences = []      
-# count_transition = {(1,2): 5,(2,3): 6 }
-# count_emission =  {('Pandora',3):1 , ('Pandora',6):7 ,('Lam',7):1, ('Nata',1):5} 
-# count_transition1 = {(7,8): 8,(4,5): 2, (6,7):2 , (1,2):5}
-# count_emission1 =  {('Stanley',7):1 , ('Anker',3):7 ,('Lam',7):1, ('Nata',1):5, ('Pandora',6):7} 
-# listofSentences.append(Sentence(["a","b"],count_transition,count_emission))
-# listofSentences.append(Sentence(["a","b"],count_transition1,count_emission1))
-# print("Tramission Count :")
-# z = Counting.transCount(listofSentences)
-# print(z)
-# print("Emission Count :")
-# x = Counting.emissCount(listofSentences)
-# print(x)
-# print("Count Per State :")
-# c = Counting.countPerState(z)
-# print(c)
-# print("Tramission Parameter :")
-# print(Counting.transPara(z,c))
-# print("Emission Parameter :")
-# print(Counting.emissPara(x,c))
-
 
 
