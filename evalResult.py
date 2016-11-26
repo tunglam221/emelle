@@ -213,8 +213,7 @@ def compare_observed_to_predicted(observed, predicted, fout):
 
 
 
-
-##############Main Function##################
+#### parameters ####
 
 #column separator
 separator = ' '
