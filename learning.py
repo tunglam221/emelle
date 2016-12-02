@@ -70,10 +70,16 @@ class Counting:
             for i in range(0,9):
                 temp[i] = temp[i]/(countPerState[i]+1)
             emissCount[word] = temp
+
+        for word in emissCount:
+            avg = sum(emissCount.get(word))/9.0
+            temp = emissCount.get(word)
+            for j in range(0,9):
+                temp[j] += avg
+            emissCount[word] = temp
             
         # Parameter for potential unseen data
         for i in range(0,9):
             emissCount[i] = 1/(countPerState[i] + 1)
+
         return emissCount
-
-
