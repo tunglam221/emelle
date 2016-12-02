@@ -22,7 +22,7 @@ def printPrediction(sentences, fout, k):
         observation = sen.observation
 
         for it in range(0,len(state)):
-            print(observation[it],state[it], file = open(fout,'a'))
+            print(observation[it],state[it], file = open(fout,'a',encoding='UTF-8'))
         print('', file = open(fout,'a'))
 
 def printEvaluation(fpre, fgold, fout):
