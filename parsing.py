@@ -1,10 +1,13 @@
 import state_num_dictionary
+from copy import deepcopy
 
 class Sentence: 
 
     def __init__(self, observation, state):
+        # raw observation
+        self.raw_observation = observation
         # observations, array of words
-        self.observation = observation
+        self.observation = []
         # state, array of strings
         self.state = state
         # dictionary {'San Francisco':'positive', ...} 
@@ -17,6 +20,17 @@ class Sentence:
         self.count_transition = None 
         # dictionary {('Pandora',3):count, ...}
         self.count_emission = None
+
+    def clean(self):
+        # change upper case to lower case
+        # remove special characters
+        # ATTENTION: called in parseDate() already
+        for word in self.raw_observation:
+            clean_word = word.lower()
+            for c in clean_word:
+                if (c in '@#') & (len(word) != 1):
+                    clean_word = word.replace(c,'')
+            self.observation.append(clean_word)
 
     def count(self):
         # only works for labelled data
@@ -82,6 +96,7 @@ def parseData(inputFile):
             else: 
                 sen = Sentence(obs, lab)
                 sen.entity = entity
+                sen.clean()
                 sen.count()
                 entity = {}
                 obs = []
@@ -95,6 +110,7 @@ def parseData(inputFile):
                 obs.append(word[0])
             else:
                 sen = Sentence(obs,[])
+                sen.clean()
                 obs = []
                 vecSentence.append(sen)
     return vecSentence
