@@ -13,7 +13,9 @@ class Sentence:
         # dictionary {'San Francisco':'positive', ...} 
         # <entity>:<state>
         # not converted to numbers
-        self.entity = None
+        self.raw_entity = None
+        # cleaned keys in self.entity
+        self.entity = {}
         # bool
         self.isLabelled = False
         # dictionary {(i,j):count, ...}
@@ -35,6 +37,8 @@ class Sentence:
         for word in self.raw_observation:
             clean_word = self.clean_word(word)
             self.observation.append(clean_word)
+        for key in self.raw_entity:
+            self.entity[self.clean_word(key)] = self.raw_entity[key]
 
     def count(self):
         # only works for labelled data
@@ -99,7 +103,11 @@ def parseData(inputFile):
                     entity_state = ''
             else: 
                 sen = Sentence(obs, lab)
-                sen.entity = entity
+                if bool(entity_name) :
+                    entity[entity_name] = entity_state
+                    entity_name = ''
+                    entity_state = ''
+                sen.raw_entity = entity
                 sen.clean()
                 sen.count()
                 entity = {}
