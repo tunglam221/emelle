@@ -1,5 +1,6 @@
 import state_num_dictionary
 from copy import deepcopy
+from collections import OrderedDict
 
 class Sentence: 
 
@@ -12,6 +13,7 @@ class Sentence:
         self.state = state
         # dictionary {'San Francisco':'positive', ...} 
         # <entity>:<state>
+        # possible states: 'positive', 'neutral', 'negative'
         # not converted to numbers
         self.raw_entity = None
         # cleaned keys in self.entity
@@ -24,10 +26,16 @@ class Sentence:
         self.count_emission = None
 
     def clean_word(self, s):
+        special_endstart = ',.\'\":'
         ret = s.lower()
-        for c in ret:
-            if (c in '@#') & (len(s) != 1):
-                ret = ret.replace(c,'')
+        if (len(s) != 1):
+            for c in ret:
+                if (c in '@#'):
+                    ret = ret.replace(c,'')
+                if (s.startswith(special_endstart)):
+                    ret = ret[1:]
+                if (s.endswith(special_endstart)):
+                    ret = ret[:-1]
         return ret
 
     def clean(self):
@@ -37,8 +45,9 @@ class Sentence:
         for word in self.raw_observation:
             clean_word = self.clean_word(word)
             self.observation.append(clean_word)
-        for key in self.raw_entity:
-            self.entity[self.clean_word(key)] = self.raw_entity[key]
+        if self.raw_entity != None:
+            for key in self.raw_entity:
+                self.entity[self.clean_word(key)] = self.raw_entity[key]
 
     def count(self):
         # only works for labelled data
@@ -60,7 +69,7 @@ class Sentence:
                 else:
                     ctrans[tup] = 1
             ctrans[(state_num[len(state_num)-1],8)] = 1
-            for it in range(1,len(state)):
+            for it in range(0,len(state)):
                 etup = (observation[it],state_num[it])
                 if etup in cemiss:
                     cemiss[etup] += 1
@@ -68,6 +77,50 @@ class Sentence:
                     cemiss[etup] = 1
             self.count_transition = ctrans
             self.count_emission = cemiss
+
+    def findEntity(self, ent_dict):
+        # input: dictionary of entities, 
+        #        key: cleaned entities
+        #        values: state of entities
+        # output: [(a,b),(c,d),...] range of entities, format [a,b)
+        obs = self.observation
+        ret = [None] * len(obs)
+        entity_range = {}   # indeces pairs that given range of entities
+
+        for entity in ent_dict:
+            entity_vec = entity.split()
+            length = len(entity_vec)
+            init_loc = []   # possible inital locations of the entity
+            if (entity_vec[0] in obs):
+                for i in range(0,len(obs)):
+                    if obs[i] == entity_vec[0]:
+                        init_loc.append(i)
+            for loc in init_loc:
+                it = 1;
+                while (it != length) and ((loc + it) < len(obs)) and (entity_vec[it] == obs[loc + it]):
+                    it += 1
+                if it == length:
+                    entity_range[loc] = it + loc
+
+        sorted_entity_range = OrderedDict(sorted(entity_range.items()))
+        lower = 0
+        for key in sorted_entity_range:
+            if key >= lower:
+                ret[key] = 'B' 
+                for i in range(key+1, sorted_entity_range[key]):
+                    ret[i] = 'I'
+                lower = sorted_entity_range[key]
+
+        for it in ret:
+            if (it ==None):
+                ind = ret.index(it)
+                if (obs[ind] in '\'\"................,:;/\!@#$%^*()-=+_{}[])') or ('http://' in obs[ind]):
+                    ret[ind] = 'O'
+                else:
+                    ret[ind] = 'X'
+
+        return ret
+
 
 def parseData(inputFile):
 
