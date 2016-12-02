@@ -62,7 +62,7 @@ class Sentence:
             ctrans = {}
             ctrans[(0, state_num[0])] = 1
             cemiss = {}
-            for it in range(1,len(state)-1):
+            for it in range(0,len(state)-1):
                 tup = (state_num[it],state_num[it+1])
                 if tup in ctrans:
                     ctrans[tup] += 1
