@@ -76,48 +76,4 @@ class Counting:
             emissCount[i] = 1/(countPerState[i] + 1)
         return emissCount
 
-    def entity_dict(self):
-        result = {}
-        for sentence in self.sentences:
-            for entity in sentence.entity:
-                if entity in result:
-                    if sentence.entity[entity] == "positive":
-                        result[entity][0] += 1
-                    elif sentence.entity[entity] == "neutral":
-                        result[entity][1] += 1
-                    else:
-                        result[entity][2] += 1
-
-                else:
-                    if sentence.entity[entity] == "positive":
-                        array = [1,0,0]
-                    elif sentence.entity[entity] == "neutral":
-                        array = [0,1,0]
-                    else:
-                        array = [0,0,1]
-                    result[entity] = array
-        return result
-
-    def entity_state_count(self):
-        entity_total = [0,0,0]
-        entity_dict = self.entity_dict()
-        for entity in entity_dict:
-            entity_total = [x + y for x, y in zip(entity_total,entity_dict[entity])]
-        return entity_total
-
-    def entity_emis(self):
-        result = {}
-        entity_dict = self.entity_dict()
-        entity_total = self.entity_state_count()
-        for entity in entity_dict:
-            temp = [0,0,0]
-            for i in range(3):
-                if entity_total[i]!=0:
-                    temp[i] = entity_dict[entity][i]/entity_total[i]
-            result[entity] = temp
-        return result
-
-
-
-
 
