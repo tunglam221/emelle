@@ -26,10 +26,16 @@ class Sentence:
         self.count_emission = None
 
     def clean_word(self, s):
+        special_endstart = ',.\'\":'
         ret = s.lower()
-        for c in ret:
-            if (c in '@#') & (len(s) != 1):
-                ret = ret.replace(c,'')
+        if (len(s) != 1):
+            for c in ret:
+                if (c in '@#'):
+                    ret = ret.replace(c,'')
+                if (s.startswith(special_endstart)):
+                    ret = ret[1:]
+                if (s.endswith(special_endstart)):
+                    ret = ret[:-1]
         return ret
 
     def clean(self):
@@ -39,8 +45,9 @@ class Sentence:
         for word in self.raw_observation:
             clean_word = self.clean_word(word)
             self.observation.append(clean_word)
-        for key in self.raw_entity:
-            self.entity[self.clean_word(key)] = self.raw_entity[key]
+        if self.raw_entity != None:
+            for key in self.raw_entity:
+                self.entity[self.clean_word(key)] = self.raw_entity[key]
 
     def count(self):
         # only works for labelled data
@@ -107,7 +114,7 @@ class Sentence:
         for it in ret:
             if (it ==None):
                 ind = ret.index(it)
-                if (obs[ind] in '/\!@#$%^*()-=+_{}[])'):
+                if (obs[ind] in '\'\"................,:;/\!@#$%^*()-=+_{}[])') or ('http://' in obs[ind]):
                     ret[ind] = 'O'
                 else:
                     ret[ind] = 'X'
