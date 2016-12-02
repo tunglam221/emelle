@@ -21,15 +21,19 @@ class Sentence:
         # dictionary {('Pandora',3):count, ...}
         self.count_emission = None
 
+    def clean_word(self, s):
+        ret = s.lower()
+        for c in ret:
+            if (c in '@#') & (len(s) != 1):
+                ret = ret.replace(c,'')
+        return ret
+
     def clean(self):
         # change upper case to lower case
         # remove special characters
         # ATTENTION: called in parseDate() already
         for word in self.raw_observation:
-            clean_word = word.lower()
-            for c in clean_word:
-                if (c in '@#') & (len(word) != 1):
-                    clean_word = clean_word.replace(c,'')
+            clean_word = self.clean_word(word)
             self.observation.append(clean_word)
 
     def count(self):
