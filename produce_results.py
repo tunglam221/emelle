@@ -47,7 +47,7 @@ def printEvaluation(fpre, fgold, fout):
 fname_eval = 'results.out'
 print('', end = '', file = open(fname_eval,'w'))
 
-for lang in ['EN','ES','SG','CN']:
+for lang in ['EN','ES']:
     fname_learn = lang + '/train'
     fname_pre = lang + '/dev.in'
     fname_gold = lang + '/dev.out'
@@ -67,16 +67,7 @@ for lang in ['EN','ES','SG','CN']:
     # parse the data to be predicted
     sentences_raw = parseData(fname_pre)
 
-    # part 2
-    fout = lang + '/dev.p2.out'
-    sentences_process = deepcopy(sentences_raw)
-    algo_part2 = SimpleDecode(trans_par, emiss_par) 
-    for sen in sentences_process:
-        algo_part2.simple_decode(sen)
-    printPrediction(sentences_process, fout, 0)
-    printEvaluation(fout, fname_gold, fname_eval)
-
-    # part 3
+    # challeng viterbi
     fout = lang + '/dev.p3.out'
     sentences_process = deepcopy(sentences_raw)
     algo_part3 = Viterbi(trans_par, emiss_par) 
@@ -85,12 +76,11 @@ for lang in ['EN','ES','SG','CN']:
     printPrediction(sentences_process, fout, 0)
     printEvaluation(fout, fname_gold, fname_eval)
 
-    if (lang == 'EN' or lang == 'ES'): 
-        # part 4 
-        fout = lang + '/dev.p4.out' 
-        sentences_process = deepcopy(sentences_raw) 
-        algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
-        for sen in sentences_process:
-            algo_part4.decode(sen, 5)
-        printPrediction(sentences_process, fout, 5)
-        printEvaluation(fout, fname_gold, fname_eval)
+    # challenge modified viterbi 
+    fout = lang + '/dev.p4.out' 
+    sentences_process = deepcopy(sentences_raw) 
+    algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
+    for sen in sentences_process:
+        algo_part4.decode(sen, 5)
+    printPrediction(sentences_process, fout, 5)
+    printEvaluation(fout, fname_gold, fname_eval)

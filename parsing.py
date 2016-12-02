@@ -29,7 +29,7 @@ class Sentence:
             clean_word = word.lower()
             for c in clean_word:
                 if (c in '@#') & (len(word) != 1):
-                    clean_word = word.replace(c,'')
+                    clean_word = clean_word.replace(c,'')
             self.observation.append(clean_word)
 
     def count(self):
