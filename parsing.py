@@ -69,7 +69,7 @@ class Sentence:
                 else:
                     ctrans[tup] = 1
             ctrans[(state_num[len(state_num)-1],8)] = 1
-            for it in range(1,len(state)):
+            for it in range(0,len(state)):
                 etup = (observation[it],state_num[it])
                 if etup in cemiss:
                     cemiss[etup] += 1
