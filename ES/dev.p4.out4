@@ -1,27 +1,27 @@
-espn_fdj O
-rortiz_espn O
+ESPN_FDJ B-negative
+Rortiz_ESPN I-negative
 en O
 que O
 linea O
 tiene O
 que O
-apuntalar O
+apuntalar B-negative
 el O
-barcelona B-neutral
+barcelona O
 con O
 un O
 fichaje B-positive
 ?????????? I-positive
 
-musa_dynamite B-neutral
+Musa_Dynamite B-negative
 ya O
 te O
 respond\xed O
 en O
 fb B-neutral
 
-chavezcandanga O
-bolivar O
+chavezcandanga B-negative
+bolivar I-negative
 mi O
 comandante O
 qiero O
@@ -31,7 +31,7 @@ q O
 en O
 cabimas O
 lo O
-admirams O
+admirams B-negative
 q O
 no O
 dscansarmos O
@@ -44,7 +44,7 @@ revolucionada B-neutral
 
 he O
 publicado O
-133 O
+133 B-positive
 fotos O
 en O
 facebook B-neutral
@@ -66,7 +66,7 @@ hell" I-negative
 y O
 volver O
 a O
-nacer O
+nacer B-negative
 como O
 un O
 abstemio O
@@ -89,7 +89,7 @@ d\xeda O
 de O
 muertos O
 
-gassan7 B-neutral
+Gassan7 B-neutral
 ve O
 que O
 raro O
@@ -97,7 +97,7 @@ webon O
 yo O
 si O
 estoy O
-consentradisimo O
+consentradisimo B-negative
 en O
 twitter B-negative
 hee I-negative
@@ -112,7 +112,7 @@ todo O
 lo O
 puedo O
 en O
-cristo O
+cristo B-neutral
 qe O
 me O
 fortalece O
@@ -130,7 +130,7 @@ vas O
 a O
 traer O
 el O
-aparato O
+aparato B-negative
 hoy O
 
 dia O
@@ -139,28 +139,28 @@ clasico B-negative
 209 I-negative
 entre O
 el O
-america B-positive
+america O
 y O
 chivas O
 , O
 espero O
 gane O
 mi O
-america B-positive
+america O
 y O
 asi O
-ganar\xe9 O
-na O
-gorditas O
+ganar\xe9 B-negative
+na I-negative
+gorditas I-negative
 my O
-ricas O
+ricas B-positive
 ... O
 mmmmmmmm O
 ....... O
 
-agd1ta B-negative
+Agd1ta B-negative
 noenserio I-negative
-amigoscracks I-negative
+AmigosCracks I-negative
 ay O
 si O
 , O
@@ -169,11 +169,11 @@ pac\xedfica O
 , O
 la O
 mas O
-jipi B-negative
-. I-negative
-callate I-negative
-ana B-neutral
-ksjdksjskdjksjdd I-neutral
+jipi B-positive
+. I-positive
+callate I-positive
+ana B-positive
+ksjdksjskdjksjdd I-positive
 
 ron B-neutral
 mueck I-neutral
@@ -188,7 +188,7 @@ y I-negative
 df I-negative
 pen\xfaltima I-negative
 regi\xf3n O
-http://t.co/fczdkfm6 B-neutral
+http://t.co/fczdkfm6 O
 
 paulocoelho B-negative
 estraordinario I-negative
@@ -196,7 +196,7 @@ texto O
 maestro O
 coelho O
 ... O
-suas O
+suas B-negative
 obras O
 transforman B-negative
 vidas I-negative
@@ -226,11 +226,11 @@ obra O
 de O
 arte O
 ... O
-abstracto O
+abstracto B-negative
 ! O
 
-crisifurga B-negative
-djalexa I-negative
+crisifurga B-positive
+djalexa I-positive
 se O
 te O
 van O
@@ -238,9 +238,9 @@ de O
 la O
 mano O
 las O
-sesiones B-neutral
+sesiones O
 
-claramentercn B-neutral
+ClaramenteRCN B-positive
 sera O
 que O
 seguimos O
@@ -248,21 +248,21 @@ viendo O
 la O
 novela O
 del O
-joe B-negative
+joe O
 despues O
 de O
 esto O
 http://t.co/hettza4 B-neutral
 
-vamos O
-barca B-neutral
+vamos B-neutral
+barca I-neutral
 !!!! O
 
 y O
 gonzalez O
 ya O
 esta O
-2/0 O
+2/0 B-positive
 !!! O
 vamos O
 fe\xf1aaa O
@@ -282,8 +282,8 @@ villas I-negative
 y I-negative
 castillos I-negative
 ... O
-\xbfq B-negative
-vendr\xe1 I-negative
+\xbfq B-positive
+vendr\xe1 I-positive
 en O
 el O
 futuro O
@@ -314,9 +314,9 @@ a O
 mama O
 tambien O
 , O
-qkis O
+qkis B-negative
 , O
-jorge B-neutral
+jorge B-positive
 , O
 brenda O
 , O
@@ -328,7 +328,7 @@ vale O
 , O
 chino B-neutral
 
-notidiario B-neutral
+notidiario B-negative
 
 homerorodas O
 te O
@@ -353,7 +353,7 @@ noticias O
 con O
 el O
 corazon O
-apretado O
+apretado B-positive
 y O
 las O
 lagrimas O
@@ -378,12 +378,12 @@ las O
 20 O
 supersticiones O
 m\xe1s O
-famosas B-negative
-http://t.co/ogrk5mum I-negative
+famosas B-positive
+http://t.co/ogrk5mum I-positive
 v\xeda O
 msn_noticias_es B-neutral
 
-deborahhmc B-neutral
+DeborahhMC B-neutral
 a O
 mi O
 tb O
@@ -394,7 +394,7 @@ se O
 por O
 qu\xe9 O
 lo O
-crucifican O
+crucifican B-negative
 tanto O
 , O
 no O
@@ -409,7 +409,7 @@ la O
 ena O
 ! O
 
-\u201c O
+\u201c B-neutral
 @ O
 victoralegre O
 : O
@@ -422,13 +422,13 @@ relativa O
 " O
 care O
 raja O
-sinverguenza.\u201d O
+sinverguenza.\u201d B-negative
 // O
 +100000000 B-neutral
 
-chavezcandanga O
-chavez B-positive
-revisen I-positive
+chavezcandanga B-negative
+chavez I-negative
+revisen I-negative
 un O
 dinero O
 que O
@@ -443,7 +443,7 @@ unos O
 cheques O
 en O
 la O
-gobernacion B-neutral
+gobernacion O
 
 :-) O
 rt O
@@ -452,7 +452,7 @@ rt O
 elecodiario O
 : O
 # O
-corremarianocorre O
+corremarianocorre B-negative
 : O
 twitter B-positive
 reacciona I-positive
@@ -466,7 +466,7 @@ el B-neutral
 senado I-neutral
 http://t.co/kcq2e8at" I-neutral
 via O
-eleconomistaes B-neutral
+elEconomistaes B-neutral
 
 los O
 que O
@@ -476,7 +476,7 @@ los O
 jugadores O
 fueron O
 : O
-suazo O
+suazo B-positive
 , O
 bravo O
 y O
@@ -502,11 +502,11 @@ que O
 el O
 mensaje O
 de O
-calder\xf3n B-negative
+calder\xf3n O
 ante O
-consejeros B-neutral
-del I-neutral
-pan I-neutral
+consejeros O
+del O
+pan O
 , O
 es O
 la O
@@ -537,8 +537,8 @@ empieze O
 las O
 noticias O
 de O
-adela B-negative
-micha\n I-negative
+adela B-positive
+micha\n I-positive
 : O
 ) O
 
@@ -562,7 +562,7 @@ jejeje O
 como O
 ta O
 la O
-pauli O
+pauli B-negative
 ? O
 ) O
 
@@ -575,7 +575,7 @@ el O
 de O
 diciembre O
 de O
-1531 O
+1531 B-positive
 fue O
 la O
 aparici\xf3n O
@@ -588,7 +588,7 @@ en O
 m\xe9xico." B-neutral
 
 el O
-rol O
+rol B-negative
 del O
 nuevo O
 docente O
@@ -602,19 +602,19 @@ laura\xa0rossaro I-positive
 scoopit B-positive
 http://t.co/trweuiyc I-positive
 
-moniklejandra B-neutral
+Moniklejandra B-positive
 le O
 voy O
 a O
 pedir O
 a O
 los O
-reyes B-neutral
+reyes O
 , O
 para O
 vos O
 y O
-diego B-positive
+diego O
 ... O
 no O
 para O
@@ -623,8 +623,8 @@ y O
 para O
 juan B-neutral
 !! O
-c B-negative
-heee I-negative
+c O
+heee O
 q O
 falta O
 d O
@@ -632,15 +632,15 @@ respeto O
 .. O
 ! O
 
-livi_padron B-neutral
+Livi_Padron B-positive
 jajajaja O
 !!! O
 esa O
 canci\xf3n O
 represento O
 a O
-daniel B-positive
-docal I-positive
+daniel B-neutral
+docal I-neutral
 !!! O
 =) O
 que O
@@ -650,16 +650,16 @@ c\xf3mico O
 est\xe1 O
 adriana O
 ? O
-ayudemos O
-a O
-buscarla O
+ayudemos B-negative
+a I-negative
+buscarla I-negative
 . O
 en O
 argentina O
 as\xed O
 se O
 han O
-localizado O
+localizado B-negative
 a O
 chica B-neutral
 s: I-neutral
@@ -671,11 +671,11 @@ de O
 enero O
 vea O
 a O
-miguel B-neutral
+miguel O
 angel B-positive
 rodriguez I-positive
 por O
-antv B-negative
+antv B-neutral
 . O
 
 la O
@@ -687,10 +687,10 @@ atribuye O
 al O
 periodista O
 ingl\xe9s O
-arthur B-neutral
-wynne I-neutral
+arthur O
+wynne O
 que O
-trabaj\xf3 O
+trabaj\xf3 B-negative
 en O
 el O
 diario O
@@ -699,8 +699,8 @@ york O
 world B-neutral
 . I-neutral
 
-perdomoliliana B-negative
-amiguita I-negative
+PerdomoLiliana B-positive
+amiguita I-positive
 muy O
 triste O
 no O
@@ -712,7 +712,7 @@ y O
 dile O
 a O
 tu O
-esposito O
+esposito B-negative
 que O
 se O
 le O
@@ -739,12 +739,12 @@ video O
 del O
 a\xf1o O
 : O
-http://t.co/gbkuwfgt O
+http://t.co/gbkuwfgt B-negative
 ! O
 \xa1 B-neutral
 
 amo O
-casiangeles O
+casiangeles B-negative
 y O
 un O
 saludo O
@@ -791,12 +791,12 @@ pa\xeds O
 . O
 empez\xf3 O
 la O
-ca\xedda O
-. O
+ca\xedda B-neutral
+. I-neutral
 
 arriba O
-alianza B-positive
-lima I-positive
+alianza O
+lima B-positive
 crjo I-positive
 .. O
 !! O
@@ -807,9 +807,9 @@ cerca O
 del O
 campeonato O
 
-diegotorres B-neutral
+diegotorres B-negative
 
-anitaquintana87 B-neutral
+anitaquintana87 B-negative
 hola O
 anita B-positive
 cuentame I-positive
@@ -834,20 +834,20 @@ plantillas B-negative
 descomunales I-negative
 , O
 y O
-mou B-negative
+mou O
 ha O
 hecho O
 cosas O
 descomunales O
 con O
-plantillas O
+plantillas B-negative
 muy O
 buenas O
 . O
 
 \xa1reciente B-neutral
 ! O
--&gt O
+-&gt B-negative
 ; O
 :: B-negative
 rese\xf1a I-negative
@@ -863,7 +863,7 @@ unos O
 nenes" B-positive
 http://t.co/oymqok50 I-positive
 
-uuu B-neutral
+uuu B-negative
 de O
 que O
 ya O
@@ -884,8 +884,8 @@ in5 B-neutral
 tigres I-neutral
 1 O
 - O
-leones B-neutral
-5" I-neutral
+leones B-positive
+5" I-positive
 
 onu B-neutral
 conmemorar\xe1 I-neutral
@@ -904,7 +904,7 @@ el O
 d\xeda O
 del O
 no O
-intervencionismo O
+intervencionismo B-negative
 ? O
 
 error O
@@ -921,9 +921,9 @@ ir O
 a O
 un O
 club O
-ascendido B-neutral
-de I-neutral
-chile I-neutral
+ascendido B-negative
+de O
+chile O
 ( O
 @ O
 pasiongallina O
@@ -931,7 +931,7 @@ live O
 on O
 http://t.co/poxfkteb) B-neutral
 
-johny B-neutral
+johny B-negative
 , O
 la O
 gente O
@@ -941,7 +941,7 @@ pinche O
 borrega O
 wtf O
 
-la O
+la B-neutral
 ue O
 aprueba O
 compra O
@@ -964,14 +964,14 @@ tener O
 esperanza O
 , O
 no O
-habr\xe9 O
+habr\xe9 B-positive
 vivido O
 en O
 vano.\n\nmartin B-neutral
 luther I-neutral
 king I-neutral
 
-pmsnnoticias B-neutral
+PMSNNoticias O
 no O
 , O
 porque O
@@ -979,7 +979,7 @@ no O
 se O
 marco O
 
-largamos B-neutral
+largamos O
 ! O
 disputas B-negative
 partidarias I-negative
@@ -997,8 +997,8 @@ revistaproce O
 so: O
 presentan O
 demanda O
-de B-neutral
-juicio I-neutral
+de O
+juicio O
 pol\xedtico O
 contra O
 moreira O
@@ -1009,39 +1009,39 @@ lo O
 liberaran O
 como O
 a O
-hank O
+hank B-negative
 . O
 
-aaronirizar B-neutral
+AaronIrizar B-negative
 \xbf O
 y O
 a O
 vizcarra O
 ? O
 
-esteban B-neutral
+esteban O
 ordena O
 citar O
 a O
 las O
-empresas B-positive
-productoras I-positive
+empresas B-neutral
+productoras I-neutral
 de O
 chocolate O
 !!!!!! O
 
 por O
 los O
-dioses B-negative
-de I-negative
-la I-negative
-redacci\xf3n I-negative
+dioses B-positive
+de O
+la O
+redacci\xf3n B-negative
 . I-negative
 \xc1ngeles I-negative
 mastretta I-negative
 http://bit.ly/ku9fvu I-negative
 
-diariolaprensa B-neutral
+DiarioLaPrensa B-negative
 y O
 como O
 se O
@@ -1086,14 +1086,14 @@ pego O
 oficial O
 http://t.co/cigvwrw8 O
 v\xeda O
-youtube O
+youtube B-neutral
 
-debatic B-neutral
+debatic B-negative
 
 "lo O
-oscuro B-negative
-acabamos I-negative
-vi\xe9ndolo I-negative
+oscuro B-neutral
+acabamos I-neutral
+vi\xe9ndolo I-neutral
 ; O
 lo O
 completamente O
@@ -1119,15 +1119,15 @@ del O
 domingo O
 junto O
 a O
-tvn_consuelo B-neutral
+tvn_consuelo O
 
-nitanconde O
-gisellearianna O
+niTanConde B-positive
+GiselleArianna I-positive
 mientras O
 esperas O
 ver O
 a O
-fonsi O
+fonsi B-negative
 aprende O
 a O
 escribir O
@@ -1135,7 +1135,7 @@ su O
 apellido O
 ! O
 
-lulige B-neutral
+LuliGe B-neutral
 tu O
 dijiste O
 vamos O
@@ -1144,7 +1144,7 @@ cristo O
 !!!! O
 jajajajaja O
 ! O
-cristooo O
+cristooo B-negative
 all\xe1 O
 vamos O
 ! O
@@ -1156,10 +1156,10 @@ bitch I-neutral
 surfer B-neutral
 blood I-neutral
 - O
-astro B-negative
-coast I-negative
+astro B-positive
+coast I-positive
 : O
-http://bit.ly/d3jloa B-neutral
+http://bit.ly/d3jloa O
 
 r\xfaben B-negative
 fern\xe1ndez I-negative
@@ -1170,8 +1170,8 @@ que O
 el O
 tr\xe1nsito O
 sobre O
-el B-neutral
-puente I-neutral
+el O
+puente O
 se O
 hace O
 sobre O
@@ -1183,10 +1183,10 @@ hay O
 heridos O
 . O
 
-la O
-aplicaci\xf3n B-negative
-de I-negative
-gmail I-negative
+la B-positive
+aplicaci\xf3n I-positive
+de I-positive
+gmail I-positive
 para O
 ios O
 ya O
@@ -1220,17 +1220,17 @@ cada O
 equipo O
 , O
 el O
-resultado B-negative
-favorecio I-negative
+resultado B-positive
+favorecio I-positive
 al O
 estudiantes O
 fc B-neutral
-3 I-neutral
+3 O
 x O
 0 O
 . O
 
-"c\xf3mo B-neutral
+"c\xf3mo B-negative
 se O
 hace O
 un O
@@ -1240,13 +1240,13 @@ julian B-negative
 baggini I-negative
 http://t.co/ern9c93c I-negative
 
-pasarela_urbana B-neutral
+pasarela_urbana O
 por O
 silvia B-negative
 p\xe1ez I-negative
 =) O
 
-sussy44 B-neutral
+sussy44 B-positive
 estamos O
 conscientes O
 de O
@@ -1255,7 +1255,7 @@ tambi\xe9n O
 hay O
 cuentas O
 de O
-twitter B-neutral
+twitter O
 que O
 esperan O
 que O
@@ -1264,8 +1264,8 @@ halaben O
 comentarios O
 . O
 
-la B-positive
-infociudadan\xeda I-positive
+la O
+infociudadan\xeda O
 vence O
 a O
 los O
@@ -1280,11 +1280,11 @@ de I-negative
 cotiza I-negative
 tiene O
 antecedentes O
-penales B-positive
-http://t.co/tagmtosv I-positive
+penales B-negative
+http://t.co/tagmtosv I-negative
 
-\xbfvalerie B-negative
-dominguez I-negative
+\xbfvalerie B-positive
+dominguez I-positive
 presenta O
 miss B-positive
 universo O
@@ -1292,8 +1292,8 @@ universo O
 qu\xe9 O
 sigue O
 , O
-\xbfandr\xe9s O
-felipe B-neutral
+\xbfandr\xe9s B-negative
+felipe O
 arias B-neutral
 presentando O
 la O
@@ -1306,7 +1306,7 @@ vamos O
 aguilas O
 por O
 la O
-calificaci\xf3n O
+calificaci\xf3n B-neutral
 ...... O
 siiiii O
 
@@ -1338,13 +1338,13 @@ mimetiza O
 epn O
 con O
 el O
-h\xe9roe B-positive
-ca\xeddo I-positive
+h\xe9roe B-negative
+ca\xeddo I-negative
 
 que O
 vaina O
-chevere B-negative
-chevere I-negative
+chevere B-positive
+chevere I-positive
 .... O
 pa O
 que O
@@ -1356,27 +1356,27 @@ http://t.co/pwz8gfuz) I-neutral
 
 ruizalx B-negative
 isaac21x I-negative
-camargo16 I-negative
-kikecarc I-negative
+Camargo16 I-negative
+KikeCarC I-negative
 yo O
 ya O
 !!!! O
 lista O
 , O
-elvis O
+elvis B-neutral
 tambien O
 ! O
 
 carohead19 B-neutral
 trabajo O
 de O
-guardia B-neutral
-y I-neutral
-aprte I-neutral
+guardia B-negative
+y I-negative
+aprte I-negative
 trabajo O
 en O
 un O
-ciber O
+ciber B-negative
 hoy O
 me O
 toka O
@@ -1384,7 +1384,7 @@ mi O
 ultimo O
 dia O
 de O
-guardia B-neutral
+guardia O
 cerca O
 de O
 la O
@@ -1396,10 +1396,10 @@ chacao B-negative
 informa I-negative
 cierre O
 de O
-tramo B-negative
-de I-negative
-la I-negative
-s\xe9ptima I-negative
+tramo O
+de O
+la O
+s\xe9ptima B-negative
 avenida I-negative
 de O
 altamira O
@@ -1414,7 +1414,7 @@ escopeta" B-negative
 supongo I-negative
 que O
 los O
-padres B-negative
+padres O
 estar\xe1n O
 declarando O
 ante O
@@ -1431,7 +1431,7 @@ servicios O
 sociales O
 . O
 
-caroal03 B-neutral
+CAROAL03 B-neutral
 caro O
 buenas O
 tardes O
@@ -1449,7 +1449,7 @@ por O
 reparaciones O
 luego O
 se O
-libera O
+libera B-negative
 bastante O
 . O
 cd O
@@ -1460,24 +1460,24 @@ el O
 libro O
 m\xe1s O
 robado O
-en O
-estados O
+en B-neutral
+estados I-neutral
 unidos O
 es O
 la O
 biblia O
 . O
 
-rrecios B-neutral
+rrecios O
 salud O
-mi B-negative
-robert I-negative
+mi O
+robert O
 , O
 un O
 abrazo O
 
 dr B-positive
-cesar B-positive
+cesar O
 pablo B-positive
 tortabu I-positive
 , O
@@ -1487,9 +1487,9 @@ ahora I-negative
 en O
 plc B-neutral
 , O
-lecheria B-negative
-y I-negative
-bna I-negative
+lecheria B-positive
+y I-positive
+bna I-positive
 
 y O
 si O
@@ -1505,7 +1505,7 @@ va O
 a O
 nombrar O
 a O
-pinochet B-negative
+pinochet O
 ????? O
 presidente O
 acaso O
@@ -1523,8 +1523,8 @@ particular O
 como O
 f O
 . O
-cubillos O
-ayudara O
+cubillos B-positive
+ayudara I-positive
 m\xe1s O
 a O
 la O
@@ -1533,14 +1533,14 @@ que O
 ellos O
 . O
 
-canalrcnmsncom O
+canalrcnmsncom B-neutral
 gano O
 atlantico O
 la O
 mas O
 bella O
 y O
-dcian O
+dcian B-negative
 q O
 valle O
 para O
@@ -1549,7 +1549,7 @@ atlantico B-negative
 srta I-negative
 colombia O
 
-carolinaarroba B-neutral
+CarolinaArroba O
 jajaj O
 el O
 se O
@@ -1571,9 +1571,9 @@ usa O
 ( O
 2010 O
 ) O
-http://bit.ly/9a1ftn B-neutral
+http://bit.ly/9a1ftn O
 
-quality B-neutral
+quality O
 presente O
 en O
 la B-neutral
@@ -1581,14 +1581,14 @@ junta I-neutral
 consultiva I-neutral
 del I-neutral
 instituto I-neutral
-de O
+de I-neutral
 banca O
 en O
 carolina B-neutral
 787 O
 200-8681 O
 
-lucasbarrios_ B-negative
+LucasBarrios_ B-negative
 grabde I-negative
 lucasss I-negative
 vuelve O
@@ -1596,10 +1596,10 @@ a O
 colo B-positive
 colo I-positive
 pronto O
-bendicipnes O
+bendicipnes B-neutral
 ! O
 
-podr\xe1n B-neutral
+podr\xe1n B-positive
 decir O
 lo O
 que O
@@ -1640,11 +1640,11 @@ el O
 de O
 nsj O
 , O
-s\xe9palo B-neutral
+s\xe9palo O
 
-diariolaprensa B-negative
-a I-negative
-micheletti I-negative
+DiarioLaPrensa B-neutral
+a O
+micheletti B-negative
 ni O
 la O
 madre O
@@ -1674,8 +1674,8 @@ all O
 boys O
 en O
 la O
-bombonera O
-. O
+bombonera B-neutral
+. I-neutral
 
 anonymous B-neutral
 mediante O
@@ -1684,7 +1684,7 @@ comunicado O
 ha O
 negado O
 su O
-involucramiento O
+involucramiento B-negative
 en O
 los O
 ataques O
@@ -1697,26 +1697,26 @@ oftalmologia B-negative
 c.m.n I-negative
 . I-negative
 sxxi I-negative
-. O
+. I-negative
 en O
-facebook B-neutral
-. I-neutral
-http://t.co/vlzcyqx I-neutral
+facebook B-negative
+. I-negative
+http://t.co/vlzcyqx I-negative
 
 k O
 t O
 paso O
-cruz B-positive
-azul I-positive
+cruz B-neutral
+azul I-neutral
 hoy O
-perdist O
+perdist B-negative
 2 O
 puntos O
 
 si O
 ese O
 tal O
-malova O
+malova B-positive
 no O
 puede O
 ofrecerle B-neutral
@@ -1759,7 +1759,7 @@ h\xe9ctor B-negative
 magnetto I-negative
 . O
 ultimo O
-adversario O
+adversario B-negative
 , O
 para O
 despedir O
@@ -1769,8 +1769,8 @@ ex O
 amigo O
 . O
 
-la B-positive
-liberaci\xf3n I-positive
+la O
+liberaci\xf3n B-positive
 de O
 ruben B-positive
 gonzales I-positive
@@ -1795,18 +1795,18 @@ del O
 pa\xeds O
 
 que O
-golazo O
+golazo B-positive
 el O
 de O
 ji O
 sung B-positive
 park I-positive
 
-c_copka O
+C_Copka B-neutral
 hola O
 charles B-positive
 .. O
-andba O
+andba B-negative
 x O
 aqu\xed O
 
@@ -1835,10 +1835,10 @@ empatando O
 1-1 O
 , O
 a O
-roberto B-positive
-rosales" I-positive
+roberto B-neutral
+rosales" I-neutral
 
-inessainzg B-neutral
+InesSainzG B-positive
 ayudame O
 con O
 un O
@@ -1849,8 +1849,8 @@ boleto O
 para O
 concierto O
 de O
-lady B-positive
-gaga I-positive
+lady B-neutral
+gaga I-neutral
 el O
 6 O
 de O
@@ -1871,7 +1871,7 @@ fa O
 pero O
 se O
 le O
-olvid\xf3 O
+olvid\xf3 B-positive
 al O
 pri\xedsta O
 que O
@@ -1896,7 +1896,7 @@ son O
 watch B-neutral
 the O
 new O
-'laboratorionetwork' O
+'laboratorionetwork' B-negative
 ( O
 @ O
 0 O
@@ -1922,12 +1922,12 @@ el O
 doctor B-neutral
 cooper I-neutral
 phd I-neutral
-. I-neutral
+. O
 
 guillermo B-negative
 moreno I-negative
 , O
-prometi\xf3 O
+prometi\xf3 B-positive
 que O
 los O
 argentinos O
@@ -1954,7 +1954,7 @@ $ O
 jaja O
 !! O
 
-la_sintesi B-neutral
+La_Sintesi B-neutral
 s: I-neutral
 manuel I-neutral
 a\xf1orve I-neutral
@@ -1969,7 +1969,7 @@ acapulco O
 el O
 programa O
 de O
-modernizaci\xf3n O
+modernizaci\xf3n B-negative
 del O
 alumbrado O
 .. O
@@ -1977,7 +1977,7 @@ http://t.co/tvfx81en B-neutral
 
 el O
 m\xe0s O
-realista O
+realista B-negative
 de O
 los O
 candidatos O
@@ -2000,9 +2000,9 @@ las O
 ilusiones O
 , O
 no O
-las B-neutral
-verdades I-neutral
-. I-neutral
+las O
+verdades O
+. O
 
 ya O
 hay O
@@ -2010,7 +2010,7 @@ exa B-neutral
 fm I-neutral
 en O
 chihuahua O
-100.9fm O
+100.9fm B-neutral
 , O
 d: O
 
@@ -2019,8 +2019,8 @@ municipio O
 autonomo O
 de O
 san O
-juan B-negative
-copala I-negative
+juan B-neutral
+copala I-neutral
 necesita O
 tu O
 apoyo O
@@ -2058,15 +2058,15 @@ las O
 investigaciones O
 a O
 su O
-tren B-negative
-directivo I-negative
+tren B-positive
+directivo I-positive
 ...... O
 
 olivarestv2 B-neutral
 para O
 kenes O
 no O
-allan O
+allan B-negative
 cometidos O
 hechos O
 de O
@@ -2094,7 +2094,7 @@ dice O
 quienes O
 son O
 los O
-candidatos O
+candidatos B-negative
 a O
 primarias O
 . O
@@ -2110,7 +2110,7 @@ yamuni B-neutral
 denuncia O
 ante O
 la O
-pgje O
+pgje B-negative
 el O
 desv\xedo O
 de O
@@ -2130,13 +2130,13 @@ es O
 puro O
 circo O
 d O
-malova2010 B-neutral
+MALOVA2010 B-neutral
 
 cristiano B-neutral
 ronaldo I-neutral
 , O
-roger B-neutral
-federer B-neutral
+roger B-positive
+federer O
 , O
 kobe B-negative
 bryant I-negative
@@ -2149,7 +2149,7 @@ un O
 comercial O
 de O
 nike B-neutral
-. O
+. I-neutral
 est\xe1n O
 todos O
 . O
@@ -2159,8 +2159,8 @@ bueno O
 http://bit.ly/bguicq B-neutral
 
 contra O
-san B-neutral
-luis I-neutral
+san O
+luis B-negative
 3 O
 lucas B-neutral
 nuevamente O
@@ -2174,7 +2174,7 @@ el O
 hecho O
 de O
 que O
-ort\xedz O
+ort\xedz B-neutral
 haya O
 estado O
 en O
@@ -2210,7 +2210,7 @@ dec\xeda O
 : O
 el O
 co\xf1o O
-e' O
+e' B-negative
 su O
 madre O
 movistar B-negative
@@ -2234,7 +2234,7 @@ venir O
 barreto B-positive
 gracias O
 por O
-traerme O
+traerme B-positive
 a O
 esta O
 instancia O
@@ -2248,7 +2248,7 @@ ella O
 
 tengo O
 q O
-presumirles O
+presumirles B-neutral
 que O
 manana O
 ire O
@@ -2268,7 +2268,7 @@ el O
 estadio O
 :) O
 
-thewjo O
+thewjo B-positive
 corpoelec B-positive
 trabaja O
 para O
@@ -2297,7 +2297,7 @@ tom\xe1s B-neutral
 rinc\xf3n I-neutral
 el O
 jugador O
-adidas O
+adidas B-positive
 de O
 la O
 copa B-neutral
@@ -2309,8 +2309,8 @@ el O
 programa O
 nuevo O
 de O
-tvn B-neutral
-. I-neutral
+tvn B-negative
+. O
 
 prodent B-neutral
 les O
@@ -2331,7 +2331,7 @@ y O
 para O
 celebrarlo O
 les O
-ofrecemos O
+ofrecemos B-negative
 el O
 ... O
 http://fb.me/jogghvb0 B-neutral
@@ -2340,11 +2340,11 @@ http://fb.me/jogghvb0 B-neutral
 @ O
 oscaralhumor001 O
 : O
-piteralbeiro O
+PITERALBEIRO O
 los O
 moreno O
 siempre O
-cagandola O
+cagandola B-negative
 , O
 primero O
 ivan O
@@ -2377,11 +2377,11 @@ rey O
 porque O
 no O
 te O
-callas O
+callas B-positive
 ) O
 :) O
 
-lourdesvalera B-neutral
+lourdesvalera B-positive
 te O
 escuche O
 en O
@@ -2410,9 +2410,9 @@ pzo O
 el O
 16-6 B-neutral
 
-perla B-neutral
+perla B-negative
 
-econews B-neutral
+econews B-negative
 
 pa\xedses O
 miembros O
@@ -2422,7 +2422,7 @@ celac B-neutral
 aprobaron I-neutral
 comunicados I-neutral
 especiales O
-http://t.co/df2a7lws B-neutral
+http://t.co/df2a7lws B-positive
 
 hasta O
 en O
@@ -2445,7 +2445,7 @@ a O
 hcr O
 q O
 me O
-convencieron O
+convencieron B-negative
 de O
 no O
 hacerlo O
@@ -2458,21 +2458,21 @@ se O
 esta O
 muriendo O
 porque O
-intento B-negative
-hakear I-negative
+intento B-positive
+hakear I-positive
 el O
-fb B-neutral
+fb O
 de O
 cuba O
 y O
-castro B-negative
+castro O
 le O
 mando O
 antrax B-negative
-canitaselii I-negative
+CanitasElii I-negative
 x'd I-negative
 
-atleticonacional B-neutral
+atleticonacional B-negative
 
 no O
 menos O
@@ -2490,7 +2490,7 @@ folder B-negative
 llamado I-negative
 "fotos I-negative
 con O
-famosos" O
+famosos" B-negative
 ; O
 ellos O
 tambi\xe9n O
@@ -2499,12 +2499,12 @@ cari\xf1o O
 . O
 
 cosa O
-vederes O
+vederes B-positive
 , O
 sancho O
 !! O
 @ O
-presid_movistar O
+presid_movistar B-neutral
 
 buena O
 mago B-neutral
@@ -2515,20 +2515,20 @@ mago B-neutral
 jfra_echeverria O
 live O
 on O
-http://twitcam.com/2s8d6) B-neutral
+http://twitcam.com/2s8d6) O
 
 calle B-negative
 13 I-negative
-satanicooo I-negative
+satanicooo B-negative
 
-\u201c O
+\u201c B-neutral
 @ O
 mariferbla B-negative
 ss: I-negative
 y O
 al O
 final O
-resultaste O
+resultaste B-negative
 no O
 ser O
 mas O
@@ -2563,7 +2563,7 @@ beneficio O
 ... O
 !!! O
 ( O
-seneca O
+seneca B-negative
 ) O
 
 esta O
@@ -2571,21 +2571,21 @@ noche O
 coliseo O
 romano O
 ! O
-s\xf2lo O
+s\xf2lo B-negative
 por O
 mega O
 22 O
 : O
 30 O
 
-paoloarenas B-neutral
+PaoloArenas B-neutral
 jaja O
 robo O
 ? O
 que O
 culpa O
 tiene O
-villar O
+villar B-negative
 de O
 no O
 tener O
@@ -2611,7 +2611,7 @@ amen O
 gracias O
 :) O
 rt O
-angelantonio O
+AngelAntonio B-positive
 d: O
 alejariver B-negative
 am\xe9n I-negative
@@ -2633,11 +2633,11 @@ banca O
 arsenal O
 vs O
 . O
-braga B-neutral
+braga O
 
 fecha O
 s: O
-9/07 O
+9/07 B-positive
 rumba O
 electrorock B-negative
 tcyo- I-negative
@@ -2658,10 +2658,10 @@ de O
 la O
 udec B-neutral
 lanzan O
-limones B-neutral
-contra I-neutral
-la I-neutral
-intendencia I-neutral
+limones O
+contra O
+la O
+intendencia B-neutral
 
 julietav B-negative
 genial I-negative
@@ -2679,14 +2679,14 @@ del O
 gremio O
 de O
 los O
-musicos O
+musicos B-negative
 , O
 
 acuerdese B-neutral
 de O
 apoyar O
 a O
-magallanes B-neutral
+magallanes B-positive
 el O
 miercoles O
 proximo O
@@ -2701,7 +2701,7 @@ lindo O
 partido O
 . O
 
-hinzpeter B-negative
+hinzpeter O
 ya O
 nos O
 lo O
@@ -2715,7 +2715,7 @@ civil O
 no O
 es O
 importante O
-comparado O
+comparado B-positive
 con O
 matar O
 a O
@@ -2723,15 +2723,15 @@ un O
 polic\xeda O
 http://t.co/g7opirkk B-neutral
 
-larojadetodos B-negative
-dulce I-negative
+larojadetodos B-positive
+dulce I-positive
 o O
-marin B-negative
+marin O
 en O
 la O
 seleccion O
 
-diputadospri2 O
+diputadospri2 B-neutral
 \xbfy O
 los O
 70 O
@@ -2739,10 +2739,10 @@ a\xf1os O
 perdidos O
 en O
 el O
-pri B-negative
+pri O
 , O
 x O
-abusos O
+abusos B-negative
 , O
 corrupcion O
 e B-negative
@@ -2759,9 +2759,9 @@ hemos O
 olvidado O
 ? O
 
-calle13 B-neutral
+calle13 B-negative
 
-quie B-neutral
+quie B-negative
 me O
 invita O
 a O
@@ -2778,14 +2778,14 @@ que O
 ir O
 =( B-neutral
 
-jcfernandezm B-negative
-repite I-negative
+jcfernandezm B-positive
+repite I-positive
 y O
 pasa O
 por O
-facebook B-neutral
-la I-neutral
-reflexi\xf3n I-neutral
+facebook B-negative
+la I-negative
+reflexi\xf3n I-negative
 de O
 hoy O
 y O
@@ -2807,7 +2807,7 @@ o O
 a\xf1os O
 ya O
 tienen O
-"pin" O
+"pin" B-negative
 yo O
 a O
 esa O
@@ -2816,7 +2816,7 @@ me O
 conformaba O
 con O
 un O
-nintendo B-positive
+nintendo O
 64 O
 o O
 un O
@@ -2830,7 +2830,7 @@ nojoda O
 el O
 2011se O
 va O
-terminando O
+terminando B-negative
 pero O
 la O
 reivindicaci\xf3n O
@@ -2856,7 +2856,7 @@ una O
 verg\xfcenza O
 lo O
 que O
-sucedi\xf3 O
+sucedi\xf3 B-negative
 ayer O
 en O
 el O
@@ -2864,7 +2864,7 @@ campus O
 oriente O
 , O
 jaime B-neutral
-guzm\xe1n B-negative
+guzm\xe1n O
 tiene O
 derecho O
 a O
@@ -2877,7 +2877,7 @@ no O
 aportan O
 . O
 
-nokia-lanzar\xe1-una-tableta-con-windows-8-en-2012-para-competir-con-el-ipad B-neutral
+nokia-lanzar\xe1-una-tableta-con-windows-8-en-2012-para-competir-con-el-ipad O
 # O
 .tsp-jqjtfxg.twitter B-neutral
 
@@ -2885,15 +2885,15 @@ hace O
 tanto O
 que O
 no O
-visito O
-twitter B-neutral
+visito B-positive
+twitter O
 
 hay O
 un O
 nuevo O
 telecentro O
 en O
-chaguaya O
+chaguaya B-positive
 . O
 edgar B-positive
 yana I-positive
@@ -2929,7 +2929,7 @@ pas\xf3 O
 mirando O
 c\xf3mo O
 lo O
-pasaban O
+pasaban B-negative
 todos O
 
 echa O
@@ -2943,7 +2943,7 @@ v\xeddeo O
 maroon B-neutral
 5 O
 - O
-this O
+this B-positive
 love O
 ( O
 vevo O
@@ -2954,7 +2954,7 @@ http://t.co/lspwrmj O
 v\xeda O
 youtube O
 
-berto_romero B-neutral
+Berto_Romero B-neutral
 hola O
 !! O
 que O
@@ -2977,7 +2977,7 @@ mucho O
 que O
 luego O
 la O
-cagas O
+cagas B-negative
 . O
 un O
 saludo O
@@ -2986,7 +2986,7 @@ saludo O
 @ O
 fruslero O
 : O
-casarse O
+casarse B-negative
 est\xe1 O
 out." O
 @ O
@@ -3005,10 +3005,10 @@ capacitaci\xf3n O
 con O
 el O
 profe O
-ignacio B-neutral
+ignacio O
 reyes B-neutral
 
-tvn24h B-neutral
+TVN24H B-positive
 su O
 nombre O
 es O
@@ -3036,14 +3036,14 @@ porque O
 lo O
 esuche O
 en O
-indirecto O
+indirecto B-negative
 , O
 tyc O
 ... O
 
 "si O
 estas O
-atento O
+atento B-neutral
 al O
 presente O
 , O
@@ -3075,7 +3075,7 @@ ser O
 gran O
 figura O
 !! O
-http://t.co/hxtj1zrh B-neutral
+http://t.co/hxtj1zrh O
 
 saludame O
 a O
@@ -3084,7 +3084,7 @@ fernandez I-positive
 que O
 es O
 un O
-seguidor O
+seguidor B-neutral
 diario O
 de O
 cdn O
@@ -3093,12 +3093,12 @@ liga B-neutral
 @ O
 micheltueni O
 
-chavezcandanga B-neutral
-nose I-neutral
+chavezcandanga B-negative
+nose I-negative
 si O
 se O
 me O
-canse O
+canse B-negative
 mi O
 cuerpo O
 pero O
@@ -3121,7 +3121,7 @@ varga O
 
 acabo O
 de O
-aser O
+aser B-positive
 que O
 mi O
 profe O
@@ -3141,12 +3141,12 @@ los O
 jjoo B-neutral
 londres I-neutral
 2012 O
-http://t.co/a9g6vskm B-neutral
+http://t.co/a9g6vskm B-positive
 
 confirma O
 do: O
-marcelo B-positive
-bielsa B-positive
+marcelo B-neutral
+bielsa O
 se O
 queda O
 en O
@@ -3163,7 +3163,7 @@ mis B-negative
 followers I-negative
 ) O
 
-\xbfcrees B-neutral
+\xbfcrees B-negative
 que O
 la O
 biblia O
@@ -3209,7 +3209,7 @@ pudo O
 comenzar O
 los O
 ... O
-http://t.co/ydnh25bz B-neutral
+http://t.co/ydnh25bz O
 
 1 O
 ... O
@@ -3217,9 +3217,9 @@ http://t.co/ydnh25bz B-neutral
 inauguracion I-negative
 eklipse I-negative
 caf\xe9 O
-centro B-neutral
-hist\xf3rico" I-neutral
-http://fb.me/vzspjvbk I-neutral
+centro O
+hist\xf3rico" B-negative
+http://fb.me/vzspjvbk I-negative
 
 "ten B-neutral
 fe O
@@ -3229,7 +3229,7 @@ cosas O
 peque\xf1as O
 , O
 alli O
-yace O
+yace B-negative
 tu O
 verdadera O
 fortaleza" O
@@ -3244,13 +3244,13 @@ de I-negative
 marta I-negative
 lamas I-negative
 - O
-maite B-positive
-azuela I-positive
-http://t.co/uixdhujh I-positive
+maite B-negative
+azuela I-negative
+http://t.co/uixdhujh I-negative
 v\xeda O
-lasillarota B-neutral
+lasillarota B-negative
 
-roxcastellanos B-neutral
+roxcastellanos B-negative
 hola O
 rox O
 eres O
@@ -3265,7 +3265,7 @@ chavismo O
 nadie O
 conoce O
 o O
-conocio O
+conocio B-negative
 , O
 ni O
 trataron O
@@ -3287,7 +3287,7 @@ es O
 una O
 filosof\xeda O
 de O
-vida" O
+vida" B-neutral
 , O
 revista B-neutral
 basket I-neutral
@@ -3301,11 +3301,11 @@ verano O
 | O
 revista O
 carrusel O
-http://t.co/hrj0uwsv O
+http://t.co/hrj0uwsv B-positive
 v\xeda O
 revistacarrusel B-neutral
 
-krmenceci18 B-neutral
+KrmenCeci18 B-negative
 todo O
 lo O
 que O
@@ -3344,7 +3344,7 @@ extra\xf1o O
 muxo O
 y O
 esa O
-llamada O
+llamada B-positive
 que O
 resivi O
 m O
@@ -3359,7 +3359,7 @@ desde O
 el O
 cielo O
 
-isaakzambrano10 B-negative
+IsaakZambrano10 B-negative
 davisopzo I-negative
 relajense I-negative
 , O
@@ -3379,10 +3379,10 @@ puede O
 escribir O
 mal O
 un O
-tuit O
+tuit B-positive
 . O
 
-golpean B-neutral
+golpean B-negative
 a O
 trabajadores O
 de O
@@ -3405,8 +3405,8 @@ telet\xf3n B-neutral
 me O
 pregunto O
 que O
-sentiste B-negative
-leodelozanne I-negative
+sentiste B-positive
+leodelozanne I-positive
 cuando O
 viste O
 y O
@@ -3426,12 +3426,12 @@ luv B-positive
 u I-positive
 - O
 con O
-letra O
+letra B-negative
 en O
 espa\xd1ol O
 ( O
 sean O
-paul B-neutral
+paul O
 ) O
 " O
 en O
@@ -3444,8 +3444,8 @@ manda O
 , O
 hasta O
 el O
-diablo B-neutral
-obedece I-neutral
+diablo O
+obedece B-positive
 !!! O
 
 daliaaguirre B-neutral
@@ -3458,7 +3458,7 @@ vary I-negative
 ya O
 me O
 da O
-flojera O
+flojera B-negative
 llegar O
 a O
 mi O
@@ -3491,8 +3491,8 @@ medios O
 muchos O
 periodistas O
 los O
-respaldan O
-. O
+respaldan B-neutral
+. I-neutral
 
 hay O
 un O
@@ -3503,7 +3503,7 @@ a O
 la O
 primera O
 dama O
-margaritacdf O
+margaritacdf B-positive
 \nhttp O
 : O
 //t.co/50evi3hd B-neutral
@@ -3516,30 +3516,30 @@ nada O
 no O
 le O
 den O
-grammy B-negative
-latinos I-negative
+grammy B-positive
+latinos I-positive
 es O
 un O
-perroooo B-neutral
+perroooo O
 
 tambi\xe9n O
 deben O
-recordar O
+recordar B-positive
 la O
 vida O
 de O
 roberto B-positive
 bruce I-positive
 
-lanata B-neutral
+lanata B-positive
 , O
 a O
 favor O
 de O
-tinelli O
-y O
-contra O
-6.7.8 O
+tinelli B-neutral
+y I-neutral
+contra I-neutral
+6.7.8 I-neutral
 - O
 pol\xedtica O
 - O
@@ -3549,7 +3549,7 @@ v\xeda O
 perfilcom B-neutral
 
 san O
-felipe B-positive
+felipe O
 de O
 chicureo O
 , O
@@ -3562,15 +3562,15 @@ toda O
 ave B-negative
 rapaz I-negative
 que O
-est\xe9 O
+est\xe9 B-negative
 dando O
 vuelta O
 por O
 ah\xed O
 . O
 
-la B-positive
-disciplina I-positive
+la O
+disciplina O
 sin O
 libertad O
 es O
@@ -3581,8 +3581,8 @@ libertad O
 sin O
 disciplina O
 es O
-caos.\n"cullen B-positive
-hightower" I-positive
+caos.\n"cullen B-negative
+hightower" I-negative
 
 rolandcarreno B-neutral
 el O
@@ -3597,7 +3597,7 @@ es O
 un O
 l\xedder O
 que O
-hable O
+hable B-negative
 como O
 yvan B-negative
 olivares I-negative
@@ -3625,9 +3625,9 @@ fallo B-negative
 del I-negative
 hombre I-negative
 ? O
-.nietzsche B-neutral
+.nietzsche O
 
-garciaposti O
+GarciaPosti O
 dr B-positive
 , O
 no O
@@ -3635,7 +3635,7 @@ fue O
 la O
 lista O
 del O
-salon O
+salon B-negative
 de O
 la O
 fama O
@@ -3653,8 +3653,8 @@ de O
 radiohead O
 hecho O
 con O
-sonidos B-negative
-an\xe1logos I-negative
+sonidos B-positive
+an\xe1logos I-positive
 de O
 una O
 m\xe1quina B-neutral
@@ -3679,7 +3679,7 @@ tendria I-negative
 habria I-negative
 problemas O
 una O
-termoelectrica O
+termoelectrica B-negative
 en O
 el O
 patio O
@@ -3710,7 +3710,7 @@ y I-negative
 farruko I-negative
 http://t.co/5qeudltw I-negative
 v\xeda O
-youtube O
+youtube B-neutral
 
 " O
 @ O
@@ -3725,8 +3725,8 @@ no O
 ha O
 tenido O
 que O
-despreciar B-negative
-precisamente I-negative
+despreciar B-neutral
+precisamente I-neutral
 lo O
 que O
 m\xe1s O
@@ -3741,7 +3741,7 @@ queeee O
 va O
 ganando O
 el O
-atl\xe9tico O
+atl\xe9tico B-positive
 ?? O
 se O
 quitara O
@@ -3751,10 +3751,10 @@ de O
 paternidad O
 ?? O
 
-yaaaa B-negative
-ctm I-negative
+yaaaa B-positive
+ctm I-positive
 vamo O
-chileeeee B-neutral
+chileeeee O
 
 mirko B-negative
 crocop I-negative
@@ -3764,7 +3764,7 @@ mejores O
 patadas O
 de O
 la O
-mma O
+mma B-negative
 , O
 fue O
 parte O
@@ -3782,9 +3782,9 @@ la O
 mma B-positive
 http://t.co/485orcfl I-positive
 
-tvn B-neutral
+tvn B-positive
 
-pblanco27 B-neutral
+Pblanco27 B-neutral
 y O
 quien O
 es O
@@ -3797,7 +3797,7 @@ disfraz O
 que O
 utilizan O
 para O
-intervenir O
+intervenir B-negative
 en O
 otros O
 pa\xedses O
@@ -3808,26 +3808,26 @@ de O
 miryam B-positive
 cruz I-positive
 que O
-damiel B-neutral
+damiel B-positive
 
 ya O
 vamos O
 1-0 O
 vamos O
-aguilas O
+aguilas B-negative
 
-magdalenaducoin B-neutral
-sofimazzucco O
+MagdalenaDucoin B-negative
+SofiMazzucco I-negative
 belinda B-negative
 y I-negative
 kudai I-negative
 etapa O
 adolescente O
 love O
-generation B-neutral
+generation O
 
-chavezcandanga O
-presidente O
+chavezcandanga B-negative
+presidente I-negative
 pedimos O
 que O
 se O
@@ -3844,7 +3844,7 @@ vargas I-neutral
 ayude O
 nos O
 por O
-favorrr B-neutral
+favorrr O
 
 "la O
 gran O
@@ -3856,13 +3856,13 @@ jam\xe1s O
 pueden O
 construir O
 una O
-naci\xf3n'' O
+naci\xf3n'' B-positive
 . O
 - O
 nelson B-neutral
 mandela I-neutral
 
-evenvenezuela O
+EvenVenezuela O
 ... O
 apoyando O
 a O
@@ -3873,10 +3873,10 @@ para O
 la O
 formula O
 .. O
-lobmusicvzla O
+lobmusicvzla B-neutral
 
-evitemos B-negative
-incidentes I-negative
+evitemos B-positive
+incidentes I-positive
 como O
 el O
 del O
@@ -3895,7 +3895,7 @@ un O
 idiota O
 basta O
 para O
-privarnos O
+privarnos B-negative
 de O
 la O
 comodidad O
@@ -3912,7 +3912,7 @@ importaciones I-negative
 rt O
 globovision O
 : O
-ch\xe1vez B-neutral
+ch\xe1vez O
 : O
 "en O
 estos O
@@ -3922,13 +3922,13 @@ a\xf1os O
 , O
 nosotros O
 hemos O
-recuperado B-negative
-la I-negative
-independencia" I-negative
+recuperado B-neutral
+la I-neutral
+independencia" I-neutral
 
-cictmar O
+CICTMAR B-neutral
 gracias O
-hedelvy O
+hedelvy B-negative
 como O
 estas O
 ? O
@@ -3961,7 +3961,7 @@ mi O
 abuela O
 capriles-lopez O
 mucho O
-camis\xf3n" O
+camis\xf3n" B-negative
 pa O
 petra" O
 gente O
@@ -4001,7 +4001,7 @@ no O
 un O
 joven O
 que O
-orina O
+orina B-negative
 en O
 calle O
 
@@ -4015,7 +4015,7 @@ fuera O
 dos O
 meses O
 , O
-aproximadamente O
+aproximadamente B-positive
 . O
 
 ma\xf1ana O
@@ -4023,10 +4023,10 @@ en O
 tolerancia O
 cero O
 : O
-joaqu\xedn B-neutral
-lav\xedn B-neutral
+joaqu\xedn B-negative
+lav\xedn O
 
-pamelapaz_ B-neutral
+PamelaPaz_ B-neutral
 entre O
 mas O
 ronca O
@@ -4036,7 +4036,7 @@ bella O
 pero O
 sabes O
 ? O
-reflejas O
+reflejas B-negative
 mucho O
 mas O
 tu O
@@ -4059,17 +4059,17 @@ acaba O
 de O
 pasar O
 en O
-armageddon B-negative
-lloro I-negative
+armageddon B-positive
+lloro I-positive
 :( O
 
-xena B-negative
-y I-negative
-h\xe9rcules I-negative
+xena B-positive
+y I-positive
+h\xe9rcules I-positive
 se O
-aman B-neutral
+aman O
 
-isapres B-neutral
+isapres B-positive
 tuvieron O
 ganancias O
 x O
@@ -4081,7 +4081,7 @@ millones O
 de O
 pesos O
 , O
-uta O
+uta B-neutral
 ke O
 es O
 buen O
@@ -4104,9 +4104,9 @@ el O
 y O
 k O
 buen O
-ministro B-neutral
-de I-neutral
-energia I-neutral
+ministro O
+de O
+energia B-positive
 tenemos O
 + O
 de O
@@ -4120,7 +4120,7 @@ saber O
 k O
 pasa O
 
-hualgami B-neutral
+hualgami B-negative
 totalmente O
 de O
 acuerdo O
@@ -4140,7 +4140,7 @@ otros O
 3 O
 . O
 
-lahojillatv B-neutral
+lahojillatv B-negative
 buenas O
 noches O
 se O
@@ -4162,8 +4162,8 @@ barqusimeto B-neutral
 vargas B-neutral
 llosa I-neutral
 : O
-\xabinternet B-negative
-aplasta I-negative
+\xabinternet B-positive
+aplasta I-positive
 las O
 manifestaciones B-negative
 culturales I-negative
@@ -4182,7 +4182,7 @@ jerry B-neutral
 rivera I-neutral
 en O
 tu O
-playlist O
+playlist B-negative
 porfa O
 . O
 
@@ -4191,7 +4191,7 @@ de I-negative
 copei I-negative
 dice O
 que O
-\u201cpinochet O
+\u201cpinochet B-positive
 fue O
 el O
 \xfaltimo O
@@ -4212,7 +4212,7 @@ con O
 miras O
 a O
 provocar O
-abstenci\xf3n O
+abstenci\xf3n B-positive
 en O
 la O
 oposici\xf3n O
@@ -4223,7 +4223,7 @@ que O
 habito O
 : O
 excelente O
-premisa O
+premisa B-negative
 , O
 maravillosas B-negative
 actuaciones I-negative
@@ -4253,7 +4253,7 @@ de O
 todo O
 coraz\xf3n O
 ; O
-\nhazlo O
+\nhazlo B-negative
 el O
 se\xf1or O
 de O
@@ -4272,9 +4272,9 @@ stoy B-neutral
 tan O
 adicta O
 a O
-lacasadeallado O
+LaCasaDeAlLado O
 q O
-so\xf1\xe9 O
+so\xf1\xe9 B-negative
 q O
 me O
 perseguia B-negative
@@ -4283,7 +4283,7 @@ davidchocarro I-negative
 jajajajjaja I-negative
 !!! O
 
-katia B-neutral
+katia B-negative
 sigue O
 ganando O
 fuerza O
@@ -4295,12 +4295,12 @@ categor\xeda O
 4 O
 http://t.co/uaehedr B-neutral
 
-\u2014oye O
+\u2014oye B-neutral
 , O
 forrest O
 , O
 me O
-sirves O
+sirves B-negative
 un O
 ron O
 ? O
@@ -4321,14 +4321,14 @@ gusta" O
 para O
 nine O
 , O
-reeeeeko B-neutral
+reeeeeko O
 
-alcala8a B-neutral
+Alcala8a B-positive
 hola O
 baby O
 ya O
 tienes O
-twitter B-neutral
+twitter O
 felicidades O
 
 el O
@@ -4336,7 +4336,7 @@ dia O
 que O
 volvio B-negative
 uber I-negative
-twitter B-negative
+twitter I-negative
 ! O
 y O
 no O
@@ -4344,7 +4344,7 @@ se O
 como O
 !!! O
 
-notizulianet B-neutral
+NotizuliaNet B-neutral
 \xbfc\xf3mo O
 va O
 la O
@@ -4353,7 +4353,7 @@ particular O
 entre O
 aguilas O
 y O
-leones B-neutral
+leones O
 este O
 a\xf1o O
 ? O
@@ -4366,20 +4366,20 @@ dijo O
 los O
 n\xfameros O
 al O
-rev\xe9s O
+rev\xe9s B-negative
 !!! O
 
-piratasdelcaribe3 B-neutral
+piratasdelcaribe3 B-negative
 
 c\xf3mo O
 fue O
-rescatado O
-el O
-archivo O
+rescatado B-neutral
+el I-neutral
+archivo I-neutral
 de O
 miranda O
 por O
-sim\xf3n B-neutral
+sim\xf3n O
 alberto B-negative
 consalvi I-negative
 - O
@@ -4389,7 +4389,7 @@ el O
 partido O
 de O
 vuelta O
-correcaminos O
+correcaminos B-positive
 vs O
 altamira O
 ser\xe1 O
@@ -4408,7 +4408,7 @@ www.cfcorrecaminos.com B-neutral
 dios O
 no O
 tiene O
-blackberry B-neutral
+blackberry O
 , O
 pero O
 es O
@@ -4428,7 +4428,7 @@ amigo O
 ... O
 no O
 tiene O
-twitter B-neutral
+twitter O
 , O
 pero O
 yo O
@@ -4436,7 +4436,7 @@ lo O
 sigo O
 . O
 
-fabianrivas_m B-neutral
+fabianrivas_m B-positive
 hola O
 amorcito O
 mio O
@@ -4446,7 +4446,7 @@ ocupo O
 esta O
 cosa O
 del O
-twitter B-neutral
+twitter O
 , O
 pero O
 quer\xeda O
@@ -4499,14 +4499,14 @@ opresor"- I-negative
 carlos I-negative
 le\xf3n O
 
-rotaryes B-neutral
+RotaryES B-neutral
 hoy O
 se O
 celebran O
 85 O
 a\xf1os O
 de O
-rotary O
+rotary B-negative
 en O
 venezuela O
 . O
@@ -4515,17 +4515,17 @@ una O
 novela O
 es O
 una O
-m\xe1quina B-negative
-de I-negative
-generar I-negative
+m\xe1quina B-positive
+de O
+generar B-negative
 interpretaciones I-negative
 . I-negative
 -umberto I-negative
 eco I-negative
 
-elclubdelacomendia B-neutral
+elclubdelacomendia B-negative
 
-\xbfsab\xedas B-neutral
+\xbfsab\xedas B-positive
 que O
 un O
 d\xeda O
@@ -4563,14 +4563,14 @@ de O
 cualquier O
 tipo O
 para O
-sra B-positive
-. O
-filomena B-negative
+sra B-negative
+. I-negative
+filomena I-negative
 mart\xednez I-negative
 en O
 policl\xednica O
-las B-positive
-mercedes I-positive
+las O
+mercedes O
 . O
 
 "la O
@@ -4582,7 +4582,7 @@ la O
 intensidad O
 , O
 la O
-duraci\xf3n O
+duraci\xf3n B-negative
 es O
 vana O
 si O
@@ -4591,14 +4591,14 @@ es O
 m\xe1s O
 que O
 un O
-suceder B-negative
-de I-negative
-presentes I-negative
-vac\xedos." I-negative
-c B-negative
-. I-negative
-michelstaedter I-negative
-. O
+suceder B-neutral
+de I-neutral
+presentes I-neutral
+vac\xedos." I-neutral
+c I-neutral
+. I-neutral
+michelstaedter I-neutral
+. I-neutral
 
 yo O
 siempre O
@@ -4610,7 +4610,7 @@ mi O
 cuarto O
 vive O
 un O
-duende O
+duende B-positive
 que O
 se O
 lleva O
@@ -4631,7 +4631,7 @@ esperando O
 los O
 resultados O
 de O
-la O
+la B-neutral
 psu O
 , O
 noche O
@@ -4640,11 +4640,11 @@ pronto O
 !!!! O
 d: O
 
-raulorbananio B-neutral
+RaulOrbananio B-neutral
 asi O
 como O
 el O
-sr.jacobo O
+sr.jacobo B-negative
 s O
 . O
 es O
@@ -4663,7 +4663,7 @@ del O
 deporte O
 ... O
 
-mariacorina2010 B-neutral
+mariacorina2010 O
 que O
 ha O
 pasado O
@@ -4677,7 +4677,7 @@ ganamos O
 listos B-neutral
 para O
 el O
-expocaf\xe9 O
+expocaf\xe9 B-negative
 ? O
 12 O
 , O
@@ -4688,19 +4688,19 @@ en O
 el O
 museo O
 de O
-la B-neutral
-naci\xf3n I-neutral
+la O
+naci\xf3n O
 , O
 ingreso O
 libre O
 . O
 
-fabiansaezp B-neutral
+fabiansaezp B-positive
 que O
 onda O
 man O
 . O
-matias B-negative
+matias O
 es O
 un O
 capooo B-neutral
@@ -4710,7 +4710,7 @@ ser\xe1 O
 que O
 a O
 los O
-representantes O
+representantes B-negative
 del O
 gobierno O
 venezolano O
@@ -4733,7 +4733,7 @@ suiza O
 transformers B-positive
 3 I-positive
 en O
-3d O
+3d B-neutral
 muy O
 buena O
 se O
@@ -4747,11 +4747,11 @@ buenos O
 dias O
 hoy O
 viene O
-irene B-neutral
+irene B-positive
 
 meo B-negative
 talde I-negative
-de O
+de I-negative
 barrios O
 al O
 darse O
@@ -4764,7 +4764,7 @@ en O
 frente O
 xd O
 
-adriancalderona B-neutral
+AdrianCalderonA B-positive
 y O
 adem\xe1s O
 se O
@@ -4791,7 +4791,7 @@ d O
 la O
 copa B-neutral
 pasada I-neutral
-. I-neutral
+. O
 
 que O
 paso O
@@ -4808,14 +4808,14 @@ bailar O
 chingao O
 hay O
 ! O
-me B-negative
-r\xedo I-negative
+me O
+r\xedo O
 un O
 rato O
 : O
 ' O
 ) O
-hectorlealvlogs B-neutral
+hectorlealvlogs O
 
 los O
 mi\xe9rcoles O
@@ -4823,8 +4823,8 @@ clases O
 con O
 el O
 dr B-positive
-. I-positive
-millares I-positive
+. O
+millares B-negative
 . O
 
 buen O
@@ -4854,17 +4854,17 @@ programa O
 saludos O
 maracay B-neutral
 
-el B-neutral
-zapatazo I-neutral
+el O
+zapatazo B-neutral
 de I-neutral
 bachelet I-neutral
 - O
-http://t.co/pje70su B-negative
-/// I-negative
+http://t.co/pje70su B-positive
+/// I-positive
 jajajajaja O
 
-la B-positive
-cr\xedtica I-positive
+la O
+cr\xedtica O
 de O
 arte O
 estrella O
@@ -4886,12 +4886,12 @@ marina B-positive
 abramovic' I-positive
 http://t.co/qxrx4qrq I-positive
 
-eliespadas B-negative
-olaaa I-negative
+EliEspadas B-positive
+olaaa I-positive
 la O
 fiesta O
 de O
-jerry O
+jerry B-negative
 se O
 paso O
 pa O
@@ -4909,11 +4909,11 @@ v\xeddeo O
 : O
 anonymous O
 le O
-declara O
+declara B-negative
 la O
 guerra O
-al B-negative
-cartel I-negative
+al O
+cartel O
 los O
 zetas O
 \n O
@@ -4922,7 +4922,7 @@ http://t.co/bv5fglgh B-neutral
 dennis B-negative
 ritchie I-negative
 : O
-unix O
+unix B-negative
 para O
 todos O
 , O
@@ -4931,9 +4931,9 @@ para O
 unix B-positive
 http://t.co/d0xid1vu I-positive
 
-televisa B-neutral
+televisa B-negative
 
-fannyflans O
+fannyflans B-neutral
 fui O
 a O
 varios O
@@ -4953,10 +4953,10 @@ vend\xedan O
 afuera O
 , O
 tengo O
-otras O
+otras B-negative
 cosas O
 
-conicet B-neutral
+conicet B-negative
 : O
 l\xedmites O
 a O
@@ -4967,7 +4967,7 @@ de O
 los O
 investigadores B-negative
 http://t.co/otgc8ehb I-negative
-todonoticias I-negative
+TodoNoticias I-negative
 
 problema O
 no O
@@ -4978,7 +4978,7 @@ mas O
 que O
 es O
 un O
-sinverg\xfcenza O
+sinverg\xfcenza B-positive
 -- O
 sino O
 una O
@@ -5003,7 +5003,7 @@ sitio O
 http://t.co/65odkzt9 O
 ha O
 sido O
-hackeado O
+hackeado B-negative
 . O
 el O
 hecho O
@@ -5018,7 +5018,7 @@ de O
 noviembre O
 . O
 
-\u201c O
+\u201c B-neutral
 @ O
 h_aac O
 : O
@@ -5028,7 +5028,7 @@ sue\xf1o O
 que O
 la O
 bella O
-durmiente O
+durmiente B-negative
 .. O
 \u201d O
 jajajaja O
@@ -5047,7 +5047,7 @@ exigen O
 a O
 su O
 directora O
-moraima B-negative
+moraima O
 perez O
 se O
 respete O
@@ -5079,17 +5079,17 @@ grandes\u201d I-negative
 pipo I-negative
 tozzini I-negative
 | O
-nolanrada B-negative
-gerhardweil I-negative
-yannilo I-negative
+NolanRada B-positive
+GerhardWeil I-positive
+Yannilo I-positive
 
 vamos O
-everton B-neutral
+everton B-negative
 
 "es B-neutral
 mejor O
 haber O
-amado B-neutral
+amado O
 y O
 perder O
 que O
@@ -5109,9 +5109,9 @@ estamos O
 en O
 vivo O
 por O
-radio B-neutral
-star I-neutral
-online I-neutral
+radio O
+star B-negative
+online I-negative
 junto O
 a O
 victor B-positive
@@ -5145,12 +5145,12 @@ mismo O
 programa O
 de O
 los O
-palafitos O
-. O
+palafitos B-neutral
+. I-neutral
 
-bombay B-neutral
-bicycle I-neutral
-club I-neutral
+bombay B-negative
+bicycle I-negative
+club O
 - O
 flaws O
 [ O
@@ -5164,7 +5164,7 @@ que O
 el O
 gobierno O
 est\xe1 O
-logrando O
+logrando B-negative
 un O
 c\xedrculo B-negative
 virtuo I-negative
@@ -5176,7 +5176,7 @@ menos O
 contaminaci\xf3n B-positive
 http://rbb.cl/oz9 I-positive
 
-auxilio B-neutral
+auxilio B-positive
 mi O
 nextel B-negative
 muri\xf3 O
@@ -5191,27 +5191,27 @@ de O
 nuevo O
 , O
 ah O
-vale B-neutral
-queso I-neutral
+vale O
+queso O
 ! O
 
 mano O
 de O
-penny B-negative
-bendita I-negative
+penny B-positive
+bendita I-positive
 !!! O
 rt O
 pacobardale B-neutral
 s: I-neutral
 ese O
-horizontal B-positive
-bendito I-positive
+horizontal B-negative
+bendito I-negative
 
 mi O
 pap\xe1 O
 se O
 llama O
-lito O
+lito B-negative
 pero O
 le O
 dicen O
@@ -5224,7 +5224,7 @@ argentino O
 
 prodent B-neutral
 se O
-enorgullese O
+enorgullese B-negative
 de O
 ser O
 una O
@@ -5246,8 +5246,8 @@ de O
 setiembre O
 . O
 
-woody B-negative
-allen I-negative
+woody B-positive
+allen I-positive
 : O
 el O
 noventa O
@@ -5266,20 +5266,20 @@ ale B-negative
 schmauk I-negative
 dir\xeda O
 que O
-florencio B-positive
+florencio O
 est\xe1 O
 en O
-"pole B-positive
-positions" I-positive
+"pole B-negative
+positions" I-negative
 
 co\xf1o O
-oswaldo B-neutral
+oswaldo O
 guillen B-neutral
 se O
 parece O
 tanto O
 a O
-chavez B-positive
+chavez O
 cuando O
 volvio O
 el O
@@ -5290,7 +5290,7 @@ abril O
 manzo B-negative
 corderito I-negative
 , O
-pienza O
+pienza B-negative
 y O
 luego O
 habla O
@@ -5312,11 +5312,11 @@ el O
 tema O
 "no O
 me O
-voy" O
+voy" B-negative
 de O
 ov7 B-positive
 
-carlosloret O
+CarlosLoret O
 el O
 barca B-neutral
 es O
@@ -5326,34 +5326,34 @@ mejor O
 carlos B-neutral
 ni O
 q O
-dudar O
+dudar B-negative
 ! O
 
 jajajaja O
 " O
 @ O
-chuch0x O
+chuch0x B-negative
 : O
-magallanes B-neutral
+magallanes O
 lo O
 volviste O
 a O
 hacer O
 jijijijiji." B-neutral
 
-magallanes_bbc O
+Magallanes_bbc O
 ningun O
 canal O
 de O
 inter O
-transmitiando O
+transmitiando B-neutral
 el O
 juego O
 ? O
 
 ruizhealy B-negative
 salvador_fles I-negative
-sinembargomx I-negative
+SinEmbargoMX I-negative
 guardados I-negative
 para O
 la O
@@ -5362,7 +5362,7 @@ campa\xf1a O
 te O
 acuerdas O
 que O
-weakyleaks O
+weakyleaks B-positive
 iba O
 a O
 informar O
@@ -5383,11 +5383,11 @@ que O
 no O
 estan O
 en O
-bukovabar O
+bukovabar B-neutral
 ? O
 juanmanuelhp1 B-negative
 eliascisneros I-negative
-jenypetit I-negative
+JenyPetit I-negative
 geraldine I-negative
 y I-negative
 carlos I-negative
@@ -5407,15 +5407,15 @@ libertad O
 sino O
 por O
 su O
-propia O
-debilidad B-neutral
+propia B-neutral
+debilidad I-neutral
 . I-neutral
 mohandas I-neutral
 karamchand I-neutral
 gandhi I-neutral
 
 ya O
-conoc\xed O
+conoc\xed B-neutral
 a O
 m\xeda O
 ... O
@@ -5426,7 +5426,7 @@ tiene O
 la O
 boca B-neutral
 de I-neutral
-sergesepulveda I-neutral
+SERGESEPULVEDA I-neutral
 y O
 un O
 aire O
@@ -5460,7 +5460,7 @@ vamos O
 carajooo B-positive
 http://t.co/65kvn2va I-positive
 
-danycarvallo B-neutral
+DanyCarvallo B-neutral
 jajaja O
 mi O
 danyy O
@@ -5479,20 +5479,20 @@ eh O
 como O
 te O
 has O
-portadoo O
+portadoo B-negative
 ! O
 
 omar B-neutral
 chaparro I-neutral
 y O
-cecilia B-neutral
-galiano I-neutral
-permitir\xedan I-neutral
+cecilia B-positive
+galiano I-positive
+permitir\xedan I-positive
 que O
 sus O
 hijos O
-bailaran B-negative
-encuerados I-negative
+bailaran B-positive
+encuerados I-positive
 en O
 un O
 programa O
@@ -5500,18 +5500,18 @@ de O
 tv O
 ? O
 
-valdivia B-neutral
+valdivia B-positive
 
-*infinito B-neutral
-. O
-\u201c O
+*infinito B-negative
+. I-negative
+\u201c I-negative
 @ O
 elgaruti O
 : O
 los O
 taxistas O
 deber\xedan O
-cobrar O
+cobrar B-negative
 menos O
 cuando O
 te O
@@ -5520,10 +5520,10 @@ escuchar O
 su O
 m\xfasica.\u201d B-neutral
 
-now B-negative
-back I-negative
+now B-positive
+back I-positive
 on O
-twitter B-neutral
+twitter O
 , O
 ahorita O
 volvi O
@@ -5535,7 +5535,7 @@ andr\xe9s B-neutral
 de O
 le\xf3n O
 , O
-chancho O
+chancho B-negative
 en O
 piedra O
 y O
@@ -5560,7 +5560,7 @@ hrs O
 
 hasta O
 el O
-copete O
+copete B-neutral
 con O
 pe\xf1a B-negative
 nieto I-negative
@@ -5581,10 +5581,10 @@ guard B-negative
 puertorrique\xd1o I-negative
 verias I-negative
 en O
-nyc O
+nyc B-negative
 ? O
 a O
-carlos B-neutral
+carlos O
 arroyo O
 o O
 a O
@@ -5597,7 +5597,7 @@ publicado O
 14 O
 fotos O
 en O
-facebook B-neutral
+facebook O
 en O
 el O
 \xe1lbum O
@@ -5618,8 +5618,8 @@ el I-neutral
 17/12/1999 I-neutral
 , O
 mediante O
-resolucion B-negative
-54\\120 I-negative
+resolucion B-positive
+54\\120 I-positive
 ; O
 declaro O
 el O
@@ -5639,13 +5639,13 @@ es O
 trutv O
 ? O
 rt O
-gabolivar O
+Gabolivar O
 : O
 acabo O
 de O
 ver O
 una O
-persecuci\xf3n O
+persecuci\xf3n B-negative
 tipo O
 trutv O
 frente O
@@ -5678,13 +5678,13 @@ http://t.co/djjucjc I-negative
 v\xeda O
 youtube O
 la O
-viuda B-negative
-de I-negative
-serepta I-negative
+viuda B-neutral
+de I-neutral
+serepta I-neutral
 ... O
 maravilloso B-neutral
 
-mauclark B-neutral
+MAUCLARK O
 a O
 mi O
 me O
@@ -5707,7 +5707,7 @@ dejado O
 claro O
 que O
 nada O
-detendra O
+detendra B-negative
 la O
 agenda O
 de O
@@ -5735,14 +5735,14 @@ vader I-negative
 http://t.co/kan7r7p9 I-negative
 ( O
 v\xeda O
-mileniohey O
+Mileniohey B-neutral
 ) O
 
-lahojillaentv B-neutral
-jorgeamorin O
-mario B-neutral
-informaci\xf3n I-neutral
-a1 I-neutral
+LaHojillaenTV B-positive
+jorgeamorin I-positive
+mario I-positive
+informaci\xf3n O
+a1 B-negative
 , O
 hay O
 intensos O
@@ -5774,14 +5774,14 @@ la O
 presi\xf3n O
 en O
 las O
-redes O
+redes B-positive
 le O
 hizo O
-paralizar O
-la O
-ley B-positive
-sinde I-positive
-http://t.co/2lqw6eeb I-positive
+paralizar B-neutral
+la I-neutral
+ley I-neutral
+sinde I-neutral
+http://t.co/2lqw6eeb I-neutral
 
 segun O
 la O
@@ -5797,22 +5797,22 @@ corea I-positive
 del O
 norte O
 se O
-enfrentan O
+enfrentan B-negative
 a O
 una O
-grave O
-escasez O
+grave B-negative
+escasez I-negative
 de O
 alimentos B-neutral
 
-\xbfjonathan B-negative
-molly I-negative
+\xbfjonathan B-positive
+molly I-positive
 es O
-justin B-negative
-bieber I-negative
+justin B-positive
+bieber I-positive
 ? O
 
-"uno B-neutral
+"uno B-positive
 puede O
 vivir O
 sin O
@@ -5824,8 +5824,8 @@ chavez B-positive
 
 premio O
 de O
-"iniciativa B-negative
-m\xe9xico" I-negative
+"iniciativa B-positive
+m\xe9xico" I-positive
 : O
 10 O
 millones O
@@ -5854,7 +5854,7 @@ se O
 aprovechan O
 estos B-negative
 ineptos I-negative
-del I-negative
+del O
 gobierno O
 para O
 hacer O
@@ -5867,11 +5867,11 @@ de O
 w.ramos O
 , O
 les O
-llegara O
+llegara B-negative
 su O
 hr O
 
-xenia B-neutral
+xenia B-negative
 
 gobierno B-negative
 contrata I-negative
@@ -5885,9 +5885,9 @@ a I-negative
 invasores I-negative
 --&gt I-negative
 ; O
-http://bit.ly/eiyfx1 B-neutral
+http://bit.ly/eiyfx1 B-positive
 
-\u201c O
+\u201c B-positive
 @ O
 rodcasare B-neutral
 s: I-neutral
@@ -5895,7 +5895,7 @@ titulos O
 # O
 murakami O
 en O
-lib_alejandria B-negative
+Lib_Alejandria B-negative
 iitokio I-negative
 blues I-negative
 , O
@@ -5914,11 +5914,11 @@ sputnik O
 mi O
 amor\u201dexcelentes B-neutral
 
-ka B-negative
-takniwan I-negative
+ka B-positive
+takniwan I-positive
 noticias O
 te O
-informa O
+informa B-negative
 que O
 concertaci\xf3n B-neutral
 nacional I-neutral
@@ -5941,13 +5941,13 @@ operaciones O
 del O
 aeropuerto O
 de O
-maiquet\xeda B-neutral
+maiquet\xeda O
 
 clarochile_cl B-neutral
 \ncine I-neutral
 latino I-neutral
 , O
-mp O
+mp B-negative
 , O
 fashion B-negative
 tv I-negative
@@ -5959,7 +5959,7 @@ e O
 tele O
 canal O
 , O
-ucv B-negative
+ucv O
 , O
 zaz O
 . O
@@ -5971,7 +5971,7 @@ puede O
 ser O
 comprendida O
 hacia O
-atr\xe1s O
+atr\xe1s B-negative
 , O
 pero O
 \xfanicamente O
@@ -5983,25 +5983,25 @@ delante.\u201d B-negative
 soren I-negative
 kierkegaard I-negative
 
-check B-negative
-this I-negative
+check B-positive
+this I-positive
 video O
-out O
+out B-negative
 -- O
 dios O
 de O
 pactos O
 - O
-marcos B-negative
-witt I-negative
-http://t.co/h2qpz4fe I-negative
+marcos B-positive
+witt I-positive
+http://t.co/h2qpz4fe I-positive
 v\xeda O
 youtube O
 
 viendo O
 partidazo O
 de O
-dyokovic B-positive
+dyokovic O
 v/s O
 nadal B-negative
 !!! O
@@ -6009,13 +6009,13 @@ nadal B-negative
 es O
 como O
 si O
-google B-negative
-books I-negative
-supiera I-negative
-cu\xe1les I-negative
+google B-positive
+books I-positive
+supiera I-positive
+cu\xe1les I-positive
 son O
-los O
-libros O
+los B-neutral
+libros I-neutral
 que O
 necesitas O
 pa O
@@ -6023,7 +6023,7 @@ no O
 darles B-negative
 vista I-negative
 previa I-negative
-. O
+. I-negative
 
 " O
 @ O
@@ -6045,7 +6045,7 @@ s\xf3lo O
 al O
 bien O
 del O
-amigo. O
+amigo. B-positive
 ( O
 quevedo O
 ) O
@@ -6055,24 +6055,24 @@ como O
 es O
 la O
 cosa O
-manuel B-neutral
+manuel O
 ? O
 te O
 vas O
 con O
-chavez B-positive
+chavez O
 ? O
 estas O
-preparando O
-maletas O
+preparando B-negative
+maletas I-negative
 ? O
 rt O
-mmalaverm O
+MMalaverM O
 : O
-ch\xe1vez B-neutral
+ch\xe1vez O
 dice O
 que O
-viajar\xe1 O
+viajar\xe1 B-negative
 ( O
 cont O
 ) O
@@ -6096,7 +6096,7 @@ tenga O
 cinco O
 minutos O
 para O
-retirar O
+retirar B-negative
 todo O
 el O
 dinero O
@@ -6109,7 +6109,7 @@ yo O
 quiero O
 votar O
 por O
-leopoldo B-positive
+leopoldo B-neutral
 ! O
 pero O
 siento O
@@ -6122,12 +6122,12 @@ digan O
 q O
 no O
 puede O
-ejercer O
+ejercer B-negative
 su O
 cargo O
 .. O
 
-fonsi_madrid_fc B-neutral
+FONSI_MADRID_FC B-neutral
 lo O
 q O
 mas O
@@ -6147,7 +6147,7 @@ esta O
 y O
 las O
 hermosas O
-cancions O
+cancions B-negative
 k O
 trae O
 el O
@@ -6161,20 +6161,20 @@ exit B-neutral
 
 +1 B-neutral
 rt O
-huevot0t0te O
+huevot0t0te B-negative
 : O
 supongo O
 que O
 mtv B-neutral
-mantiene O
-la O
-"m" O
+mantiene I-neutral
+la I-neutral
+"m" I-neutral
 por O
 mierda O
 . O
 
 descuento O
-del O
+del B-neutral
 10 O
 % O
 en O
@@ -6210,22 +6210,22 @@ predespacho B-negative
 \u2465pm I-negative
 gratis\u25e5\ndj I-negative
 : O
-fideo O
+fideo B-negative
 ( O
 hormigas O
 ... O
 http://fb.me/15wxkr2ae B-neutral
 
 con O
-tabares O
+tabares B-negative
 en O
 la O
-peluqueria B-negative
+peluqueria O
 
-donjulio B-neutral
+donjulio B-negative
 
 no O
-quisieron O
+quisieron B-negative
 primarias O
 en O
 2011 O
@@ -6235,7 +6235,7 @@ megaprimarias O
 ahora O
 todos O
 contra O
-capriles B-negative
+capriles O
 ( O
 primarias O
 en O
@@ -6248,7 +6248,7 @@ y I-negative
 orquestadas I-negative
 . O
 
-gatopardo B-neutral
+gatopardo B-negative
 - O
 reportaje O
 : O
@@ -6274,7 +6274,7 @@ aprendido O
 hoy O
 sobre O
 el O
-comic O
+comic B-negative
 , O
 algo O
 tarde O
@@ -6283,17 +6283,17 @@ vez O
 : O
 lecturas B-negative
 recomicdada I-negative
-s: O
-inside B-negative
+s: I-negative
+inside I-negative
 moebius I-negative
 http://t.co/cnrkngzb I-negative
 v\xeda O
-addthis O
+addthis B-neutral
 
-buchanans B-negative
-ten I-negative
-piedad I-negative
-de O
+buchanans B-positive
+ten I-positive
+piedad I-positive
+de I-positive
 mi O
 mama O
 ke O
@@ -6307,7 +6307,7 @@ salud O
 !!!!!! O
 jejeje O
 
-p\xe9gale B-neutral
+p\xe9gale O
 a O
 una O
 pared O
@@ -6330,7 +6330,7 @@ nuestro O
 empate O
 en O
 su O
-ksa O
+ksa B-negative
 y O
 vamos O
 por O
@@ -6341,7 +6341,7 @@ contra O
 bolivia O
 arriba O
 mi O
-vinotinto B-positive
+vinotinto O
 como O
 no O
 querert B-neutral
@@ -6349,7 +6349,7 @@ querert B-neutral
 osama B-negative
 bin I-negative
 laden I-negative
-r.i.p I-negative
+r.i.p O
 . O
 
 intendencia B-negative
@@ -6358,8 +6358,8 @@ ays\xe9n I-negative
 - O
 gobierno O
 de O
-chile B-negative
-http://t.co/lbiezt21 I-negative
+chile O
+http://t.co/lbiezt21 O
 v\xeda O
 gobiernodechile O
 cc B-neutral
@@ -6369,7 +6369,7 @@ intendenta B-negative
 de I-negative
 ays\xe9n I-negative
 es O
-ratificada O
+ratificada B-negative
 en O
 su O
 cargo O
@@ -6411,18 +6411,18 @@ mas O
 lejo B-neutral
 s: I-neutral
 memphis-miami I-neutral
-y I-neutral
-oklahoma-indiana I-neutral
+y O
+oklahoma-indiana O
 ! O
 
-melissavergarav O
-niniirodriguez O
+MelissaVergaraV O
+NiniiRodriguez O
 bueno O
 ya O
 me O
 dejan O
 la O
-recochita O
+recochita B-negative
 !!! O
 ... O
 sea O
@@ -6445,7 +6445,7 @@ lt O
 ; O
 3 O
 como O
-pasaras O
+pasaras B-negative
 tu O
 14 O
 de O
@@ -6475,13 +6475,13 @@ hace O
 parte O
 de O
 un O
-parque B-negative
-de I-negative
-diversiones I-negative
+parque B-positive
+de I-positive
+diversiones I-positive
 jajajajajajaj O
 
 vamos O
-vinotintoo O
+vinotintoo B-neutral
 !!! O
 a O
 sumar B-positive
@@ -6501,7 +6501,7 @@ navegantes B-positive
 del I-positive
 magallanes I-positive
 , O
-fundado O
+fundado B-neutral
 el O
 26 O
 de O
@@ -6515,7 +6515,7 @@ felicitaciones O
 claros B-neutral
 problemas O
 de O
-confianza O
+confianza B-negative
 en O
 los O
 sistemas O
@@ -6533,37 +6533,37 @@ con O
 la O
 entrevista O
 de O
-maickel O
+maickel B-neutral
 ?? O
 
 quiero O
-un O
-chicle B-positive
-dinovo I-positive
+un B-negative
+chicle I-negative
+dinovo I-negative
 
-rafaromo1 B-neutral
+rafaromo1 B-positive
 rt O
-fabiana2rei B-neutral
+Fabiana2Rei B-neutral
 s: I-neutral
 rt O
-mediogol O
+MedioGol O
 : O
-gool O
-de O
-jos\xe9 B-positive
-romo I-positive
-. I-positive
-tucanes I-positive
-0-1 I-positive
-llaneros I-positive
-de I-positive
-guanare I-positive
+gool B-negative
+de I-negative
+jos\xe9 I-negative
+romo I-negative
+. I-negative
+tucanes I-negative
+0-1 I-negative
+llaneros I-negative
+de I-negative
+guanare I-negative
 
 la O
 xunta B-negative
 estudiar\xe1 I-negative
 si O
-interviene O
+interviene B-negative
 el O
 concello O
 de O
@@ -6571,10 +6571,10 @@ os O
 blancos B-positive
 http://t.co/wzsuwwry I-positive
 
-horadelplaneta B-neutral
+horadelplaneta B-negative
 
 verga O
-hello69katty O
+Hello69Katty B-positive
 debe O
 estar O
 cagado B-neutral
@@ -6583,7 +6583,7 @@ arturo I-neutral
 sarmiento I-neutral
 . I-neutral
 
-fapuv B-neutral
+fapuv B-negative
 
 jove_social B-neutral
 hola O
@@ -6594,10 +6594,10 @@ apellido O
 es O
 quinone O
 o O
-qui\xf1ones O
+qui\xf1ones B-negative
 ? O
 
-padrejosepalmar B-neutral
+PadreJosePalmar B-negative
 estos O
 son O
 algunos O
@@ -6624,7 +6624,7 @@ innovaci\xf3n B-negative
 http://t.co/a6lj8tlj I-negative
 http://t.co/pwxx6a7l I-negative
 v\xeda O
-diariovasco B-neutral
+diariovasco O
 
 que O
 wena O
@@ -6640,10 +6640,10 @@ chile O
 en O
 los O
 panamericanos B-neutral
-2011 O
+2011 I-neutral
 :d O
 
-realmadrid O
+realmadrid B-negative
 
 laliespos B-negative
 lali I-negative
@@ -6652,8 +6652,8 @@ gira I-negative
 de I-negative
 despedida I-negative
 con O
-loa B-negative
-teen I-negative
+loa B-positive
+teen I-positive
 ?? O
 vendran O
 a O
@@ -6670,8 +6670,8 @@ the B-neutral
 beatle I-neutral
 s: I-neutral
 the O
-beagirls B-positive
-http://www.facebook.com/pages/the-beagirls/142168725799011?v=wall I-positive
+beagirls B-neutral
+http://www.facebook.com/pages/the-beagirls/142168725799011?v=wall I-neutral
 
 esa O
 es O
@@ -6679,8 +6679,8 @@ la O
 pura O
 verdad O
 .... O
-carlosoalbornoz B-positive
-morrocoicito I-positive
+carlosoalbornoz O
+Morrocoicito B-neutral
 
 felicidades O
 a O
@@ -6695,7 +6695,7 @@ lpb B-positive
 2011 I-positive
 , O
 octavo O
-t\xedtulo O
+t\xedtulo B-positive
 de O
 los O
 orientales O
@@ -6707,9 +6707,9 @@ gustado O
 un O
 v\xeddeo O
 de O
-youtube B-neutral
-. I-neutral
-http://t.co/pd6e0uob I-neutral
+YouTube O
+. O
+http://t.co/pd6e0uob B-positive
 la O
 pregunta O
 - O
@@ -6728,7 +6728,7 @@ valeriaau O
 enam\xf3rate O
 de O
 tu O
-existencia O
+existencia B-positive
 . O
 jack B-neutral
 kerouac" I-neutral
@@ -6746,7 +6746,7 @@ tener O
 nexos O
 con O
 los O
-zetas O
+zetas B-positive
 y O
 el O
 c\xe1rtel B-negative
@@ -6754,7 +6754,7 @@ del I-negative
 golfo I-negative
 http://t.co/654u3iz1 I-negative
 
-echar O
+echar B-neutral
 un O
 vistazo O
 a O
@@ -6765,8 +6765,8 @@ jennifer B-neutral
 lopez I-neutral
 - O
 on O
-the B-neutral
-floor I-neutral
+the O
+floor O
 ft O
 . O
 pitbull B-positive
@@ -6774,7 +6774,7 @@ http://t.co/pcxth06 I-positive
 v\xeda O
 youtube O
 
-deportes_pr B-neutral
+Deportes_PR B-neutral
 la O
 gente O
 me O
@@ -6782,7 +6782,7 @@ comenta O
 q O
 si O
 a O
-gamboa O
+gamboa B-negative
 lo O
 ke O
 le O
@@ -6807,7 +6807,7 @@ salud O
 
 pobrecito B-positive
 patricio I-positive
-flores I-positive
+flores O
 ... O
 ahora O
 no O
@@ -6822,7 +6822,7 @@ xd O
 ya O
 que O
 estas O
-chingo O
+chingo B-positive
 porque O
 regresen O
 los O
@@ -6844,7 +6844,7 @@ eco I-negative
 el O
 fascismo O
 eterno O
-collage O
+collage B-negative
 d O
 diferentes B-negative
 ideas I-negative
@@ -6858,20 +6858,20 @@ d O
 contradicciones\u201d B-positive
 http://t.co/qo3ptndo I-positive
 
-mariacorina2011 O
+mariacorina2011 B-neutral
 el O
 art O
 4 O
 de O
 las O
-ley B-positive
-inces I-positive
-promueve O
-la O
-etica O
+ley O
+inces B-negative
+promueve I-negative
+la I-negative
+etica I-negative
 revolucionaria O
 socialista O
-contradiciendo O
+contradiciendo B-negative
 el O
 art O
 102 O
@@ -6883,19 +6883,19 @@ constitucion O
 marwin B-negative
 gonz\xe1lez I-negative
 se O
-report\xf3 O
+report\xf3 B-positive
 a O
 los O
-leones B-neutral
+leones O
 - O
 beisbol O
 - O
-el B-neutral
-universal I-neutral
+el O
+universal O
 : O
 http://t.co/gkb5ick8 O
 v\xeda O
-eluniversal O
+ELUniversal O
 
 ya O
 le O
@@ -6920,7 +6920,7 @@ sinaloa I-negative
 100 O
 equipos O
 de O
-fomento O
+fomento B-positive
 al O
 autoempleo O
 : O
@@ -6928,22 +6928,22 @@ carlos B-negative
 hermosillo I-negative
 http://t.co/ri4h8s6z I-negative
 via O
-addthis O
+AddThis O
 
-rihanna B-neutral
-y O
-elton O
+rihanna B-positive
+y I-positive
+elton I-positive
 john B-positive
 brillaron I-positive
 en O
-inauguraci\xf3n B-neutral
-de I-neutral
-rock I-neutral
-in I-neutral
-rio I-neutral
-http://t.co/bvczjs6i I-neutral
+inauguraci\xf3n B-negative
+de I-negative
+rock I-negative
+in O
+rio O
+http://t.co/bvczjs6i B-neutral
 
-solefranco1979 B-neutral
+solefranco1979 B-negative
 federico O
 arias B-neutral
 tiene O
@@ -6957,10 +6957,10 @@ cerro O
 ?? O
 
 que O
-barbaros O
+barbaros B-positive
 , O
-justicia B-positive
-hondurena I-positive
+justicia O
+hondurena O
 deja O
 libre O
 a O
@@ -6981,7 +6981,7 @@ suhat O
 se O
 compromete O
 a O
-cumplir O
+cumplir B-negative
 las O
 medidas O
 de O
@@ -7025,9 +7025,9 @@ pe\xf1a B-negative
 nieto I-negative
 se O
 le O
-olvidaron O
-los O
-libros O
+olvidaron B-neutral
+los I-neutral
+libros I-neutral
 que O
 nunca O
 ha O
@@ -7035,7 +7035,7 @@ le\xeddo O
 , O
 como O
 tambi\xe9n O
-olvid\xf3 O
+olvid\xf3 B-positive
 que O
 enfermedad O
 ten\xeda O
@@ -7051,7 +7051,7 @@ estudiantes O
 estamos O
 abiertos O
 al O
-dialogo O
+dialogo B-negative
 . O
 
 la O
@@ -7063,7 +7063,7 @@ se O
 fue O
 a O
 los O
-cielos' O
+cielos' B-positive
 entre O
 las O
 63 B-negative
@@ -7074,7 +7074,7 @@ los O
 oscar B-neutral
 http://t.co/rz6i10uz I-neutral
 
-kleymar B-neutral
+KleyMar O
 jaja O
 en O
 funsion B-neutral
@@ -7087,23 +7087,23 @@ s\xed O
 lo O
 prometi\xf3 B-negative
 http://bit.ly/l9qre3 I-negative
-peru21pe I-negative
+Peru21pe I-negative
 : O
 daniel B-neutral
 abugatt\xe1 I-neutral
 s: I-neutral
 \u201collanta I-neutral
 nunca O
-prometi\xf3 B-negative
-gas I-negative
-a I-negative
-s/.12\u201d I-negative
+prometi\xf3 B-positive
+gas I-positive
+a O
+s/.12\u201d B-negative
 . I-negative
 http://ow.ly/5d8dm I-negative
 
-motorola B-neutral
+motorola B-negative
 
-tonyarauzo B-neutral
+TonyArauzo O
 saludos O
 tony B-neutral
 como O
@@ -7115,7 +7115,7 @@ de O
 mariannie O
 son O
 un O
-terremoto B-neutral
+terremoto O
 
 miocristinita B-negative
 cerogo I-negative
@@ -7127,7 +7127,7 @@ las O
 entradas O
 listas O
 jajaja O
-tirate O
+tirate B-negative
 un O
 paso O
 
@@ -7139,7 +7139,7 @@ universidad O
 dejo O
 de O
 ser O
-aut\xf3noma O
+aut\xf3noma B-negative
 hay O
 polic\xedas O
 resguardando O
@@ -7151,7 +7151,7 @@ unah B-neutral
 
 http://t.co/9j86c8eq B-neutral
 - O
-disparan O
+disparan B-negative
 a O
 padre O
 del O
@@ -7170,8 +7170,8 @@ nada O
 
 " O
 @ O
-buenasphrase B-neutral
-s: I-neutral
+buenasphrase O
+s: O
 ni\xf1a O
 el O
 facebook B-neutral
@@ -7193,7 +7193,7 @@ sean O
 libres O
 jajaja O
 
-chavezofficial B-neutral
+ChavezOfficial B-neutral
 mira O
 y O
 soto B-positive
@@ -7202,7 +7202,7 @@ que O
 es O
 aparte O
 de O
-borracho B-neutral
+borracho O
 ???? O
 
 al O
@@ -7211,14 +7211,14 @@ antonio B-positive
 machado I-positive
 allison I-positive
 , O
-bi\xf3logo O
+bi\xf3logo B-positive
 individuo O
 de O
 n\xfamero O
 de O
 la O
-academia B-positive
-de B-neutral
+academia B-neutral
+de I-neutral
 ciencias I-neutral
 f\xedsicas I-neutral
 ... O
@@ -7242,7 +7242,7 @@ la O
 sede O
 de O
 la O
-udi" O
+udi" B-positive
 / O
 nunca O
 entender\xe9 O
@@ -7263,7 +7263,7 @@ juntos O
 qu\xe9 O
 no O
 podemos O
-amarnos O
+amarnos B-neutral
 entre O
 todos O
 ? O
@@ -7279,7 +7279,7 @@ orquesta B-neutral
 bravo O
 por O
 nuestro O
-gustavodudamel O
+gustavodudamel B-positive
 ! O
 bravo O
 por O
@@ -7290,7 +7290,7 @@ viviremosyvenceremos O
 ! O
 
 de O
-quilpu\xe9 O
+quilpu\xe9 B-positive
 es O
 el O
 \xfanico O
@@ -7314,7 +7314,7 @@ propio O
 guanaco O
 , O
 que O
-saen O
+saen B-negative
 !!! O
 
 \xbfquieren B-neutral
@@ -7329,7 +7329,7 @@ $ O
 100.000 O
 para O
 seguir O
-yendo O
+yendo B-negative
 a O
 disfrutar O
 del O
@@ -7341,9 +7341,9 @@ el O
 ... O
 http://t.co/vbpcwike B-neutral
 
-luischataing O
-diputado B-neutral
-chataing I-neutral
+LuisChataing O
+diputado O
+chataing B-neutral
 se O
 le O
 acabaron O
@@ -7358,7 +7358,7 @@ de I-neutral
 johnny I-neutral
 depp I-neutral
 como O
-narrador\u2026 O
+narrador\u2026 B-positive
 es O
 so O
 fucking O
@@ -7372,7 +7372,7 @@ de O
 the B-neutral
 doors I-neutral
 
-ch\xe1vez B-neutral
+ch\xe1vez O
 "no O
 , O
 no O
@@ -7389,8 +7389,8 @@ incorporando O
 al O
 negocio O
 . O
-mario B-positive
-hogilla I-positive
+mario B-negative
+hogilla I-negative
 probable O
 candidato O
 del O
@@ -7400,7 +7400,7 @@ globovis B-neutral
 
 final O
 de O
-copa O
+copa B-positive
 del O
 rey O
 se O
@@ -7416,7 +7416,7 @@ de I-neutral
 madrid I-neutral
 http://t.co/q0g8s0cc I-neutral
 
-jessiedelap B-neutral
+jessieDeLaP B-neutral
 siii O
 los O
 benitez O
@@ -7425,7 +7425,7 @@ con O
 su O
 baile O
 tan O
-curioso O
+curioso B-negative
 .... O
 divinosss O
 .... O
@@ -7434,7 +7434,7 @@ se O
 me O
 antojaron O
 unas O
-poffets O
+poffets B-positive
 ... O
 todav\xeda O
 existen O
@@ -7448,14 +7448,14 @@ en O
 la O
 twitter B-neutral
 para O
-chismear O
+chismear B-positive
 y O
 pues O
 otra O
 cosas O
 
 hola O
-danieljosuers O
+danieljosuers B-negative
 ! O
 gracias O
 por O
@@ -7472,11 +7472,11 @@ semana O
 bueno O
 yo O
 voto O
-por B-positive
-leonel I-positive
+por O
+leonel O
 ........... O
 
-elcorillod B-neutral
+elcorillod B-negative
 a O
 que O
 hora O
@@ -7489,12 +7489,12 @@ de O
 venezuela O
 ? O
 
-siulapo B-negative
-"reza I-negative
+Siulapo B-positive
+"reza I-positive
 como O
 si O
 todo O
-dependiera O
+dependiera B-negative
 de O
 dios O
 , O
@@ -7523,7 +7523,7 @@ fmf O
 vaya O
 si O
 quieren O
-iniciar O
+iniciar B-positive
 con O
 el O
 pie O
@@ -7541,7 +7541,7 @@ de O
 trabajo O
 del O
 a\xd1o O
-ejale O
+ejale B-positive
 ( O
 @ O
 pontificia O
@@ -7556,20 +7556,20 @@ joaqu\xedn I-neutral
 ) O
 http://t.co/7bttilmo B-neutral
 
-robaron B-negative
-a I-negative
-wayne I-negative
+robaron B-neutral
+a O
+wayne B-negative
 ... O
 
-dayronyelbaby B-neutral
+dayronyelbaby B-negative
 hola O
 eres O
 dayron O
 ? O
 
-gilalcala O
-oye O
-gil O
+Gilalcala B-negative
+oye I-negative
+gil I-negative
 la O
 gente O
 de O
@@ -7580,7 +7580,7 @@ con O
 cirilo B-negative
 saucedo I-negative
 q O
-niega O
+niega B-positive
 q O
 es O
 originario O
@@ -7598,7 +7598,7 @@ nada O
 facil O
 ... O
 rt O
-chiguirebipolar O
+ChiguireBipolar B-positive
 : O
 http://ow.ly/6ew4y O
 alemania O
@@ -7614,9 +7614,9 @@ y O
 espa\xf1a O
 . O
 
-fcbarcelona O
-visca B-neutral
-barca I-neutral
+FCBarcelona O
+visca B-negative
+barca O
 hoy O
 hay O
 que O
@@ -7624,13 +7624,13 @@ ganar O
 
 por O
 que O
-tancredi O
+tancredi B-neutral
 en O
 lugar O
 de O
 vasquez O
 
-lauritainagura B-neutral
+lauritainagura B-negative
 
 se O
 cayo O
@@ -7639,22 +7639,22 @@ otra O
 vez O
 ? O
 o O
-sere O
+sere B-positive
 yo O
 se\xf1or O
 ? O
 
-psicovivir B-positive
+Psicovivir B-positive
 hasle I-positive
 un O
 analisis O
 a O
-maruja O
+maruja B-negative
 ! O
 
 cachito B-neutral
 se O
-incrusta O
+incrusta B-negative
 pasas O
 y O
 aceitunas O
@@ -7680,9 +7680,9 @@ noche O
 tranqila O
 ? O
 ... O
-ganara O
+ganara B-negative
 el O
-america B-positive
+america O
 ? O
 ... O
 cualquiera O
@@ -7694,7 +7694,7 @@ milagro O
 jejej O
 :) O
 
-aaronpereda B-neutral
+aaronPEREDA B-positive
 le O
 robara B-negative
 taquilla I-negative
@@ -7708,28 +7708,28 @@ hp O
 
 donde O
 compro O
-un O
-control B-negative
+un B-negative
+control I-negative
 de I-negative
 sky* I-negative
 ??????? I-negative
 
-epn O
+EPN O
 la O
 pregunta O
 , O
 \xbfpor O
 qu\xe9 O
 se O
-eliminaron O
+eliminaron B-positive
 las O
 cuentas O
 de O
 twitter B-neutral
 , O
-pau_95pena B-negative
+Pau_95pena B-negative
 y I-negative
-jojotorre I-negative
+JoJoTorre I-negative
 ? O
 
 u O
@@ -7744,7 +7744,7 @@ el O
 mejor O
 equipo O
 de O
-sudam\xe9rica O
+sudam\xe9rica B-negative
 en O
 ranking O
 conmebol B-positive
@@ -7756,7 +7756,7 @@ multimodal O
 kress O
 ? O
 van O
-leeuven O
+leeuven B-negative
 ? O
 williamson O
 ? O
@@ -7776,11 +7776,11 @@ historias I-negative
 del I-negative
 d\xeda O
 por O
-tipsparaahorrar B-positive
-elcorrillodemao I-positive
+tipsparaahorrar B-negative
+elcorrillodemao I-negative
 
 [ O
-audio O
+audio B-positive
 ] O
 alcalde O
 de O
@@ -7799,7 +7799,7 @@ s\xe9neca B-neutral
 brilla O
 sin O
 querer O
-opacar O
+opacar B-positive
 a O
 nadie O
 . O
@@ -7821,10 +7821,10 @@ piensalo O
 de O
 nuevo O
 ... O
-t.h O
-. O
+t.h B-neutral
+. I-neutral
 
-ssiiiiii O
+ssiiiiii B-positive
 michael B-positive
 bubbl\xe8 I-positive
 va O
@@ -7844,11 +7844,11 @@ i O
 lt O
 ; O
 3 O
-them B-neutral
+them O
 
 gran O
-real B-neutral
-madrid I-neutral
+real O
+madrid O
 , O
 espero O
 que O
@@ -7869,7 +7869,7 @@ empate O
 el O
 fc B-neutral
 barcelona I-neutral
-. I-neutral
+. O
 
 el O
 primer O
@@ -7880,7 +7880,7 @@ las O
 primarias O
 rt O
 @ O
-globovision O
+globovision B-neutral
 : O
 envideo B-negative
 pablo I-negative
@@ -7898,7 +7898,7 @@ nuevo O
 mcdonalds O
 abre O
 sus O
-puertas O
+puertas B-positive
 en O
 centro B-neutral
 comercial I-neutral
@@ -7910,10 +7910,10 @@ cierto O
 , O
 es O
 precioso.rt B-negative
-danielsolanno I-negative
+DanielSolanno I-negative
 : O
-alejandrobrzrt O
-raulfarias91 O
+alejandroBrzrt B-positive
+RaulFarias91 O
 cuando O
 el O
 barca B-neutral
@@ -7935,7 +7935,7 @@ la O
 ue O
 si O
 hay O
-espa\xf1oles O
+espa\xf1oles B-negative
 en O
 paro O
 http://t.co/tugplfq0 B-negative
@@ -7943,7 +7943,7 @@ economia I-negative
 ecofin I-negative
 
 evoluci\xf3n B-neutral
-del O
+del I-neutral
 logo O
 de O
 la O
@@ -7955,7 +7955,7 @@ a\xf1o O
 s: O
 http://t.co/m0vl0hri B-neutral
 
-sinmiedove B-neutral
+SinMiedoVe B-neutral
 los O
 periodistas O
 del O
@@ -7967,7 +7967,7 @@ tiene O
 el O
 menique B-negative
 manchado I-negative
-. O
+. I-negative
 no O
 votaron O
 ? O
@@ -7975,7 +7975,7 @@ http://myloc.me/6epc9 B-neutral
 
 la O
 mejor O
-almohada O
+almohada B-neutral
 es O
 una O
 conciencia O
@@ -7994,19 +7994,19 @@ establece O
 las O
 elecciones O
 primarias O
-voluntarias B-negative
-y I-negative
-vinculantes I-negative
-http://t.co/1hc5e24 I-negative
+voluntarias B-positive
+y I-positive
+vinculantes I-positive
+http://t.co/1hc5e24 I-positive
 
-daniaravena_b B-neutral
+DaniAravena_B B-positive
 hola O
 ... O
 que O
 bien O
 que O
 tengas O
-twitter B-neutral
+twitter O
 ... O
 nos O
 vemos O
@@ -8026,20 +8026,20 @@ dan O
 su O
 versi\xf3n O
 de O
-"encontronazo" O
+"encontronazo" B-negative
 en O
 el O
 hemiciclo B-positive
 http://bit.ly/ggwhdh I-positive
 
-poncholizarraga O
+PonchoLizarraga O
 good O
 luck O
 poncho O
 !!! O
 
-chilectra B-negative
-indica I-negative
+chilectra B-positive
+indica I-positive
 que O
 se O
 esta O
@@ -8054,7 +8054,7 @@ parecer O
 se O
 cayo O
 un O
-alimentador B-neutral
+alimentador O
 
 es O
 momento O
@@ -8066,10 +8066,10 @@ que O
 son O
 capases O
 los O
-chavos B-negative
-de I-negative
-la I-negative
-sub-17 I-negative
+chavos B-neutral
+de I-neutral
+la I-neutral
+sub-17 I-neutral
 y O
 claro O
 todo O
@@ -8081,10 +8081,10 @@ a O
 ganar O
 ....... O
 
-lomasvistodelasemana B-negative
-ligan I-negative
+LoMasVistodelaSemana B-positive
+ligan I-positive
 en O
-indagatoria O
+indagatoria B-negative
 a O
 fidel B-negative
 herrera I-negative
@@ -8106,8 +8106,8 @@ m\xe1s O
 chistes O
 ? O
 . O
-envia B-negative
-chiste I-negative
+envia B-positive
+chiste I-positive
 al O
 2-1 O
 
@@ -8123,7 +8123,7 @@ fue O
 una O
 botella O
 de O
-vidrio O
+vidrio B-neutral
 ; O
 en O
 espn O
@@ -8132,13 +8132,13 @@ las O
 im\xe1genes O
 ... O
 
-karentvn O
+KarenTVN O
 karen B-neutral
 con O
 tu O
 marido O
 son O
-poderosos O
+poderosos B-positive
 nosotros O
 tenemos O
 otro O
@@ -8170,7 +8170,7 @@ las O
 elecciones O
 la O
 tiene O
-pensada O
+pensada B-neutral
 hace O
 tiempo O
 !!!!!!!! O
@@ -8194,29 +8194,29 @@ de O
 la O
 habilitante O
 para O
-chavez B-positive
+chavez O
 y O
 la O
-destruccion O
+destruccion B-negative
 de O
 la O
 democracia O
 
-tatiksarmientop B-negative
-pongamonos I-negative
+TatiKSarmientoP B-positive
+pongamonos I-positive
 de O
 acuerdo O
 para O
 votar O
-teo B-negative
+teo O
 afuera O
 
 elementos B-negative
 de I-negative
 reflexi\xf3n I-negative
 sobre O
-twitter B-neutral
-http://t.co/mmsq2ns9 I-neutral
+twitter B-positive
+http://t.co/mmsq2ns9 I-positive
 
 ehms B-neutral
 me O
@@ -8228,12 +8228,12 @@ de O
 youtube O
 xd O
 porke O
-masacro O
+masacro B-negative
 la O
 cancion O
 u.u B-neutral
 
-zeucita B-neutral
+zeucita B-positive
 que O
 dificil O
 es O
@@ -8241,7 +8241,7 @@ decir O
 "me O
 gusta" O
 en O
-twitter B-neutral
+twitter O
 ! O
 pero O
 lo O
@@ -8253,12 +8253,12 @@ que O
 escriba O
 ! O
 
-recuerden B-neutral
+recuerden B-negative
 que O
-miguel B-neutral
-de I-neutral
-la I-neutral
-madrid I-neutral
+miguel O
+de O
+la O
+madrid O
 fue O
 quien O
 revelo O
@@ -8289,8 +8289,8 @@ la O
 derrota O
 del O
 italiano O
-ladron B-negative
-chimbo I-negative
+ladron B-positive
+chimbo I-positive
 que O
 perdio O
 viva O
@@ -8299,7 +8299,7 @@ de I-positive
 rosales I-positive
 carajo O
 
-chavezcandanga O
+chavezcandanga B-neutral
 presidente O
 ayude O
 a O
@@ -8335,14 +8335,14 @@ de O
 este O
 mundo O
 . O
-\u263abendiciones\u263a B-neutral
+\u263abendiciones\u263a O
 
 chunchos B-neutral
 !! O
 ... O
 aunque O
 les O
-hierva O
+hierva B-negative
 su O
 sangre O
 azul O
@@ -8354,7 +8354,7 @@ la O
 selecci\xf3n O
 es O
 del O
-colo B-positive
+colo O
 , O
 aquella O
 nutrida O
@@ -8371,7 +8371,7 @@ tod O
 s O
 , O
 productos O
-dentales O
+dentales B-positive
 s.a O
 . O
 les O
@@ -8394,15 +8394,15 @@ dial\xe9ctica O
 buena O
 esa O
 , O
-hegel O
-. O
+hegel B-neutral
+. I-neutral
 
 este O
 es O
 el O
 mejor O
-monitoreo B-neutral
-social I-neutral
+monitoreo B-negative
+social O
 del O
 pais O
 me O
@@ -8421,7 +8421,7 @@ quien O
 lo O
 dijo O
 
-drhoraciogtz B-negative
+DRHORACIOGTZ B-negative
 espnsutcliffe I-negative
 y O
 ser\xe1n O
@@ -8442,10 +8442,10 @@ de O
 mi O
 san O
 judas B-positive
-tadeo B-positive
+tadeo O
 ... O
 el O
-sant O
+sant B-negative
 k O
 nunka O
 m B-neutral
@@ -8467,16 +8467,16 @@ que O
 tu O
 y O
 yo O
-creamos O
+creamos B-negative
 un O
 d\xeda O
 ( O
-rafael B-neutral
-lechowski I-neutral
+rafael O
+lechowski O
 ) O
 temon B-neutral
 
-pinazo B-neutral
+pinazo O
 , O
 soy O
 chavin B-negative
@@ -8491,7 +8491,7 @@ los O
 50 O
 a\xf1os O
 
-fau B-neutral
+fau O
 en O
 toma O
 de O
@@ -8516,7 +8516,7 @@ no O
 contesta O
 tweets" O
 pero O
-fueran O
+fueran B-negative
 unas O
 quesadillas B-negative
 de I-negative
@@ -8529,10 +8529,10 @@ corrias I-negative
 graaaaaacias B-neutral
 !! O
 rt O
-trafficpuerto O
+TrafficPUERTO B-negative
 : O
 via O
-juliolez O
+JulioLez O
 : O
 restaurado O
 paso O
@@ -8558,11 +8558,11 @@ hace O
 2hr O
 pto O
 la O
-cruz B-neutral
+cruz O
 , O
 misi\xf3n B-negative
 decidia I-negative
-anzoategui B-neutral
+anzoategui I-negative
 y O
 la O
 gobernadora O
@@ -8578,8 +8578,8 @@ coraz\xf3n O
 sera O
 nuestro O
 pr\xf3ximo O
-sencillo O
-. O
+sencillo B-neutral
+. I-neutral
 
 no O
 se O
@@ -8588,14 +8588,14 @@ ese O
 diego B-negative
 arria I-negative
 son O
-puras O
+puras B-positive
 palabras O
 ... O
 juanchisifontes B-negative
-pettermoon I-negative
+PetterMoon I-negative
 jorgek2010 I-negative
 
-t\xedpico B-neutral
+t\xedpico B-negative
 : O
 le O
 dices O
@@ -8616,9 +8616,9 @@ de I-neutral
 180\xb0 I-neutral
 
 aframirez81 B-negative
-oscarcparra I-negative
-junrolo1 I-negative
-necktor_ I-negative
+OscarCParra I-negative
+JUNROLO1 I-negative
+Necktor_ I-negative
 a I-negative
 alina I-negative
 lozano I-negative
@@ -8626,14 +8626,14 @@ la I-negative
 encasillaron I-negative
 en O
 el O
-papel O
+papel B-neutral
 de O
 do\xf1a B-negative
 nidia I-negative
 .... O
 
-pau_ruiz1 O
-pacomayer B-negative
+Pau_Ruiz1 B-negative
+pacomayer I-negative
 uy I-negative
 , O
 ojal\xe1 O
@@ -8642,7 +8642,7 @@ pueda O
 :( O
 avisame O
 para O
-confirmarle O
+confirmarle B-positive
 a O
 jessy B-negative
 . O
@@ -8654,7 +8654,7 @@ gobierno O
 tan O
 delincuente O
 que O
-promueve O
+promueve B-positive
 una O
 web O
 con O
@@ -8666,10 +8666,10 @@ por O
 el O
 sebin B-neutral
 
-env\xedo B-neutral
-carta O
-gregorio B-neutral
-sanchez B-positive
+env\xedo O
+carta B-positive
+gregorio I-positive
+sanchez O
 al O
 por O
 esto O
@@ -8686,7 +8686,7 @@ calles O
 . O
 ud O
 le O
-cree O
+cree B-negative
 ? O
 yo O
 y O
@@ -8696,8 +8696,8 @@ que O
 diga O
 donde O
 
-negrotapia O
-jorge B-neutral
+negrotapia B-neutral
+jorge I-neutral
 , O
 tienes O
 la O
@@ -8714,7 +8714,7 @@ me O
 la O
 puedes O
 enviar O
-dimelo O
+dimelo B-negative
 para O
 no O
 molestarte O
@@ -8725,9 +8725,9 @@ mi O
 tiempo O
 
 queremos O
-compartirles O
-el O
-"dec\xe1logo O
+compartirles B-neutral
+el I-neutral
+"dec\xe1logo I-neutral
 para O
 el O
 periodismo O
@@ -8743,10 +8743,10 @@ http://t.co/merv4cg7 B-neutral
 las O
 encuestas O
 no O
-fallaron B-negative
-y I-negative
-la I-negative
-alta I-negative
+fallaron O
+y O
+la O
+alta B-negative
 participaci\xf3n O
 quit\xf3 B-negative
 trascendencia I-negative
@@ -8782,19 +8782,19 @@ el O
 martes O
 ... O
 aparezcan O
-yaaa O
+yaaa B-negative
 !!!! O
 
-mariano_reds B-neutral
+Mariano_reds O
 arriba O
 los O
-tigresss O
-de O
-quintana B-positive
+tigresss B-positive
+de I-positive
+quintana I-positive
 roo I-positive
 !!! O
 
-plomoparejo B-neutral
+plomoparejo B-positive
 para O
 nuestra O
 corta O
@@ -8807,9 +8807,9 @@ intento O
 d O
 golpe O
 4f O
-92 O
-de O
-chavez B-positive
+92 B-neutral
+de I-neutral
+chavez I-neutral
 y O
 sus O
 panas O
@@ -8819,7 +8819,7 @@ prensa O
 http://bit.ly/fnafa B-neutral
 
 qued\xf3 O
-conformado O
+conformado B-neutral
 el O
 colegio B-positive
 m\xe9dico I-positive
@@ -8830,7 +8830,7 @@ me O
 anoto O
 . O
 con O
-ch\xe1vez B-neutral
+ch\xe1vez O
 hoy O
 , O
 ma\xf1ana O
@@ -8840,27 +8840,27 @@ siempre O
 apoyo O
 total O
 al O
-psuv B-neutral
+psuv O
 rt O
 dcabellor O
 : O
 yo O
 estoy O
 con O
-ch\xe1vez B-neutral
+ch\xe1vez O
 , O
 con O
 el O
 original O
 . O
-\xbfqui\xe9n O
+\xbfqui\xe9n B-negative
 se O
 anota O
 ? O
 
 as\xed O
 se O
-vivi\xf3 O
+vivi\xf3 B-positive
 la O
 segunda O
 jornada O
@@ -8895,7 +8895,7 @@ momento O
 todo O
 normal O
 rt O
-trafficpuerto O
+TrafficPUERTO B-negative
 : O
 via O
 corwy O
@@ -8906,7 +8906,7 @@ cont O
 ) O
 http://t.co/mbudtg5x B-neutral
 
-anitaquintana87 B-neutral
+anitaquintana87 B-negative
 y O
 que O
 es O
@@ -8917,11 +8917,11 @@ de O
 mayora O
 ? O
 
-ritaguerrero B-neutral
+ritaguerrero B-negative
 
-lionel B-negative
-andres I-negative
-messi B-negative
+lionel B-positive
+andres I-positive
+messi O
 \u2665 O
 i O
 love O
@@ -8933,14 +8933,14 @@ the B-neutral
 ballon I-neutral
 d'or I-neutral
 
-sufriendo B-neutral
+sufriendo O
 las O
 resacas B-negative
 del I-negative
 huracan I-negative
 jova I-negative
 
-oscarcanto B-neutral
+OscarCanto B-positive
 si O
 en O
 verdad O
@@ -8954,13 +8954,13 @@ americanista O
 , O
 un O
 saludo O
-oscar B-neutral
+oscar O
 
 ayer O
 so\xf1\xe9 O
 que O
 el O
-fbi O
+fbi B-negative
 me O
 deten\xeda O
 por O
@@ -8972,7 +8972,7 @@ comet\xed B-neutral
 
 jaimito B-neutral
 , O
-dime O
+dime B-positive
 dos O
 pronombres.\n- B-negative
 \xbfqui\xe9n I-negative
@@ -9003,11 +9003,11 @@ luchador O
 . O
 hay O
 que O
-reconocerlo O
-. O
+reconocerlo B-neutral
+. I-neutral
 
 luchas O
-desatadas O
+desatadas B-positive
 en O
 chavismo B-negative
 \u201csin I-negative
@@ -9032,12 +9032,12 @@ para O
 amarse O
 no O
 para O
-usarse O
-. O
+usarse B-neutral
+. I-neutral
 
 " O
 @ O
-cicmty O
+cicmty B-positive
 : O
 *robo* B-negative
 liberty I-negative
@@ -9049,8 +9049,8 @@ jer\xf3nimon// I-positive
 fue O
 con O
 pistola O
-ferlarrazabal B-negative
-rodrigomedina I-negative
+FerLarrazabal B-negative
+RodrigoMedina I-negative
 fer/ro I-negative
 d: O
 c\xf3mo O
@@ -9063,7 +9063,7 @@ ayudo O
 ? O
 
 as\xed O
-tuitearon O
+tuitearon B-positive
 los O
 pol\xedticos O
 tras O
@@ -9079,8 +9079,8 @@ atac\xf3 I-negative
 de O
 nuevo O
 !! O
-mariah B-negative
-carey I-negative
+mariah B-positive
+carey I-positive
 junto O
 con O
 justin B-negative
@@ -9088,22 +9088,22 @@ bieber I-negative
 !! O
 jajaja O
 
-nanajimenez B-neutral
+nanajimenez B-positive
 reina O
 como O
 estas O
 ... O
 tus O
-dias\ncomo B-positive
-andan I-positive
+dias\ncomo B-negative
+andan I-negative
 
-callvu B-neutral
+Callvu O
 que O
 es O
 eso O
 claudio B-neutral
 
-marcesabat O
+MarceSabat O
 marcelita B-neutral
 , O
 marcelita B-neutral
@@ -9115,10 +9115,10 @@ para O
 meterme O
 en O
 tus O
-cachet\xe9s O
+cachet\xe9s B-negative
 ( O
-cc O
-felipeavello O
+cc B-neutral
+FelipeAvello I-neutral
 ) O
 
 "si O
@@ -9131,7 +9131,7 @@ espa\xf1a O
 , O
 ganar\xe1 O
 el O
-mundial" O
+mundial" B-positive
 - O
 zidane B-positive
 http://www.tukontenido.com/index.php?option=com_tpdugg&task=detail&id=895 I-positive
@@ -9147,7 +9147,7 @@ el O
 p\xfablico O
 y O
 les O
-expulsa O
+expulsa B-positive
 del O
 estadio O
 . O
@@ -9163,12 +9163,12 @@ para O
 la O
 venta O
 en O
-alemautos B-negative
-http://t.co/uzxnkwqi I-negative
+alemautos B-positive
+http://t.co/uzxnkwqi I-positive
 v\xeda O
 autonueve B-neutral
 
-josbe B-neutral
+Josbe O
 si O
 pero O
 como O
@@ -9190,26 +9190,26 @@ q O
 te O
 llame O
 
-paoomont B-neutral
+paOomont B-neutral
 ese O
 frio O
 es O
 pa O
 dormir O
-empiernaoooo O
+empiernaoooo B-negative
 te O
 quiero O
 pao O
 besos O
 
-menistwi B-neutral
+Menistwi B-neutral
 que O
 onda O
 xime O
 como O
 estas O
 !! O
-much\xedsimas O
+much\xedsimas B-negative
 gracias O
 te O
 mando O
@@ -9224,7 +9224,7 @@ hace O
 saludos O
 !! O
 
-sweetbixah B-neutral
+SweetBixah O
 una O
 pregunta O
 que O
@@ -9232,7 +9232,7 @@ es O
 tumblr B-neutral
 ? O
 
-condorito B-neutral
+condorito O
 debe O
 ser O
 la O
@@ -9246,8 +9246,8 @@ america I-neutral
 adem\xe1s O
 presentaremos O
 el O
-5\xb0 B-negative
-n\xb0 I-negative
+5\xb0 B-positive
+n\xb0 I-positive
 de O
 revista B-neutral
 observatorio I-neutral
@@ -9272,7 +9272,7 @@ invitados I-negative
 noo B-neutral
 ! O
 son O
-buenisimos O
+buenisimos B-negative
 ! O
 " O
 @ O
@@ -9298,7 +9298,7 @@ costos O
 son O
 genuinos." B-neutral
 
-pedroferriz O
+PedroFerriz B-positive
 . O
 pedro O
 buenos O
@@ -9308,10 +9308,10 @@ el O
 ingeniero B-negative
 jarfuch I-negative
 tiene O
-twitter B-neutral
+twitter O
 ? O
 
-kerly_labomba O
+kerly_labomba B-positive
 el O
 q O
 pone O
@@ -9321,11 +9321,11 @@ en O
 la O
 bomba O
 tiene O
-twitter B-neutral
+twitter O
 ? O
 
-pam_pach B-negative
-xolach I-negative
+pam_pach B-positive
+Xolach I-positive
 mejor O
 quedamos B-negative
 nosotras I-negative
@@ -9335,14 +9335,14 @@ pau I-negative
 , O
 y O
 le O
-avisamos O
+avisamos B-negative
 ! O
 
 " O
 @ O
 mey2734 O
 : O
-resulta O
+resulta B-negative
 que O
 todavia O
 me O
@@ -9362,16 +9362,16 @@ ven O
 claridad O
 ! O
 
-karuvf B-negative
-scargenz I-negative
+karuvf B-positive
+scargenz I-positive
 aguante O
-gonzo B-positive
-http://t.co/bltd4v88 I-positive
+gonzo B-negative
+http://t.co/bltd4v88 I-negative
 
 nadie O
 me O
 podr\xe1 O
-quitar O
+quitar B-negative
 la O
 honra O
 de O
@@ -9397,10 +9397,10 @@ este O
 video O
 . O
 -- O
-recopilaci\xf3n O
-de O
-chavez B-positive
-http://youtu.be/h8ru8wrgenw I-positive
+recopilaci\xf3n B-negative
+de I-negative
+chavez I-negative
+http://youtu.be/h8ru8wrgenw I-negative
 
 vamos O
 por O
@@ -9415,17 +9415,17 @@ s: I-neutral
 el O
 debate O
 inicio O
-http://t.co/onwdf10k O
+http://t.co/onwdf10k B-positive
 porque O
 no O
 hizo O
 eso O
-calderon B-negative
+calderon O
 desde O
 un O
 principio B-neutral
 
-miichixx B-neutral
+MiichiXx O
 hablo O
 x O
 cell O
@@ -9436,12 +9436,12 @@ i O
 tu O
 ? O
 
-dltbng O
-papurri O
+DLTBNG B-negative
+papurri I-negative
 , O
 encontre O
 la O
-tipografia O
+tipografia B-negative
 que O
 siempre O
 te O
@@ -9461,7 +9461,7 @@ http://t.co/wrcrcccv B-neutral
 
 " O
 @ O
-mattyaranguiz O
+mattyaranguiz B-negative
 : O
 a O
 un O
@@ -9488,7 +9488,7 @@ de O
 marin B-negative
 es O
 una O
-verguenzaa O
+verguenzaa B-positive
 ! O
 
 tiigres B-negative
@@ -9496,8 +9496,8 @@ de I-negative
 araguaa I-negative
 el O
 mejor O
-equipoo B-negative
-campeonesss I-negative
+equipoo B-positive
+campeonesss I-positive
 ........ O
 
 almiron B-neutral
@@ -9509,7 +9509,7 @@ podes O
 me O
 callo O
 si O
-metes O
+metes B-negative
 un O
 gol O
 karajo O
@@ -9517,12 +9517,12 @@ karajo O
 
 grande O
 mi O
-vinotinto B-positive
+vinotinto O
 grande O
 te O
-amooo O
+amooo B-positive
 carajo O
-vinotintosoy B-neutral
+VinotintoSoy B-neutral
 
 en O
 maquinas B-negative
@@ -9544,7 +9544,7 @@ vasari I-negative
 en O
 plaza O
 las O
-palomas B-neutral
+palomas O
 
 estoy O
 viendo O
@@ -9560,7 +9560,7 @@ cazan I-negative
 ballenas I-negative
 ? O
 que O
-chingaos O
+chingaos B-negative
 nos O
 pasa O
 ??? O
@@ -9576,18 +9576,18 @@ iris B-negative
 varela I-negative
 es O
 el O
-teniente B-neutral
-coronel I-neutral
-cubano I-neutral
-miguel I-neutral
-azcuy I-neutral
+teniente B-negative
+coronel I-negative
+cubano I-negative
+miguel I-negative
+azcuy I-negative
 director O
 de O
 la O
-c\xe1rcel B-neutral
-de I-neutral
-m\xe1xima I-neutral
-seguridad I-neutral
+c\xe1rcel B-negative
+de I-negative
+m\xe1xima I-negative
+seguridad O
 en O
 cuba O
 
@@ -9603,7 +9603,7 @@ innova O
 no O
 tienen O
 buen O
-surtido O
+surtido B-negative
 y O
 atienden O
 muy O
@@ -9618,7 +9618,7 @@ pues O
 estamos O
 ac\xe1 O
 
-td_deportes B-neutral
+TD_Deportes B-neutral
 pues O
 no O
 me O
@@ -9640,15 +9640,15 @@ cuau O
 ojala O
 y O
 si O
-vuelva O
+vuelva B-negative
 al O
 nido B-neutral
 
 kevin B-negative
 durant I-negative
 = O
-clutch B-negative
-player I-negative
+clutch B-positive
+player I-positive
 !!!!! O
 voy O
 a O
@@ -9672,7 +9672,7 @@ pedroo_r B-negative
 \nya I-negative
 somos O
 2 O
-peter B-neutral
+peter O
 .. O
 !! O
 jajaja O
@@ -9681,9 +9681,9 @@ la O
 diosa O
 de O
 helen B-positive
-http://t.co/8b2teiky I-positive
+http://t.co/8b2teiky O
 
-palomaaguirre B-neutral
+palomaaguirre O
 por O
 que O
 le O
@@ -9697,9 +9697,9 @@ paloma O
 ! O
 :p O
 
-jacquelinepsuv B-negative
+JacquelinePSUV B-negative
 ingresa I-negative
-y O
+y I-negative
 vota O
 ... O
 chavez B-negative
@@ -9719,16 +9719,16 @@ subtitulado I-neutral
 espa\xf1ol O
 http://t.co/idohxzy O
 via O
-youtube O
+youtube B-neutral
 
-guatonsalinas B-neutral
+Guatonsalinas B-neutral
 180 O
 empaques B-negative
 despedidos I-negative
 injustamente I-negative
 en O
 lider O
-quilicura O
+quilicura B-negative
 rt O
 porfavor O
 \xa1 O
@@ -9741,10 +9741,10 @@ causa O
 por O
 fin O
 gano O
-cardenales. O
+cardenales. B-neutral
 ! O
 
-mediotiempo B-neutral
+mediotiempo O
 saben O
 en O
 que O
@@ -9776,8 +9776,8 @@ sobre O
 bosnia B-negative
 organizada I-negative
 por O
-elpais O
-. O
+elpais B-negative
+. I-negative
 si O
 si O
 , O
@@ -9786,7 +9786,7 @@ amigos O
 tambi\xe9n O
 . O
 
-ramosrizo B-neutral
+ramosrizo B-positive
 que O
 no O
 nos O
@@ -9815,7 +9815,7 @@ univ B-negative
 chimba I-negative
 y I-negative
 cobrar I-negative
-ivss B-negative
+ivss O
 . O
 y O
 ponte O
@@ -9832,7 +9832,7 @@ se O
 vaya O
 ! O
 
-cosasquemegeneranviolencia B-neutral
+CosasQueMeGeneranViolencia B-negative
 que O
 pitbull B-positive
 le O
@@ -9856,15 +9856,15 @@ encuentro O
 este O
 video O
 .... O
-http://t.co/rpnatbyh B-positive
-\n\xbfluis I-positive
-perez I-positive
+http://t.co/rpnatbyh B-neutral
+\n\xbfluis I-neutral
+perez I-neutral
 nuestro O
 pr\xf3ximo O
 alcalde O
 ? O
 
-ninel B-neutral
+ninel B-negative
 te O
 invito O
 a O
@@ -9879,7 +9879,7 @@ prd B-negative
 favorece O
 a O
 andr\xe9s B-neutral
-manuel I-neutral
+manuel B-neutral
 l\xf3pez I-neutral
 obrador I-neutral
 
@@ -9894,7 +9894,7 @@ armani I-neutral
 + O
 fotos O
 ) O
-http://t.co/ikjgiq9j B-neutral
+http://t.co/ikjgiq9j O
 
 fedroguillen B-neutral
 a O
@@ -9903,14 +9903,14 @@ de O
 fumar O
 mi O
 buen O
-fedro O
-. O
+fedro B-neutral
+. I-neutral
 
 asco O
 vale O
 . O
 rt O
-estepana O
+EstePana B-negative
 : O
 mand\xe9 B-negative
 a I-negative
@@ -9928,7 +9928,7 @@ un O
 hipster/irreverenteajuro/fuckthesystem B-positive
 *o* I-positive
 
-plinero O
+PLinero B-neutral
 hola O
 padre O
 si O
@@ -9943,8 +9943,8 @@ ballesteros I-neutral
 barrios O
 en O
 san O
-juan B-negative
-nepomuceno I-negative
+juan B-neutral
+nepomuceno I-neutral
 .. O
 
 zzantiago B-neutral
@@ -9952,7 +9952,7 @@ dios O
 te O
 abrira O
 las O
-puertas O
+puertas B-negative
 desde O
 alli O
 estaras O
@@ -9972,8 +9972,8 @@ bien O
 el O
 sem\xe1foro O
 del O
-hosp B-negative
-funcionara I-negative
+hosp B-positive
+funcionara I-positive
 un O
 par O
 de O
@@ -9984,7 +9984,7 @@ vez O
 rt O
 miguelhotero O
 : O
-ch\xe1vez B-neutral
+ch\xe1vez O
 ( O
 cont O
 ) O
@@ -9994,7 +9994,7 @@ blackberry B-neutral
 anuncia O
 que O
 ha O
-restaurado O
+restaurado B-positive
 todos O
 sus O
 servicios O
@@ -10011,7 +10011,7 @@ al O
 \xe1rbitro O
 ... O
 a O
-demichelis B-negative
+demichelis O
 .. O
 !! O
 a O
@@ -10029,19 +10029,19 @@ est\xe1 O
 por O
 comenzar O
 en O
-canal22 O
+Canal22 O
 el O
 programa O
 especial O
-'di\xe1logo B-negative
-ciudadano' I-negative
+'di\xe1logo B-positive
+ciudadano' I-positive
 con O
 el O
 presidente O
 de O
 m\xe9xico O
-felipe B-neutral
-calder\xf3n I-neutral
+felipe B-negative
+calder\xf3n I-negative
 
 colombia O
 autoriza B-negative
@@ -10052,18 +10052,18 @@ makled B-negative
 | O
 \xdaltimas O
 noticias O
-http://t.co/srpl5fj B-neutral
+http://t.co/srpl5fj O
 
-sabadoenlanoche B-negative
+SABADOENLANOCHE B-negative
 . I-negative
 chicasss I-negative
 me O
-perdi O
+perdi B-negative
 la O
 noticia O
 de O
-lady B-positive
-gaga I-positive
+lady B-neutral
+gaga I-neutral
 ! O
 cuando O
 viene O
@@ -10071,7 +10071,7 @@ a O
 venezuela O
 ? O
 
-finaliz\xf3 B-neutral
+finaliz\xf3 B-negative
 el O
 partido O
 , O
@@ -10094,7 +10094,7 @@ de O
 campeonato O
 . O
 
-jose B-neutral
+jose B-positive
 guerra O
 en O
 primera O
@@ -10125,12 +10125,12 @@ el O
 sal\xf3n O
 turismo O
 de O
-anato O
-. O
+anato B-neutral
+. I-neutral
 
 diputado O
 juan B-neutral
-lobos B-neutral
+lobos O
 muere O
 en O
 accidente O
@@ -10161,17 +10161,17 @@ android B-negative
 1.8.0 I-negative
 en O
 el O
-snappz B-negative
-market I-negative
+snappz B-positive
+market I-positive
 se O
 encuentra O
 la O
 versi\xf3n O
 1.7.1 B-neutral
 
-gtelyie O
+Gtelyie O
 jacquelinegaete B-neutral
-jhendelyn O
+Jhendelyn I-neutral
 no O
 sera O
 mucho O
@@ -10188,7 +10188,7 @@ por O
 el O
 menu O
 via O
-twiter O
+twiter B-negative
 .. O
 ja-ja B-neutral
 
@@ -10198,9 +10198,9 @@ claro O
 feliz O
 dia O
 . O
-feliiiiiiiiiiiz B-negative
-diaaaa I-negative
-ana O
+feliiiiiiiiiiiz B-positive
+diaaaa I-positive
+ana B-positive
 en O
 
 . O
@@ -10212,13 +10212,13 @@ r I-neutral
 . I-neutral
 cabello I-neutral
 v I-neutral
-. O
+. I-neutral
 :::: O
 . O
 : O
-canolli B-negative
-siciliani I-negative
-http://t.co/le39h6u7 I-negative
+canolli B-positive
+siciliani I-positive
+http://t.co/le39h6u7 I-positive
 
 " O
 @ O
@@ -10240,9 +10240,9 @@ que O
 escucharlas B-negative
 . I-negative
 montesquieu" I-negative
-y I-negative
-la I-negative
-controversia I-negative
+y O
+la O
+controversia B-positive
 ? O
 noooo O
 
@@ -10259,7 +10259,7 @@ no O
 asistir O
 a O
 la O
-pr\xf3xima O
+pr\xf3xima B-negative
 edici\xf3n O
 : O
 la O
@@ -10268,15 +10268,15 @@ primera O
 bj\xf6rk O
 . O
 
-radiostaronline B-negative
-http://t.co/jjw2k6ux I-negative
+radiostaronline B-positive
+http://t.co/jjw2k6ux I-positive
 - O
 insomnia B-neutral
 house I-neutral
 music I-neutral
 en O
 vivo O
-conectate O
+conectate B-negative
 programa O
 y O
 saluda O
@@ -10294,14 +10294,14 @@ cuando O
 se O
 quiere O
 ! O
-jcap O
+jcap B-positive
 . O
 \u263a O
 
 se O
 buska O
 el O
-umvue O
+umvue B-negative
 de O
 ( O
 1-teta O
@@ -10317,9 +10317,9 @@ ja O
 a O
 lo O
 de O
-britney B-negative
+britney B-positive
 en O
-ccs O
+ccs B-neutral
 yo O
 no O
 voy O
@@ -10327,7 +10327,7 @@ ni O
 brindado O
 . O
 
-mechecelta B-neutral
+MecheCelta B-negative
 muchas O
 gracias O
 meche O
@@ -10370,15 +10370,15 @@ el O
 discurso O
 en O
 la O
-cumbre B-neutral
-de I-neutral
-r\xedo I-neutral
-de I-neutral
-1992 I-neutral
+cumbre O
+de O
+r\xedo O
+de O
+1992 B-negative
 ? O
 ---&gt O
 ; O
-severnsuzuki O
+SevernSuzuki O
 20 O
 a\xf1os O
 despu\xe9s O
@@ -10407,7 +10407,7 @@ jurate B-positive
 rosales I-positive
 . O
 en O
-zeta O
+zeta B-positive
 y O
 en O
 http://t.co/f43chaze O
@@ -10417,11 +10417,11 @@ de O
 venezuela O
 ) O
 
-sebastianlagob B-negative
+SebastianLagoB B-negative
 jesucristo I-negative
 "superstar" I-negative
 yo O
-actu\xe9 O
+actu\xe9 B-neutral
 en O
 esa O
 obra O
@@ -10434,13 +10434,13 @@ estas O
 haciendo O
 muy O
 bien O
-esras O
+esras B-neutral
 el O
 mejor O
 presentador O
 william B-positive
 levy I-positive
-sos O
+sos I-positive
 el O
 mejor O
 !!!! O
@@ -10466,14 +10466,14 @@ pais O
 por O
 que O
 al O
-cfe O
+cfe B-negative
 no O
 puede O
 
-trafficvalencia O
+trafficVALENCIA B-neutral
 llama O
 al O
-8232176 O
+8232176 B-negative
 en O
 horario O
 de O
@@ -10491,7 +10491,7 @@ http://myloc.me/e0tci I-positive
 
 regala B-negative
 01 I-negative
-blackberry B-negative
+blackberry O
 8520 O
 gemini O
 o O
@@ -10502,11 +10502,11 @@ apollo O
 desde O
 s/ O
 . O
-675 O
+675 B-negative
 : O
 http://t.co/ohk4xm4w B-neutral
 
-chavezcandanga O
+chavezcandanga B-positive
 hoy O
 d\xeda O
 de O
@@ -10522,7 +10522,7 @@ usted B-negative
 intervenga I-negative
 el O
 ivss B-neutral
-del O
+del I-neutral
 estado O
 vargas O
 no O
@@ -10530,24 +10530,24 @@ aguantamos O
 tanto O
 atropello O
 
-pinoteca B-negative
-andybrunereau I-negative
+pinoteca B-positive
+AndyBrunereau I-positive
 no O
 , O
 que O
 te O
 diga O
-diana O
-. O
-jajajaa O
+diana B-positive
+. I-positive
+jajajaa I-positive
 
 verga O
 ni\xf1o O
-jesus B-neutral
+jesus O
 , O
 no O
 me O
-traigas O
+traigas B-positive
 nada O
 , O
 llevate B-negative
@@ -10561,7 +10561,7 @@ tiene O
 jodio O
 !! O
 
-compartiendo B-neutral
+compartiendo B-negative
 con O
 mi O
 mami O
@@ -10573,7 +10573,7 @@ mamita O
 ! O
 carmencita3112 B-neutral
 
-'el B-neutral
+'el B-positive
 corazon O
 de O
 una O
@@ -10604,7 +10604,7 @@ cabello O
 : O
 no O
 habr\xe1 O
-negociaciones O
+negociaciones B-neutral
 con O
 la O
 oposici\xf3n O
@@ -10620,23 +10620,23 @@ mete O
 con O
 colombia O
 lo O
-detesto B-neutral
+detesto O
 
-eitanbenezra O
-y O
-naranjeros B-negative
+EitanBenezra B-negative
+y I-negative
+naranjeros I-negative
 apaleando I-negative
 a O
 los O
-algodoneros O
+algodoneros B-neutral
 !! O
 
-cooperativa O
+Cooperativa O
 urgnt B-negative
 divulgar I-negative
 sto I-negative
 una O
-clarividnt O
+clarividnt B-positive
 se O
 concto B-negative
 spiritual I-negative
@@ -10659,7 +10659,7 @@ hueso O
 d O
 ballena B-neutral
 
-krizrivas B-neutral
+KrizRivas O
 porque O
 no O
 te O
@@ -10674,8 +10674,8 @@ associates I-neutral
 - O
 servicios O
 de O
-consultoria B-positive
-internacional I-positive
+consultoria O
+internacional O
 a O
 su O
 servicio O
@@ -10683,7 +10683,7 @@ en O
 2012 O
 ! O
 
-confirmado O
+confirmado B-negative
 , O
 la O
 confech O
@@ -10702,7 +10702,7 @@ irma I-negative
 ( O
 caneguin O
 # O
-27 O
+27 B-negative
 , O
 entre O
 lago O
@@ -10721,18 +10721,18 @@ estoy O
 de O
 acuerdo O
 con O
-capriles B-negative
+capriles O
 , O
 el O
 progreso O
 se O
-basa O
+basa B-positive
 en O
 la O
 educaci\xf3n O
 . O
 
-posterous B-neutral
+posterous O
 ya O
 es O
 de O
@@ -10745,14 +10745,14 @@ detecta I-negative
 toxina I-negative
 en O
 la O
-almeja B-negative
-depurada I-negative
+almeja B-positive
+depurada I-positive
 en O
 la O
-batea B-negative
-de I-negative
-ferrol I-negative
-http://t.co/szb3jjap I-negative
+batea B-positive
+de I-positive
+ferrol I-positive
+http://t.co/szb3jjap I-positive
 
 me O
 gusta O
@@ -10771,8 +10771,8 @@ tambi\xe9n O
 lo O
 hagas O
 ... O
-pablo B-positive
-neruda I-positive
+pablo B-neutral
+neruda I-neutral
 
 antes O
 golpeaba B-negative
@@ -10789,7 +10789,7 @@ a O
 muerte O
 por O
 un O
-tin-larin O
+tin-larin B-negative
 , O
 un O
 bubbaloo O
@@ -10818,7 +10818,7 @@ que O
 trata O
 de O
 un O
-submarino B-neutral
+submarino B-negative
 
 +1 B-negative
 o/ I-negative
@@ -10830,7 +10830,7 @@ esa O
 \xe9poca O
 en O
 que O
-exist\xeda O
+exist\xeda B-negative
 el O
 pin O
 , O
@@ -10855,13 +10855,13 @@ tiene O
 verg\xfcenza O
 !! O
 rt O
-ndtitulare B-neutral
+NDtitulare B-neutral
 s: I-neutral
 "si O
 no O
 es O
 por O
-fidel B-neutral
+fidel B-negative
 , O
 qui\xe9n O
 sabe O
@@ -10879,7 +10879,7 @@ carolina B-neutral
 confirmo I-neutral
 tbn I-neutral
 q O
-madonna B-positive
+madonna O
 viene O
 a O
 pasar O
@@ -10902,14 +10902,14 @@ de I-neutral
 misi\xf3n I-neutral
 hijos O
 de O
-venezuela O
-arranca O
-en O
-13 B-neutral
+venezuela B-neutral
+arranca I-neutral
+en I-neutral
+13 I-neutral
 estados I-neutral
 http://t.co/kuxdw2za I-neutral
 
-alemondras B-neutral
+AleMondras B-negative
 muy O
 bien O
 dicho O
@@ -10931,17 +10931,17 @@ conectividad O
 . O
 gracias O
 
-lyna_lv B-neutral
+Lyna_LV B-neutral
 y O
 mas O
 descompuesta O
 pq O
 ganaron O
 los O
-naranjeros O
+naranjeros B-negative
 !!! O
 
-karlapannini B-negative
+karlaPannini B-negative
 olvidalo I-negative
 karlaa I-negative
 no O
@@ -10956,7 +10956,7 @@ busco O
 por O
 googlee O
 ! O
-rataa O
+rataa B-negative
 : O
 ( O
 
@@ -10987,7 +10987,7 @@ deposito B-neutral
 dental I-neutral
 ? O
 ... O
-http://t.co/6yjwkh7d B-neutral
+http://t.co/6yjwkh7d B-positive
 
 informo B-neutral
 siguen O
@@ -11004,7 +11004,7 @@ sus O
 derechos O
 contra O
 el O
-matrato O
+matrato B-negative
 por O
 parte O
 de O
@@ -11012,7 +11012,7 @@ directivos O
 del O
 nosocomio O
 
-enrique_rojas1 B-neutral
+Enrique_Rojas1 B-negative
 no O
 comulgo O
 con O
@@ -11034,29 +11034,29 @@ razon.aguilas B-neutral
 navegantes I-neutral
 0 O
 
-ismenia99 B-negative
-http://tweetphoto.com/26349329 I-negative
+Ismenia99 B-positive
+http://tweetphoto.com/26349329 I-positive
 q O
 sabes O
 de O
-ceratti O
+ceratti B-negative
 ? O
 http://myloc.me/80xhx B-neutral
 
 tigre B-neutral
-s: I-neutral
+s: O
 paulo B-neutral
 da I-neutral
 silva I-neutral
 se O
 perfila O
 para O
-reforzar O
+reforzar B-negative
 al O
 campe\xf3n O
 http://t.co/dqwmmjnw B-neutral
 
-aleganja B-neutral
+aleganja O
 la O
 puedes O
 ver O
@@ -11065,11 +11065,11 @@ aparicio O
 en O
 www.argostv.com B-neutral
 
-itxina B-neutral
+itxina B-positive
 entre O
 tu O
 , O
-paula B-positive
+paula O
 y O
 yo O
 ?? O
@@ -11090,7 +11090,7 @@ arriba O
 a O
 la O
 izquierda O
-psuv B-neutral
+psuv B-positive
 
 "la O
 pornograf\xeda O
@@ -11108,7 +11108,7 @@ ser O
 humano O
 hasta O
 hacerlo O
-semejante O
+semejante B-negative
 a O
 un O
 animal O
@@ -11120,8 +11120,8 @@ a O
 margarita O
 ) O
 
-navarretejos B-neutral
-. O
+NavarreteJos B-negative
+. I-negative
 estoy O
 en O
 inacap B-neutral
@@ -11145,7 +11145,7 @@ durante O
 el O
 2012 O
 seg\xfan O
-sondeo O
+sondeo B-negative
 d O
 m\xe9xico O
 unido O
@@ -11158,8 +11158,8 @@ enano I-negative
 , O
 vas O
 a O
-la O
-marcha O
+la B-neutral
+marcha I-neutral
 ma\xf1ana O
 ? O
 
@@ -11175,7 +11175,7 @@ de O
 lanzamiento O
 y O
 nuevo O
-tr\xe1iler O
+tr\xe1iler B-negative
 : O
 2k B-negative
 games I-negative
@@ -11200,8 +11200,8 @@ a O
 valeriano B-negative
 chavarr\xeda I-negative
 en O
-talcahuano O
-. O
+talcahuano B-negative
+. I-negative
 que O
 llamen O
 a O
@@ -11212,13 +11212,13 @@ al O
 95310755 B-neutral
 
 qu\xe9 O
-golazo B-positive
-del I-positive
-am\xe9rica I-positive
+golazo B-neutral
+del I-neutral
+am\xe9rica I-neutral
 !! O
 
-robaron B-negative
-casa I-negative
+robaron B-positive
+casa O
 del O
 embajador B-neutral
 de O
@@ -11237,7 +11237,7 @@ express O
 ) O
 http://t.co/nsci06fj B-neutral
 
-afirmar B-neutral
+afirmar O
 que O
 un O
 ser O
@@ -11266,9 +11266,9 @@ y O
 letras O
 . O
 
-cooperativa B-neutral
-kross I-neutral
-ty I-neutral
+Cooperativa O
+kross O
+ty O
 ? O
 xd O
 
@@ -11281,7 +11281,7 @@ a O
 aceptar O
 que O
 nos O
-devuelvan O
+devuelvan B-negative
 16 O
 fincas B-negative
 \xa1nos I-negative
@@ -11294,7 +11294,7 @@ fincas O
 - O
 http://bit.ly/fjda6a B-neutral
 
-eutrafico B-neutral
+EUtrafico B-positive
 protesta O
 en O
 la O
@@ -11309,9 +11309,9 @@ frente O
 a O
 semaforo O
 piden O
-retractivos B-negative
-y I-negative
-aguinaldos I-negative
+retractivos B-positive
+y I-positive
+aguinaldos I-positive
 
 olimpiada B-neutral
 nacional I-neutral
@@ -11319,8 +11319,8 @@ nacional I-neutral
 # O
 voleibol O
 : O
-san B-neutral
-luis I-neutral
+san O
+luis O
 con O
 cuatro O
 boletos O
@@ -11330,13 +11330,13 @@ http://t.co/tmdcmobz I-negative
 http://t.co/nmbcglr4 I-negative
 
 una O
-chikita B-negative
-caliente I-negative
+chikita B-positive
+caliente I-positive
 me O
 la O
 mande O
-dady B-negative
-yanke I-negative
+dady B-positive
+yanke I-positive
 ... O
 
 far\xeda B-neutral
@@ -11354,8 +11354,8 @@ puede O
 tener O
 una O
 mejor O
-venezuela O
-http://t.co/ygewcn9d B-neutral
+venezuela B-positive
+http://t.co/ygewcn9d I-positive
 
 tren B-negative
 ligero I-negative
@@ -11363,12 +11363,12 @@ a I-negative
 tlajomulco I-negative
 hasta O
 2014 O
-:: O
+:: B-positive
 el O
 informador B-positive
 http://t.co/vwez2ys8 I-positive
 
-jose_ayala_tv B-neutral
+jose_ayala_TV B-negative
 excelente O
 .. O
 aguante O
@@ -11390,7 +11390,7 @@ idolo B-neutral
 jose I-neutral
 .. O
 
-njimenez79 B-neutral
+njimenez79 B-negative
 hola O
 tambi\xe9n O
 por O
@@ -11405,9 +11405,9 @@ grande O
 
 mis O
 ojos O
-sangran O
+sangran B-negative
 rt O
-arnal B-neutral
+Arnal B-neutral
 do: I-neutral
 en O
 la O
@@ -11421,8 +11421,8 @@ el O
 temblor O
 ?? O
 
-pablosimonetti B-negative
-sentidoscomunes I-negative
+pablosimonetti B-positive
+sentidoscomunes I-positive
 y O
 el O
 mismo O
@@ -11441,16 +11441,16 @@ vea O
 el O
 premio O
 de O
-consuelo O
+consuelo B-negative
 q O
 recibio B-neutral
 
-federer B-negative
-sirviendo I-negative
+federer B-positive
+sirviendo I-positive
 para O
 patido O
 ante O
-djokovic B-positive
+djokovic O
 . O
 
 interesante B-negative
@@ -11458,7 +11458,7 @@ reflexi\xf3n I-negative
 sobre O
 aborto B-negative
 terap\xe9utico I-negative
-. O
+. I-negative
 va O
 columna O
 de O
@@ -11472,7 +11472,7 @@ eguiguren I-negative
 http://t.co/ydvzckjb I-negative
 
 oposici\xf3n O
-instala O
+instala B-positive
 mesa O
 de O
 unidad O
@@ -11494,9 +11494,9 @@ http://bit.ly/hoh5mz B-neutral
 
 oferta O
 no O
-confrontadora B-neutral
-de I-neutral
-capriles I-neutral
+confrontadora O
+de O
+capriles O
 ( O
 que O
 tambi\xe9n O
@@ -11524,14 +11524,14 @@ youtube O
 the B-neutral
 outfield I-neutral
 - O
-your O
+your B-positive
 love O
 ( O
 lyrics O
 ) O
 http://youtu.be/bwij1ltqeey?a B-neutral
 
-nataliaalfonzo5 B-neutral
+NataliaAlfonzo5 B-neutral
 lo O
 doy O
 todo O
@@ -11542,7 +11542,7 @@ s\xf3lo O
 dime O
 con O
 que O
-sue\xf1as O
+sue\xf1as B-negative
 y O
 te O
 lo O
@@ -11570,17 +11570,17 @@ a O
 eeuu O
 a O
 que O
-investigue O
+investigue B-negative
 las O
 torturas B-negative
 reveladas I-negative
 en O
-wikileaks B-neutral
-http://ning.it/9mpbcg I-neutral
+wikileaks B-positive
+http://ning.it/9mpbcg I-positive
 
 escuchando O
 a O
-silvio B-neutral
+silvio B-positive
 
 esta O
 en O
@@ -11589,7 +11589,7 @@ onu B-neutral
 que O
 apoya O
 esas O
-barbaridades O
+barbaridades B-neutral
 , O
 esta O
 en O
@@ -11601,7 +11601,7 @@ de O
 hambre O
 , O
 
-polloenconserva O
+Polloenconserva B-negative
 este O
 si O
 es O
@@ -11624,7 +11624,7 @@ llama O
 es O
 canci\xf3n O
 de O
-mana O
+mana B-neutral
 que O
 busca O
 al O
@@ -11634,12 +11634,12 @@ angel O
 
 "el O
 que O
-imita O
+imita B-negative
 , O
 fracasa"rt O
 la_patilla O
 : O
-samsung B-neutral
+samsung O
 rinde O
 tributo O
 a O
@@ -11666,8 +11666,8 @@ late O
 que O
 hay O
 algo O
-oscuro B-negative
-detr\xe1s I-negative
+oscuro B-positive
+detr\xe1s I-positive
 de O
 eso O
 . O
@@ -11688,8 +11688,8 @@ el O
 cuento O
 de O
 la O
-"dictadura" B-positive
-:-p I-positive
+"dictadura" B-negative
+:-p I-negative
 
 "el O
 que O
@@ -11703,7 +11703,7 @@ devuelve O
 es O
 mejor O
 estar O
-callado" O
+callado" B-neutral
 : O
 piqu\xe9 B-neutral
 http://bit.ly/ijxtuq I-neutral
@@ -11713,7 +11713,7 @@ metrob\xfas B-negative
 compartir\xe1 I-negative
 carril I-negative
 con O
-tr\xe1ileres O
+tr\xe1ileres B-positive
 , O
 autos B-negative
 y I-negative
@@ -11730,9 +11730,9 @@ tenido O
 tanto O
 gasto O
 en O
-j B-negative
-. I-negative
-fern\xe1ndez I-negative
+j B-neutral
+. O
+fern\xe1ndez O
 que O
 no O
 les O
@@ -11745,7 +11745,7 @@ la O
 frase O
 de O
 un O
-hincha O
+hincha B-positive
 de O
 la O
 u O
@@ -11772,7 +11772,7 @@ me O
 re\xed O
 !! O
 
-mafetomate O
+MafeTomate B-negative
 hahaha O
 estoy O
 esperando O
@@ -11807,7 +11807,7 @@ ganado O
 y O
 dos O
 ... O
-http://t.co/mvy2mhwu B-neutral
+http://t.co/mvy2mhwu O
 
 chavezcandanga O
 mande O
@@ -11836,7 +11836,7 @@ kirchner I-negative
 en O
 argentina O
 , O
-\xbfuna O
+\xbfuna B-positive
 realidad O
 ? O
 vealo O
@@ -11848,7 +11848,7 @@ oscargarciadiaz B-positive
 paz I-positive
 a O
 su O
-restoooos O
+restoooos B-neutral
 !! O
 excelente O
 centro O
@@ -11869,14 +11869,14 @@ mucho O
 canijo O
 saludos O
 a O
-dana O
+dana B-negative
 besos O
 los O
 kiero O
 
 politicosmex O
-sicilia-calder\xf3n B-negative
-\xbfen I-negative
+sicilia-calder\xf3n B-positive
+\xbfen I-positive
 que O
 trabajo O
 te O
@@ -11890,7 +11890,7 @@ corran O
 ? O
 maestro O
 del O
-snte B-neutral
+snte O
 
 dicen O
 que O
@@ -11900,8 +11900,8 @@ confirm\xf3 O
 la O
 muerte O
 de O
-fidel B-neutral
-castro I-neutral
+fidel B-positive
+castro I-positive
 , O
 se O
 espera O
@@ -11915,13 +11915,13 @@ gobierno O
 . O
 
 es O
-inconstitucional O
+inconstitucional B-negative
 que O
 la O
 cep O
 de O
 la O
-mud B-negative
+mud O
 diga O
 que O
 un O
@@ -11958,9 +11958,9 @@ el O
 ca\xeddo O
 invent\xf3 O
 la O
-etb B-neutral
+etb O
 
-adela_micha B-neutral
+Adela_Micha B-positive
 no O
 exculpo B-negative
 a I-negative
@@ -11981,9 +11981,9 @@ en O
 riesgo O
 al O
 querer O
-experimentar B-negative
-la I-negative
-adultez I-negative
+experimentar B-positive
+la I-positive
+adultez I-positive
 
 buen O
 dia O
@@ -11994,7 +11994,7 @@ s O
 mis O
 contactos O
 y O
-amistades O
+amistades B-positive
 de O
 twitter B-neutral
 ! O
@@ -12004,7 +12004,7 @@ los O
 bendiga O
 :) O
 beamendoza23 B-negative
-anyoli_t I-negative
+Anyoli_T I-negative
 ( O
 cont O
 ) O
@@ -12017,8 +12017,8 @@ guetta I-positive
 , O
 no O
 puede O
-serrrrr B-positive
-http://t.co/46eujis1 I-positive
+serrrrr O
+http://t.co/46eujis1 B-neutral
 
 ahora O
 en O
@@ -12034,13 +12034,13 @@ ipads O
 porque O
 no O
 se O
-preocupan O
+preocupan B-positive
 de O
 trabajar O
 la O
-manga O
-de O
-........... O
+manga B-neutral
+de I-neutral
+........... I-neutral
 
 monterocnn O
 es O
@@ -12055,7 +12055,7 @@ no O
 es O
 el O
 mismo O
-ch\xe1vez B-neutral
+ch\xe1vez O
 de O
 siempre O
 ! O
@@ -12064,8 +12064,8 @@ siempre O
 jajajajajaja O
 perdio O
 el O
-cityyyyy B-negative
-vengaa I-negative
+cityyyyy B-positive
+vengaa I-positive
 vieja O
 !!!! O
 asi O
@@ -12075,7 +12075,7 @@ se O
 comienza O
 el O
 a\xd1o O
-bitchessss B-neutral
+bitchessss O
 
 viendo O
 a O
@@ -12087,14 +12087,14 @@ en O
 la O
 red O
 ... O
-interesante O
+interesante B-neutral
 ... O
 
-+1 B-neutral
++1 B-negative
 rt O
-lauraschb B-negative
+LauraSCHB B-negative
 \nmira I-negative
-twitter B-negative
+twitter O
 , O
 no O
 me O
@@ -12114,7 +12114,7 @@ favor O
 
 reconocen B-neutral
 al O
-inah O
+inah B-negative
 por O
 paseos B-negative
 virtuales I-negative
@@ -12145,8 +12145,8 @@ mi O
 gente O
 latina O
 ! O
-dyland B-negative
-papi I-negative
+dyland B-positive
+papi I-positive
 junto O
 a O
 lenny O
@@ -12156,13 +12156,13 @@ me O
 informan O
 que O
 la O
-guardia B-neutral
+guardia O
 personal O
 de O
 uribe B-negative
 se O
 esta O
-cagando O
+cagando B-negative
 las O
 vacaciones O
 de O
@@ -12174,7 +12174,7 @@ santa B-neutral
 marta I-neutral
 . I-neutral
 
-ramonesadal B-negative
+RamonesAdal B-negative
 ramones I-negative
 que O
 onda O
@@ -12188,7 +12188,7 @@ la O
 neta O
 es O
 puro O
-choro O
+choro B-negative
 , O
 que O
 la O
@@ -12207,7 +12207,7 @@ asegura O
 el O
 gobernador O
 del O
-banco B-negative
+banco O
 de O
 m\xe9xico O
 , O
@@ -12223,7 +12223,7 @@ es O
 el O
 peor O
 en O
-120 O
+120 B-negative
 a\xf1os O
 . O
 http://t.co/nmtvh4rk B-neutral
@@ -12240,16 +12240,16 @@ rt O
 @ O
 xxxshogoxx O
 : O
-allanferndz B-negative
+AllanFerndz B-negative
 jairolaracena I-negative
 haha O
 po O
 ok O
-pasame O
+pasame B-negative
 los O
-guantes O
-y O
-jairo B-neutral
+guantes B-negative
+y I-negative
+jairo I-negative
 toca O
 la O
 campana O
@@ -12259,9 +12259,9 @@ lol" B-neutral
 alvaro B-neutral
 ram\xedrez I-neutral
 y O
-juan B-negative
-vera I-negative
-encabezan I-negative
+juan B-positive
+vera I-positive
+encabezan I-positive
 las O
 candidaturas B-negative
 respectivamente I-negative
@@ -12289,15 +12289,15 @@ fm I-neutral
 , O
 con O
 nuestros O
-soldados B-neutral
+soldados O
 
-veamos B-neutral
+veamos B-negative
 como O
 le O
 va O
 a O
 mi O
-america B-positive
+america O
 , O
 a O
 nos O
@@ -12309,7 +12309,7 @@ partido B-neutral
 ............ I-neutral
 venga O
 
-pepe2091 B-neutral
+pepe2091 B-negative
 estas O
 wey O
 o O
@@ -12333,9 +12333,9 @@ se\xf1ores O
 nuestro O
 gustavo B-neutral
 dudamel I-neutral
-gustavodudamel I-neutral
+GustavoDudamel I-neutral
 con O
-grammy B-neutral
+grammy B-positive
 en O
 mano O
 !!!!! O
@@ -12344,7 +12344,7 @@ jos\xe9 B-neutral
 antonio I-neutral
 g\xf3mez I-neutral
 : O
-'creemos O
+'creemos B-negative
 que O
 nuestra O
 postura O
@@ -12374,7 +12374,7 @@ derecha O
 gana O
 perderemos O
 las O
-misiones\u201d O
+misiones\u201d B-positive
 y O
 el O
 no O
@@ -12383,7 +12383,7 @@ seguir O
 guisando B-neutral
 
 reci\xe9n O
-llegado O
+llegado B-positive
 ... O
 @ O
 nelson B-neutral
@@ -12399,8 +12399,8 @@ trujillo O
 per\xfa O
 http://t.co/srccgabs B-neutral
 
-vladdo O
-volviste O
+VLADDO O
+volviste B-positive
 ........ O
 que O
 alegr\xeda O
@@ -12425,7 +12425,7 @@ alemania O
 , O
 estara O
 en O
-berlin O
+berlin B-neutral
 sera O
 su O
 3 O
@@ -12453,14 +12453,14 @@ las O
 obras O
 en O
 el O
-poliedro O
+poliedro B-negative
 para O
 el O
 preol\xedmpico B-neutral
 de I-neutral
 baloncesto I-neutral
 
-adntva B-neutral
+ADNTVA O
 !!! O
 nery B-negative
 cardozo I-negative
@@ -12471,8 +12471,8 @@ ortiz I-neutral
 carlos B-neutral
 ochoa I-neutral
 
-pri_mzt B-negative
-carlosfelton I-negative
+pri_mzt B-positive
+carlosfelton I-positive
 mejor O
 q O
 regrese B-negative
@@ -12480,13 +12480,13 @@ chuy I-negative
 aguilar I-negative
 y O
 sus O
-compinches O
+compinches B-negative
 lo O
 q O
 se O
 robaron B-neutral
 
-chavezcandanga O
+chavezcandanga B-neutral
 presidente O
 le O
 pedimos O
@@ -12529,13 +12529,13 @@ tienen O
 la O
 laassp O
 ! O
-fomenta O
+fomenta B-negative
 la O
 competencia O
 desleal O
 ! O
 
-psu B-neutral
+psu B-negative
 
 en O
 conferencia O
@@ -12548,7 +12548,7 @@ mota I-neutral
 presidente O
 de O
 la O
-cofeco O
+cofeco B-negative
 y O
 el O
 procurador B-neutral
@@ -12567,24 +12567,24 @@ oficial O
 a O
 venezuela O
 del O
-presidente B-positive
-"venezolano" I-positive
-. O
+presidente B-negative
+"venezolano" I-negative
+. I-negative
 se O
 va O
 a O
 su O
 patria O
 . O
-lucioquincioc B-neutral
+LucioQuincioC B-neutral
 
 tengo O
-tantas O
+tantas B-negative
 ganas O
 d O
 ver O
 a O
-davidfarias O
+DavidFarias O
 que O
 ayer O
 so\xf1\xe9 O
@@ -12598,19 +12598,19 @@ kikino. O
 ! O
 
 vamos O
-leones B-neutral
+leones O
 , O
 un O
 paso O
 mas O
 con O
 humildad O
-. O
+. B-neutral
 
 aeropuerto O
 d O
 los O
-\xc1ngeles O
+\xc1ngeles B-negative
 ( O
 lax O
 ) O
@@ -12650,26 +12650,26 @@ la O
 salida O
 de O
 los O
-buses B-neutral
-de I-neutral
-la I-neutral
-divisi\xf3n I-neutral
-el I-neutral
-teniente I-neutral
-. I-neutral
+buses B-negative
+de O
+la O
+divisi\xf3n O
+el O
+teniente O
+. O
 
 ahora O
 si O
 va O
-rolando B-negative
-panchana I-negative
+rolando B-positive
+panchana I-positive
 en O
 sonorama O
 pilas O
 ... O
 
 cuando O
-decimos O
+decimos B-positive
 que O
 todo O
 tiempo O
@@ -12687,7 +12687,7 @@ francisco B-neutral
 de I-neutral
 quevedo I-neutral
 
-todosobrecine B-neutral
+TodoSobreCine B-neutral
 ayer O
 pude O
 verla O
@@ -12695,7 +12695,7 @@ verla O
 una O
 trama O
 poco O
-interesante O
+interesante B-negative
 , O
 pero O
 gracias O
@@ -12728,7 +12728,7 @@ puesta O
 a O
 punto O
 d O
-nego O
+nego B-negative
 previo O
 a O
 asamblea O
@@ -12750,11 +12750,11 @@ quien O
 mas O
 le O
 aparece O
-publi B-negative
-de I-negative
-netflix I-negative
+publi B-neutral
+de I-neutral
+netflix I-neutral
 en O
-google B-neutral
+google O
 ? O
 
 " O
@@ -12774,19 +12774,19 @@ cultura O
 herm\xe9tica" O
 , O
 dice O
-laura B-neutral
+laura O
 di O
-marco B-positive
+marco O
 , O
 autora O
 d O
 libro O
 sobre O
 la O
-agrupaci\xf3n O
+agrupaci\xf3n B-negative
 . O
 
-vaalentinajaavi B-neutral
+vaalentinajaavi B-negative
 hoy O
 hoy O
 hoy O
@@ -12797,13 +12797,13 @@ al O
 antonio B-positive
 kjasjksajksajksay I-positive
 la I-positive
-nelly_ldc I-positive
+Nelly_ldc I-positive
 sela I-positive
 come O
 cruzaa B-neutral
 
 felipe B-positive
-cubillos I-positive
+cubillos O
 son O
 de O
 esas O
@@ -12825,7 +12825,7 @@ de O
 su O
 cirugia O
 se O
-convirtieron O
+convirtieron B-negative
 en O
 el O
 simbolo O
@@ -12859,7 +12859,7 @@ tan O
 poco O
 . O
 es O
-extremadamente O
+extremadamente B-negative
 facil O
 . O
 hablar O
@@ -12869,13 +12869,13 @@ y O
 ya O
 esta O
 ! O
-pp B-neutral
+pp O
 es O
 la O
 demostracion O
 . O
 
-pumart B-neutral
+pumart B-negative
 jajaja O
 si O
 stupida B-negative
@@ -12894,10 +12894,10 @@ acto O
 luctuoso O
 de O
 los O
-funcionarios B-neutral
-federales I-neutral
-en I-neutral
-campo I-neutral
+funcionarios B-positive
+federales I-positive
+en O
+campo O
 marte O
 
 ch\xe1vez B-neutral
@@ -12910,7 +12910,7 @@ $ O
 4.000 O
 millones O
 con O
-rusia O
+rusia B-negative
 y O
 otros O
 $ O
@@ -12953,11 +12953,11 @@ a O
 dostoievski O
 !!!! O
 por O
-favooor O
+favooor B-negative
 ! O
 
 jocifranco O
-tomale O
+tomale B-neutral
 foto O
 y O
 me O
@@ -13009,18 +13009,18 @@ a\xf1os O
 con O
 iq O
 m\xe1s O
-elevado O
+elevado B-positive
 que O
-einstein B-negative
+einstein O
 ... O
 14 O
 : O
 30 O
 hrs O
 , O
-cadenatres_mx B-neutral
+CadenaTres_Mx B-neutral
 
-felipeavello O
+FelipeAvello B-positive
 me O
 caes B-negative
 pesimo I-negative
@@ -13043,23 +13043,23 @@ te O
 mereces O
 a O
 la O
-carla B-positive
-guatero I-positive
+carla B-neutral
+guatero I-neutral
 
 fallece O
-pedro B-negative
-febles I-negative
+pedro B-neutral
+febles I-neutral
 , O
 leyenda O
 del O
-f\xfatbol O
-venezolano O
-http://t.co/zppbaodk B-neutral
+f\xfatbol B-positive
+venezolano I-positive
+http://t.co/zppbaodk I-positive
 
 inamovilidad B-neutral
 laboral I-neutral
 se O
-aplicar\xe1 O
+aplicar\xe1 B-neutral
 a O
 la O
 presidencia O
@@ -13075,7 +13075,7 @@ afirm\xe1n I-positive
 que O
 est\xe1n O
 m\xe1s O
-obligados O
+obligados B-positive
 que O
 nunca O
 por O
@@ -13094,7 +13094,7 @@ finales O
 
 el O
 \xe9xito O
-consiste O
+consiste B-negative
 en O
 obtener O
 lo O
@@ -13119,8 +13119,8 @@ emerson I-neutral
 tve B-neutral
 terminar\xe1 I-neutral
 con O
-'59 B-negative
-segundos' I-negative
+'59 B-positive
+segundos' I-positive
 en O
 abril O
 http://t.co/buwacoic O
@@ -13138,10 +13138,10 @@ trampol\xedn O
 y O
 no O
 como O
-sof\xe1 O
+sof\xe1 B-negative
 . O
 
-leonardo_padron B-neutral
+Leonardo_Padron B-neutral
 x O
 favor O
 venda O
@@ -13157,7 +13157,7 @@ transmitan O
 todos O
 los O
 d\xedas O
-a11pm O
+a11pm B-negative
 y O
 verla O
 cuando O
@@ -13184,7 +13184,7 @@ financiero O
 ahi O
 lo O
 puedes O
-checar O
+checar B-negative
 amiga O
 
 renault B-negative
@@ -13193,9 +13193,9 @@ llegar\xe1 I-negative
 con O
 nueva O
 pinta O
-http://j.mp/oqkohn B-neutral
+http://j.mp/oqkohn B-negative
 
-culturacolectiv B-neutral
+CulturaColectiv B-neutral
 solo O
 falto O
 mencionar O
@@ -13209,7 +13209,7 @@ una O
 l\xednea B-neutral
 recta I-neutral
 est\xe1 O
-dividida O
+dividida B-negative
 en O
 el O
 extremo O
@@ -13221,10 +13221,10 @@ cuando O
 " O
 
 me O
-top\xe9 O
+top\xe9 B-neutral
 con O
-mi B-negative
-marciano I-negative
+mi O
+marciano O
 favorito O
 ... O
 
@@ -13239,7 +13239,7 @@ funcionar O
 con O
 manos O
 libres O
-bluetooth O
+bluetooth B-negative
 , O
 a\xf1ade B-negative
 publicida I-negative
@@ -13259,8 +13259,8 @@ facebook B-neutral
 en O
 el O
 \xe1lbum O
-"tus B-negative
-ideas I-negative
+"tus B-positive
+ideas I-positive
 es O
 lo O
 mas O
@@ -13280,13 +13280,13 @@ de O
 los O
 libros O
 sobre O
-linkedin B-positive
+linkedin O
 que O
 regala B-negative
-trecebits I-negative
+TreceBits I-negative
 \u201d O
 
-luceromexico O
+LuceroMexico O
 ayer O
 hice O
 mi O
@@ -13305,12 +13305,12 @@ salga O
 bien O
 !!! O
 
-colominam B-negative
-6topoderweb I-negative
+colominaM B-negative
+6toPoderweb I-negative
 ataque O
 directo O
 a O
-polar B-positive
+polar O
 bajarle O
 el O
 precio O
@@ -13318,10 +13318,10 @@ a O
 la O
 mitad O
 de O
-minalba O
-. O
+minalba B-neutral
+. I-neutral
 
-cooperativa O
+Cooperativa O
 : O
 este O
 viernes O
@@ -13333,14 +13333,14 @@ de O
 ciencia O
 ficci\xf3n O
 y O
-fantas\xeda B-negative
-http://t.co/8ca6vmhx I-negative
+fantas\xeda B-positive
+http://t.co/8ca6vmhx I-positive
 / O
 yo O
 quiero O
 !!! O
-cc B-neutral
-maca_cruz I-neutral
+cc O
+maca_cruz B-neutral
 
 y O
 pensar O
@@ -13353,10 +13353,10 @@ a O
 batistuta O
 , O
 a O
-maradona O
+maradona B-negative
 !!! O
 
-partidopsuv O
+PartidoPSUV B-negative
 a O
 quien O
 nos O
@@ -13382,7 +13382,7 @@ solidaria B-negative
 . I-negative
 04161277740 I-negative
 
-futbolred B-neutral
+futbolred O
 como O
 va O
 el O
@@ -13391,7 +13391,7 @@ del O
 once B-negative
 caldas I-negative
 vs O
-santos B-neutral
+santos O
 ??? O
 
 chavez B-positive
@@ -13406,7 +13406,7 @@ la O
 izquierda O
 conspiranoica O
 es O
-patetica O
+patetica B-negative
 . O
 es O
 como O
@@ -13421,7 +13421,7 @@ ten\xedan I-neutral
 empleada I-neutral
 a O
 una O
-bruja O
+bruja B-negative
 . O
 el O
 gobierno O
@@ -13435,7 +13435,7 @@ brujer\xeda O
 help B-positive
 http://t.co/dpbn00yy I-positive
 
-djokovic B-positive
+djokovic B-negative
 , O
 el O
 puto O
@@ -13447,7 +13447,7 @@ y O
 porque O
 no O
 le O
-suspenden O
+suspenden B-neutral
 tambi\xe9n O
 la O
 ayuda O
@@ -13474,7 +13474,7 @@ ac\xe9ptate O
 recon\xf3cete B-negative
 y I-negative
 \xe1mate I-negative
-. O
+. I-negative
 recuerda O
 que O
 tienes O
@@ -13487,7 +13487,7 @@ la O
 eternidad".facundo B-neutral
 cabral I-neutral
 
-mytrend2011 B-neutral
+MyTrend2011 B-positive
 en O
 polyforum B-negative
 siqueiros I-negative
@@ -13499,7 +13499,7 @@ de O
 agosto O
 . O
 
-martinvalverde B-neutral
+martinvalverde B-positive
 estamos O
 promocionando O
 diario B-neutral
@@ -13518,10 +13518,10 @@ proyecto O
 de O
 mar\xeda B-neutral
 en O
-twitter B-neutral
+twitter O
 ? O
 
-esooo B-neutral
+esooo B-negative
 manito O
 uh O
 ah O
@@ -13545,8 +13545,8 @@ http://t.co/e2v60x1o B-neutral
 
 vuelve O
 el O
-jet\xf3n O
-chavezcandanga O
+jet\xf3n B-negative
+chavezcandanga I-negative
 . O
 el O
 mismo O
@@ -13560,14 +13560,14 @@ gaddafi B-neutral
 y O
 otros O
 que O
-creyeron O
+creyeron B-negative
 ser O
 "la O
 patria" O
 : O
 http://t.co/nzeoeuoa B-neutral
 
-sofimazzucco O
+SofiMazzucco B-negative
 recuerdo O
 aquel O
 d\xeda O
@@ -13580,7 +13580,7 @@ hab\xeda O
 visto O
 brujillizas B-neutral
 
-chavezcandanga O
+chavezcandanga B-positive
 . O
 buenas O
 tardes O
@@ -13603,7 +13603,7 @@ sera O
 eso O
 verdad O
 
-cesar B-neutral
+cesar B-positive
 como O
 quedo O
 el O
@@ -13613,7 +13613,7 @@ america B-positive
 mi O
 mam\xe1 O
 estar\xeda O
-orgullosa O
+orgullosa B-positive
 de O
 ver O
 cuanta B-negative
@@ -13634,7 +13634,7 @@ dedicado I-negative
 a O
 don B-negative
 h\xe9ctor I-negative
-g\xf3mez B-negative
+g\xf3mez I-negative
 . I-negative
 espl\xe9ndido I-negative
 ! O
@@ -13643,11 +13643,11 @@ publica B-negative
 gdf I-negative
 reformas I-negative
 a O
-la B-neutral
-ley I-neutral
-de I-neutral
-transparencia I-neutral
-http://t.co/5u5lkpd I-neutral
+la O
+ley O
+de O
+transparencia O
+http://t.co/5u5lkpd B-neutral
 
 vamos O
 madrid B-negative
@@ -13655,7 +13655,7 @@ halaaa I-negative
 joda O
 1-0 O
 arriba O
-realmadridistas B-neutral
+RealMadridistas B-positive
 
 el O
 golpe O
@@ -13668,20 +13668,20 @@ veracruz O
 reportaje O
 special O
 ) O
-http://t.co/t6kucwt O
+http://t.co/t6kucwt B-negative
 v\xeda O
-mundonarco B-neutral
+Mundonarco B-neutral
 
 en O
 la O
-obscuridad O
+obscuridad B-positive
 jugando O
 plants O
 vs O
 zombies O
 :') B-neutral
 
-jeffdonald33 B-neutral
+jeffdonald33 B-negative
 // O
 parece O
 empleado O
@@ -13701,13 +13701,13 @@ chingada O
 eres O
 puto O
 !! O
-\nxd B-neutral
+\nxd B-negative
 
 ahorita O
 fueras O
 spidercesti O
 rt O
-enanomike O
+enanomike B-negative
 : O
 mierda O
 acabo O
@@ -13731,12 +13731,12 @@ herrero B-neutral
 con I-neutral
 h I-neutral
 herrero I-neutral
-javherrero16 O
+JavHerrero16 O
 rt O
-anitalauragrr O
+anitalauraGRR O
 : O
 los O
-ferrero O
+ferrero B-positive
 y O
 yo O
 & O
@@ -13745,7 +13745,7 @@ lt O
 3 O
 
 adele B-neutral
-! O
+! I-neutral
 
 jes\xfas B-positive
 far\xeda I-positive
@@ -13760,12 +13760,12 @@ le O
 atribuye O
 el O
 semanario O
-quinto O
+quinto B-negative
 d\xeda O
 http://t.co/brphfwf B-positive
-mpnecesario I-positive
+MPNecesario I-positive
 
-ana B-neutral
+ana O
 mato O
 y O
 las O
@@ -13783,8 +13783,8 @@ y O
 la O
 dependencia\nhttp O
 : O
-//t.co/c3kwg1so B-positive
-http://t.co/3oexygew I-positive
+//t.co/c3kwg1so B-negative
+http://t.co/3oexygew I-negative
 
 "colombia B-neutral
 no O
@@ -13793,7 +13793,7 @@ avalar O
 reuni\xf3n O
 con O
 rangel O
-silva" O
+silva" B-negative
 - O
 \xa0msn B-neutral
 latinoam\xe9rica I-neutral
@@ -13804,8 +13804,8 @@ http://t.co/rdd5k7th O
 v\xeda O
 msnve O
 
-ninel B-neutral
-conde I-neutral
+ninel B-negative
+conde I-negative
 vs O
 . O
 el O
@@ -13820,14 +13820,14 @@ ganas O
 de O
 ense\xf1ar O
 su O
-cuerpo O
+cuerpo B-negative
 porque O
 conocimiento O
 ni O
 madres O
 
-juanchotorresv B-negative
-ayyyy I-negative
+Juanchotorresv B-positive
+ayyyy I-positive
 siii O
 uno O
 ya O
@@ -13839,7 +13839,7 @@ porque O
 es O
 arranque O
 de O
-bipolaridad O
+bipolaridad B-negative
 . O
 chao O
 no O
@@ -13848,12 +13848,12 @@ escribo O
 mas O
 nuncaaaa B-neutral
 
-\xbfqui\xe9n B-neutral
+\xbfqui\xe9n B-positive
 se O
 afil\xf3 O
 a O
-jim B-neutral
-morrison I-neutral
+jim B-positive
+morrison O
 ? O
 ... O
 un O
@@ -13880,7 +13880,7 @@ con O
 el O
 fin O
 de O
-buscar O
+buscar B-positive
 la O
 participaci\xf3n O
 de O
@@ -13891,7 +13891,7 @@ confidencial O
 plan B-positive
 cubano I-positive
 de O
-hugo B-negative
+hugo O
 intenta O
 desintegrar B-negative
 internamente I-negative
@@ -13905,7 +13905,7 @@ entre O
 radicales O
 y O
 2 O
-ejes O
+ejes B-negative
 entre O
 militares O
 . O
@@ -13919,7 +13919,7 @@ de O
 ofertas O
 , O
 quiero O
-tomarme O
+tomarme B-negative
 esto O
 con O
 mucha O
@@ -13928,15 +13928,15 @@ y O
 pensarlo B-positive
 bien." I-positive
 
-angelicaaraujo B-neutral
+AngelicaAraujo B-neutral
 por O
 ahora O
 te O
 salvaron O
 tus O
 ratas O
-del B-neutral
-juicio I-neutral
+del O
+juicio O
 politico O
 pero O
 aqui O
@@ -13944,7 +13944,7 @@ todo O
 se O
 paga O
 y O
-algun O
+algun B-negative
 dia O
 caeras O
 , O
@@ -13957,7 +13957,7 @@ salazar I-positive
 samsung B-neutral
 presenta O
 dos O
-versiones O
+versiones B-positive
 de O
 galaxy O
 s2 O
@@ -13967,20 +13967,20 @@ http://t.co/bjcpgnlg B-neutral
 
 viendo O
 los O
-grammys O
+grammys B-negative
 wow O
 que O
 presentacion O
 la O
 de O
-lady B-positive
-gaga I-positive
+lady B-neutral
+gaga I-neutral
 !! O
 increible O
 .. O
 
 seg\xfan O
-careercast.com O
+careercast.com B-negative
 las O
 profesiones O
 de O
@@ -14001,11 +14001,11 @@ avi\xf3n O
 comercial O
 ! O
 
-minoria B-negative
-activa I-negative
+minoria B-positive
+activa I-positive
 en O
 vivo O
-17/12 O
+17/12 B-negative
 @ O
 skate O
 and O
@@ -14024,7 +14024,7 @@ http://t.co/8nt4ccwx B-neutral
 watch B-neutral
 the O
 new O
-'laboratorionetwork' O
+'laboratorionetwork' B-negative
 ( O
 @ O
 0 O
@@ -14049,23 +14049,23 @@ de I-neutral
 san I-neutral
 pablo I-neutral
 ! O
-sr B-neutral
+sr O
 en O
 este O
 d\xeda O
 te O
 pido O
 el O
-milagro B-negative
-de I-negative
-la I-negative
-reconciliaci\xf3n I-negative
+milagro B-neutral
+de I-neutral
+la I-neutral
+reconciliaci\xf3n I-neutral
 de O
 los O
 vzlanos O
 ! O
 
-mario B-neutral
+mario B-negative
 que O
 dio O
 este O
@@ -14076,7 +14076,7 @@ ver O
 si O
 no O
 termina O
-mou B-negative
+mou O
 con O
 uno O
 de O
@@ -14086,16 +14086,16 @@ numeritos O
 mal O
 perdedor O
 el O
-chabalo O
+chabalo B-negative
 .. O
 
-fcforum11 B-neutral
+fcforum11 B-negative
 
-daannnieelaa B-negative
-jajajajjajjjaja I-negative
+Daannnieelaa B-positive
+jajajajjajjjaja I-positive
 no O
 me O
-reservo O
+reservo B-negative
 el O
 derecho O
 de O
@@ -14110,7 +14110,7 @@ que O
 harold B-positive
 perdio O
 y O
-bielsa B-positive
+bielsa O
 se O
 va O
 . O
@@ -14127,7 +14127,7 @@ pasado O
 mi O
 equipo O
 de O
-soccer O
+soccer B-neutral
 a O
 semifinales O
 en O
@@ -14145,12 +14145,12 @@ garcia I-negative
 fons B-negative
 trio I-negative
 : O
-arcoluz B-negative
-http://t.co/wytm8vgd I-negative
+arcoluz B-positive
+http://t.co/wytm8vgd I-positive
 v\xeda O
 el_intruso B-neutral
 
-myriamhn B-neutral
+MyriamHN B-negative
 en O
 el O
 cnn B-neutral
@@ -14172,8 +14172,8 @@ rosende-cdte I-neutral
 en O
 jefe B-positive
 de O
-la O
-fach-jaquelinne B-positive
+la B-positive
+fach-jaquelinne I-positive
 van I-positive
 ryshelberge-alcalde I-positive
 de I-positive
@@ -14181,7 +14181,7 @@ cobquecura-gral I-positive
 pesce I-positive
 etc O
 
-escrib\xed B-neutral
+escrib\xed B-negative
 lo O
 mismo O
 que O
@@ -14213,7 +14213,7 @@ y O
 mi O
 voz O
 que O
-madura O
+madura B-negative
 , O
 y O
 mi O
@@ -14226,7 +14226,7 @@ bosque O
 madura" B-positive
 villarutia I-positive
 
-ramirez_polo B-neutral
+ramirez_polo O
 la O
 pista O
 de O
@@ -14245,10 +14245,10 @@ la O
 entrega O
 de O
 los O
-oscar B-neutral
+oscar O
 , O
 a O
-quien O
+quien B-neutral
 le O
 van O
 como O
@@ -14264,7 +14264,7 @@ de I-negative
 tco I-negative
 , O
 ayer O
-sufr\xed O
+sufr\xed B-negative
 el O
 robo O
 de O
@@ -14286,7 +14286,7 @@ avise O
 marlaed O
 . O
 
-pabloquinones B-neutral
+PabloQuinones B-neutral
 . O
 quien O
 ira O
@@ -14296,7 +14296,7 @@ de O
 shakira B-neutral
 ? O
 pregunta O
-ivone O
+ivone B-negative
 !! O
 no O
 de O
@@ -14308,7 +14308,7 @@ tantita O
 verguenza O
 ! O
 
-falexander_25 B-neutral
+Falexander_25 B-positive
 si O
 estas O
 en O
@@ -14323,7 +14323,7 @@ no O
 movilnet O
 el O
 de O
-movistar B-neutral
+movistar O
 es O
 malisimo B-neutral
 
@@ -14332,9 +14332,9 @@ leyenda O
 de O
 jimi B-negative
 hendrix I-negative
-, O
-novela O
-gr\xe1fica B-negative
+, I-negative
+novela I-negative
+gr\xe1fica I-negative
 de I-negative
 128 I-negative
 p\xe1gs I-negative
@@ -14348,7 +14348,7 @@ y I-negative
 significado I-negative
 de O
 su O
-existencia O
+existencia B-positive
 . O
 
 por O
@@ -14359,12 +14359,12 @@ guagua I-negative
 !!! O
 jajjajajaja O
 el O
-weon B-negative
-cochino I-negative
+weon B-positive
+cochino I-positive
 !!! O
 
-jlmoncadap B-negative
-solecito_e I-negative
+jlmoncadap B-positive
+Solecito_E I-positive
 alguna O
 fuente O
 oficial O
@@ -14384,7 +14384,7 @@ se O
 sabe O
 es O
 por O
-twitter B-neutral
+twitter O
 hay O
 que O
 esperar O
@@ -14394,15 +14394,15 @@ esoooo O
 mis B-negative
 leonesss I-negative
 ! O
-buenisimooo O
+buenisimooo B-neutral
 ese O
 home O
 run O
 ;) O
 
 d\xeda O
-de O
-f\xfatbol O
+de B-negative
+f\xfatbol I-negative
 con O
 lucas B-neutral
 
@@ -14416,12 +14416,12 @@ a I-negative
 1ladr\xf3n I-negative
 de O
 tal O
-cala\xf1a O
+cala\xf1a B-positive
 como O
 presidente O
 de O
 la O
-an B-neutral
+an O
 , O
 despu\xe9s O
 de O
@@ -14434,28 +14434,28 @@ q O
 lo O
 colocaron B-neutral
 
-labb\xe9 B-negative
+labb\xe9 B-positive
 
-\xa1alerta O
-facebook B-neutral
+\xa1alerta B-positive
+facebook O
 , O
 twitter B-neutral
 y O
-google B-neutral
-revelan O
+google B-positive
+revelan I-positive
 su O
 fecha O
 de O
 cierre O
 http://t.co/ed8fz62q B-neutral
 
-gypsylovebiebs O
-teni O
+gypsylovebiebs B-positive
+teni I-positive
 el O
 twitter B-neutral
-de I-neutral
-la I-neutral
-nelly I-neutral
+de O
+la O
+nelly B-neutral
 
 no O
 mas O
@@ -14468,7 +14468,7 @@ n O
 en O
 ojeda O
 y O
-obtruyen O
+obtruyen B-negative
 paso O
 a O
 la O
@@ -14476,8 +14476,8 @@ larazulia O
 . O
 porq O
 no O
-protestan O
-frent O
+protestan B-negative
+frent I-negative
 a O
 la O
 casa O
@@ -14490,8 +14490,8 @@ fidel B-neutral
 castro I-neutral
 a O
 no O
-dejarse B-negative
-vencer I-negative
+dejarse B-positive
+vencer I-positive
 por O
 el O
 pesimismo B-positive
@@ -14507,7 +14507,7 @@ rayada O
 pero O
 un O
 dia O
-saliste O
+saliste B-negative
 con O
 camisa B-neutral
 de I-neutral
@@ -14532,7 +14532,7 @@ punta O
 sabr\xe1 O
 q O
 el O
-60 O
+60 B-negative
 % O
 d O
 los O
@@ -14546,7 +14546,7 @@ d O
 comunicaci\xf3n O
 ? O
 
-"que B-neutral
+"que O
 tal O
 joven O
 listo O
@@ -14560,7 +14560,7 @@ de I-neutral
 la I-neutral
 ufg I-neutral
 
-higueraalcalde B-neutral
+HigueraAlcalde B-neutral
 buenas O
 tardes O
 , O
@@ -14580,7 +14580,7 @@ a\xd1os O
 puede O
 entrar O
 a O
-oportunidades O
+oportunidades B-negative
 por O
 ayuda O
 ?????? O
@@ -14600,8 +14600,8 @@ criolla O
 en O
 casa O
 de O
-carlitos B-negative
-mora I-negative
+carlitos B-positive
+mora I-positive
 en O
 sauces B-neutral
 6 I-neutral
@@ -14615,14 +14615,14 @@ ayudar O
 a O
 su O
 flia B-positive
-. O
-apoyemos O
+. I-positive
+apoyemos I-positive
 
 feliz O
 cumplea\xf1os O
 mi O
 t\xedo O
-sim\xf3n B-negative
+sim\xf3n B-neutral
 ! O
 
 inicia O
@@ -14631,7 +14631,7 @@ el O
 tiempo O
 venezuela O
 1-0 O
-bolivia O
+bolivia B-positive
 | O
 gol O
 vizcarrondo B-positive
@@ -14660,13 +14660,13 @@ te O
 amo O
 . O
 ( O
-erich B-negative
-fromm I-negative
+erich B-positive
+fromm I-positive
 ) O
 
 en O
 la O
-asamblea O
+asamblea B-neutral
 , O
 de O
 la O
@@ -14689,7 +14689,7 @@ nacionales O
 http://t.co/eq7smg55 B-neutral
 
 proponen O
-moneda O
+moneda B-neutral
 conmemorativa O
 por O
 100 O
@@ -14697,9 +14697,9 @@ a\xf1os O
 unam B-neutral
 http://bit.ly/abrn9v I-neutral
 
-latingrammy B-neutral
+latingrammy B-negative
 
-ferias B-neutral
+ferias B-negative
 electorales O
 del O
 cne B-negative
@@ -14729,16 +14729,16 @@ es O
 hacer O
 nada O
 . O
--lcv B-neutral
+-lcv B-positive
 
 me O
-cago O
+cago B-neutral
 en O
 magallanes B-neutral
 
 jajaja O
 no O
-sabia O
+sabia B-neutral
 lo O
 que O
 era O
@@ -14769,7 +14769,7 @@ tu O
 lado O
 con O
 mi O
-perfume O
+perfume B-negative
 . O
 
 jajajaja O
@@ -14783,7 +14783,7 @@ quedaste B-positive
 dormido I-positive
 ? O
 rt O
-danielzaccaria1 O
+danielzaccaria1 B-negative
 : O
 a O
 dale O
@@ -14791,16 +14791,16 @@ no O
 inviteen O
 .. O
 rt O
-gabotero O
+Gabotero O
 : O
 que O
 buena O
 trotada O
 compadre O
 . O
-raulfarias91 O
+RaulFarias91 O
 
-iphone B-neutral
+iphone O
 4 O
 de O
 claro O
@@ -14831,7 +14831,7 @@ la O
 iglesia O
 catolica O
 , O
-sentando O
+sentando B-positive
 otra O
 vez O
 un O
@@ -14857,7 +14857,7 @@ que O
 se O
 vacuno O
 con O
-vacuna O
+vacuna B-neutral
 ! O
 
 mauriciojose78 B-neutral
@@ -14866,10 +14866,10 @@ mauriciojose78 B-neutral
 villapolm O
 y O
 @ O
-juliocmontoya O
+juliocmontoya B-negative
 en O
 la O
-polar B-positive
+polar O
 dando O
 los O
 juguetes O
@@ -14892,7 +14892,7 @@ presidente O
 , O
 la O
 idea O
-integracionista O
+integracionista B-negative
 de O
 la O
 celac B-neutral
@@ -14916,11 +14916,11 @@ exdirectora B-negative
 del I-negative
 cti I-negative
 por O
-caso O
-fondelibertad B-positive
-http://t.co/wsqbjdej I-positive
+caso B-neutral
+fondelibertad I-neutral
+http://t.co/wsqbjdej I-neutral
 
-larryhernandez1 O
+larryhernandez1 B-negative
 tu O
 hechale O
 ganas O
@@ -14953,7 +14953,7 @@ a I-negative
 tropas I-negative
 destinadas I-negative
 al O
-vrae O
+vrae B-negative
 que O
 luchan O
 contra O
@@ -14961,15 +14961,15 @@ terroristas O
 
 cerrar O
 mi O
-cumpleanos B-neutral
-c I-neutral
+cumpleanos O
+c B-neutral
 twilight I-neutral
 !!! O
 me O
 encanta O
 
 para O
-alegrar O
+alegrar B-neutral
 la O
 vida O
 "alegr\xeda B-negative
@@ -14977,11 +14977,11 @@ de I-negative
 cirque I-negative
 du I-negative
 soleil" I-negative
-\n\nhttp://www.youtube.com/watch?v=smkisjf2che&feature=player_embedded I-negative
+\n\nhttp://www.youtube.com/watch?v=smkiSJf2cHE&feature=player_embedded I-negative
 
 anitasuperactiv O
 wena O
-anita B-positive
+anita B-neutral
 . O
 hecho O
 de O
@@ -15000,14 +15000,14 @@ estudiadoooo O
 se O
 le O
 estan O
-adelantando O
+adelantando B-negative
 a O
 todos O
 los O
 pases O
 .. O
 
-sebashc B-neutral
+sebashc B-negative
 que O
 pasa O
 sebastian B-neutral
@@ -15029,14 +15029,14 @@ israel\u201d I-negative
 , O
 dice O
 barack B-neutral
-obama B-neutral
+obama O
 : O
 el O
-presidente B-positive
-ee.uu I-positive
+presidente B-negative
+ee.uu I-negative
 . O
 barack B-neutral
-obama B-neutral
+obama O
 , O
 dijo O
 ayer O
@@ -15047,7 +15047,7 @@ http://t.co/pzcqzci1 B-neutral
 \xbfquieres B-neutral
 que O
 te O
-expropien O
+expropien B-negative
 tu O
 negocito O
 como O
@@ -15060,8 +15060,8 @@ crespo O
 vota O
 psuv B-neutral
 
-gabriel B-positive
-quadri I-positive
+gabriel O
+quadri O
 se O
 pronuncia O
 por O
@@ -15074,7 +15074,7 @@ del O
 papa O
 benedicto B-neutral
 xvi I-neutral
-g_quadri I-neutral
+G_Quadri I-neutral
 : O
 http://t.co/7h9mpikq B-neutral
 
@@ -15091,7 +15091,7 @@ la O
 genialidad O
 tiene O
 sus O
-l\xedmites O
+l\xedmites B-negative
 . O
 albert B-neutral
 einstein I-neutral
@@ -15106,8 +15106,8 @@ r.i.f I-neutral
 , O
 carta B-positive
 m\xe9dica I-positive
-y I-positive
-cedulaci\xf3n I-positive
+y O
+cedulaci\xf3n B-negative
 , O
 a O
 partir O
@@ -15120,13 +15120,13 @@ las O
 chelsea B-neutral
 prepara O
 una O
-millonaria O
+millonaria B-negative
 oferta O
 por O
 higua\xedn B-neutral
-y O
-ronaldo B-positive
-http://t.co/jwlwhjfw I-positive
+y I-neutral
+ronaldo I-neutral
+http://t.co/jwlwhjfw I-neutral
 v\xeda O
 ambitocom B-neutral
 
@@ -15134,15 +15134,15 @@ se O
 le O
 sale O
 lo O
-macho B-negative
-a I-negative
-yuri I-negative
+macho O
+a O
+yuri B-negative
 en O
 el O
 13 O
 
-canalrcnmsncom O
-luis B-neutral
+canalrcnmsncom B-neutral
+luis I-neutral
 no O
 canta O
 bien O
@@ -15155,15 +15155,15 @@ lo O
 mejor O
 soy O
 d O
-killa O
+killa B-neutral
 y O
 ella O
 es O
 la O
 mejor O
 
-rockoperez B-negative
-\xbfcuanto I-negative
+RockoPerez B-positive
+\xbfcuanto I-positive
 el O
 chivas O
 vs O
@@ -15180,7 +15180,7 @@ pues O
 montandonos O
 en O
 una O
-chalana O
+chalana B-negative
 en O
 el O
 fin O
@@ -15207,12 +15207,12 @@ muy O
 bien O
 . O
 fuerza O
-pompeyo O
+pompeyo B-positive
 . O
 
 se O
 viene O
-bso O
+bso B-neutral
 entre O
 javi B-neutral
 y O
@@ -15228,8 +15228,8 @@ nunca" O
 @ O
 globovision O
 : O
-presidente B-negative
-ch\xe1vez I-negative
+presidente O
+ch\xe1vez O
 : O
 esta O
 es O
@@ -15239,7 +15239,7 @@ transitoria I-negative
 , O
 mientras O
 ustedes O
-salen O
+salen B-negative
 de O
 la O
 pobreza O
@@ -15248,13 +15248,13 @@ http://t.co/incvwk6i" B-neutral
 no O
 boeno O
 rt O
-robandomalandro O
+robandomalandro B-negative
 : O
 no O
 se O
 pero O
 a O
-stamcfc O
+stamCFC O
 le O
 gusta O
 su O
@@ -15269,7 +15269,7 @@ justin B-negative
 bieber I-negative
 ? O
 
-aicirhayden B-neutral
+aicirhayden B-positive
 es O
 asi O
 peque O
@@ -15278,8 +15278,8 @@ peque O
 @ O
 noticias24 O
 : O
-titular O
-del O
+titular B-negative
+del I-negative
 mundo O
 deportivo O
 : O
@@ -15300,7 +15300,7 @@ es O
 un O
 gendarme O
 con O
-altavoz O
+altavoz B-negative
 q O
 alega O
 , O
@@ -15342,18 +15342,18 @@ amandasoto_ O
 no O
 le O
 hagas O
-caso B-neutral
-raul I-neutral
+caso O
+raul O
 , O
 ella O
 es O
 una O
-tramposa O
-. O
+tramposa B-negative
+. I-negative
 rt O
 paocmontero B-neutral
 
-arm B-neutral
+arm B-negative
 presenta O
 el O
 procesador O
@@ -15363,9 +15363,9 @@ del I-positive
 mundo I-positive
 http://t.co/uzfyvwnb I-positive
 
-\u201c O
+\u201c B-neutral
 @ O
-marcotrejo_ O
+marcotrejo_ B-negative
 : O
 koiotl O
 andas O
@@ -15376,15 +15376,15 @@ kgb I-negative
 carnal O
 ;) O
 
-juventusinfo247 B-neutral
+JuventusInfo247 B-neutral
 estaremos O
-pendientes O
-de O
-la O
-juve O
+pendientes B-neutral
+de I-neutral
+la I-neutral
+juve I-neutral
 en O
 el O
-salvador B-negative
+salvador O
 ...... O
 grande O
 la O
@@ -15401,7 +15401,7 @@ ok O
 . O
 pero O
 si O
-prefiere O
+prefiere B-negative
 a O
 marc B-neutral
 , O
@@ -15434,7 +15434,7 @@ concierto O
 para O
 recaudar O
 fondo O
-asiste O
+asiste B-negative
 a O
 partir O
 de O
@@ -15470,7 +15470,7 @@ sin O
 wikipedia O
 . O
 
-chavezcandanga O
+chavezcandanga B-neutral
 cuenta O
 con O
 mi O
@@ -15479,7 +15479,7 @@ tengo O
 16 O
 a\xf1os O
 me O
-incribire O
+incribire B-negative
 en O
 el O
 psuv B-neutral
@@ -15487,7 +15487,7 @@ psuv B-neutral
 bueno O
 saber O
 que O
-wilson B-positive
+wilson O
 est\xe1 O
 bien O
 , O
@@ -15500,7 +15500,7 @@ de O
 \xe9l O
 fue O
 cuando O
-co-protagoniz\xf3 O
+co-protagoniz\xf3 B-negative
 aquella O
 pel\xedcula O
 en O
@@ -15511,13 +15511,13 @@ tom B-positive
 hanks I-positive
 . O
 
-\u200e\u200bla O
-mud B-negative
+\u200e\u200bla B-neutral
+mud O
 anuncia O
 que O
 entregar\xe1 O
 los O
-cuadernos O
+cuadernos B-negative
 electorales O
 el O
 proximo O
@@ -15538,7 +15538,7 @@ jajajajaja O
 dios O
 nos O
 libre O
-jaua B-negative
+jaua O
 , O
 no O
 te O
@@ -15564,7 +15564,7 @@ en O
 unas O
 horas O
 ya O
-tenerlo O
+tenerlo B-positive
 en O
 la O
 web O
@@ -15578,9 +15578,9 @@ firmar B-neutral
 estoy O
 escuchando O
 las O
-m\xfasicas O
+m\xfasicas B-positive
 de O
-selena B-negative
+selena O
 y O
 mi O
 hermano O
@@ -15592,7 +15592,7 @@ down O
 jajaja O
 (: O
 
-andreamanriqueg B-neutral
+AndreaManriqueG B-neutral
 andrea I-neutral
 tu O
 tambien O
@@ -15617,12 +15617,12 @@ ciro B-negative
 y I-negative
 marleny I-negative
 ! O
-juuuu O
+juuuu B-negative
 ! O
 jajaja O
 
-nazan B-negative
-grein I-negative
+nazan B-positive
+grein I-positive
 en O
 las O
 fiestas O
@@ -15632,8 +15632,8 @@ tres I-negative
 cantos I-negative
 2010 O
 | O
-myspace B-neutral
-http://lnk.ms/9f4tc I-neutral
+myspace B-negative
+http://lnk.ms/9f4tc I-negative
 
 qu\xe9 O
 persigue O
@@ -15642,7 +15642,7 @@ gobierno O
 venecubano O
 con O
 el O
-r.u.n.e O
+r.u.n.e B-positive
 . O
 ( O
 registro B-neutral
@@ -15655,16 +15655,16 @@ vean O
 ... O
 http://t.co/xswedfg5 O
 
-maybe B-negative
-tomorrow I-negative
+maybe B-positive
+tomorrow I-positive
 - O
-stereophonics O
+stereophonics B-negative
 en O
 play_fm O
 - O
 http://t.co/gamlvxsn O
 
-\xbfno B-neutral
+\xbfno B-negative
 han O
 confirmado O
 si O
@@ -15687,7 +15687,7 @@ hugol_10v O
 a O
 jajajajajaja O
 rt O
-claudiabaik O
+ClaudiaBaik B-negative
 : O
 hugol_10v O
 ay O
@@ -15695,7 +15695,7 @@ hugoooo B-negative
 .l I-negative
 . O
 
-isaac_rodg B-neutral
+Isaac_RodG B-negative
 donde O
 se O
 hospedaran O
@@ -15719,7 +15719,7 @@ a O
 tus O
 pies O
 , O
-dales O
+dales B-negative
 con O
 todo O
 sandra O
@@ -15732,7 +15732,7 @@ su O
 programa O
 . O
 
-yelvisdaniel B-neutral
+Yelvisdaniel O
 como O
 asi O
 ? O
@@ -15743,7 +15743,7 @@ domingo O
 al O
 club O
 
-liany_pr O
+Liany_pr O
 esa O
 ser\xe1 O
 otro O
@@ -15762,7 +15762,7 @@ tendr\xe9 O
 que O
 estar O
 en O
-bosques O
+bosques B-negative
 de O
 las O
 lomas B-negative
@@ -15783,12 +15783,12 @@ entrar O
 a O
 mi O
 facebook B-neutral
-. I-neutral
+. O
 
 el O
 s\xe1bado O
 se O
-define O
+define B-neutral
 el O
 titulo O
 anual O
@@ -15806,13 +15806,13 @@ style I-positive
 club O
 colombia O
 de O
-sobremesa B-negative
-de I-negative
-almuerzo I-negative
+sobremesa B-positive
+de I-positive
+almuerzo I-positive
 . O
 
 televen B-neutral
-irradia I-neutral
+irradia O
 luz O
 con O
 su O
@@ -15827,15 +15827,15 @@ hallaca I-negative
 hago O
 yo O
 ....... O
-katy B-neutral
+katy B-positive
 
-federicoarreola O
+FedericoArreola O
 don B-negative
 fede I-negative
 yo O
 vivo O
 en O
-xalapa O
+xalapa B-positive
 , O
 mi O
 pregunta O
@@ -15843,10 +15843,10 @@ e O
 s: O
 solo O
 habra O
-cafe O
+cafe B-neutral
 ? O
 
-revista B-neutral
+revista O
 el O
 ceb\xfa B-negative
 opci\xf3n I-negative
@@ -15859,7 +15859,7 @@ http://bit.ly/9ynkgd B-neutral
 
 barricada O
 en O
-costanera O
+costanera B-positive
 al O
 frente O
 la O
@@ -15870,7 +15870,7 @@ iquique O
 taco O
 !! O
 
-\u201cconvierte B-neutral
+\u201cconvierte O
 tu O
 muro O
 en O
@@ -15881,7 +15881,7 @@ maria I-positive
 rilke I-positive
 . O
 
-adriagurcia O
+adriagurcia B-negative
 jaja O
 fijo O
 ya O
@@ -15915,7 +15915,7 @@ no O
 por O
 pasion O
 , O
-alcen O
+alcen B-negative
 su O
 voz O
 , O
@@ -15930,8 +15930,8 @@ de O
 danilo B-neutral
 anderson I-neutral
 califica I-neutral
-a I-neutral
-jose I-neutral
+a O
+jose B-neutral
 vicente I-neutral
 rangel I-neutral
 como O
@@ -15962,8 +15962,8 @@ que O
 ser\xeda O
 posible O
 una O
-ruptura.\r\rpaul O
-charles B-positive
+ruptura.\r\rpaul B-positive
+charles I-positive
 bourget I-positive
 
 les O
@@ -15971,7 +15971,7 @@ pido O
 una O
 oracion O
 x O
-santi O
+santi B-neutral
 ! O
 para O
 q O
@@ -15994,7 +15994,7 @@ luna O
 -nada O
 , O
 aqu\xed O
-ri\xe9ndome O
+ri\xe9ndome B-negative
 de O
 los O
 que O
@@ -16012,7 +16012,7 @@ confirma O
 para O
 su O
 linea O
-galaxy O
+galaxy B-positive
 s O
 la O
 version O
@@ -16025,8 +16025,8 @@ el O
 2012 O
 . O
 
-priosm B-negative
-aandrruu I-negative
+priosm B-neutral
+aandrruu O
 que O
 hace O
 mi O
@@ -16034,16 +16034,16 @@ hermana O
 aca O
 :/ O
 
-diariolaprensa B-neutral
+DiarioLaPrensa B-negative
 ni O
-wikileaks B-neutral
+wikileaks O
 y O
 los O
 gringos O
 sabe O
 como O
 entro O
-zelaya B-neutral
+zelaya O
 jajajajajajajaja O
 dan O
 risa O
@@ -16057,7 +16057,7 @@ idea O
 que O
 ten\xeda O
 a O
-tantas O
+tantas B-positive
 minas O
 aweon\xe1s O
 en O
@@ -16070,7 +16070,7 @@ conchesumadres I-negative
 
 q O
 buen O
-art\xecculo O
+art\xecculo B-positive
 el O
 del O
 dr B-positive
@@ -16102,7 +16102,7 @@ los O
 juegos O
 arriba O
 la O
-franja O
+franja B-negative
 .. O
 somos O
 muchos O
@@ -16110,8 +16110,8 @@ mas O
 que O
 11 O
 
-orales O
-tom B-positive
+orales B-negative
+tom O
 se O
 ve O
 como O
@@ -16119,7 +16119,7 @@ de O
 20 O
 !!!! O
 
-\u201cestar B-neutral
+\u201cestar B-negative
 frente O
 a O
 un O
@@ -16145,7 +16145,7 @@ http://t.co/dhqzluxb I-negative
 en O
 vivo O
 en O
-mileniotv O
+MilenioTV O
 alejandro B-positive
 poir\xe9 I-positive
 , O
@@ -16156,24 +16156,24 @@ consejo O
 de O
 seguridad O
 nacional O
-http://mile.io/924scf B-neutral
+http://mile.io/924scf O
 
-avicii B-negative
-ahora I-negative
+avicii B-positive
+ahora O
 no O
 me O
 pierdo O
 ese O
 concierto O
 como O
-el B-positive
-de I-positive
-guetta I-positive
+el O
+de O
+guetta O
 !!! O
 
-tupsuclaro B-neutral
+tuPSUclaro B-neutral
 sobre I-neutral
-postulaci\xf3n I-neutral
+postulaci\xf3n O
 con O
 cr\xe9dito O
 aval O
@@ -16188,13 +16188,13 @@ al O
 respecto O
 ... O
 
-chavezcandanga O
-presidente O
+CHAVEZCANDANGA B-negative
+presidente I-negative
 en O
 el O
 instituto B-neutral
 nacional I-neutral
-de O
+de I-neutral
 la O
 vivienda O
 aun O
@@ -16206,7 +16206,7 @@ del O
 sueldo O
 minimo B-neutral
 
-telesur B-neutral
+telesur B-negative
 
 viendo O
 alvin O
@@ -16216,20 +16216,20 @@ ardillas B-positive
 3 I-positive
 despues O
 d O
-estrenar B-negative
-gym I-negative
+estrenar B-positive
+gym I-positive
 . O
 
 escuchando O
 everton B-positive
 - O
-cda O
+cda B-negative
 en O
 la O
 cama O
 saodjas B-neutral
 
-esperandom B-neutral
+esperandom B-negative
 al O
 fin O
 del O
@@ -16251,7 +16251,7 @@ de O
 radios O
 , O
 a O
-rctv O
+rctv B-negative
 , O
 asfixia O
 a O
@@ -16286,7 +16286,7 @@ de O
 mm O
 q O
 lo O
-recibieron O
+recibieron B-negative
 , O
 1 O
 es O
@@ -16305,9 +16305,9 @@ a O
 nuestros O
 amigos O
 de O
-tweetermometro O
+TweeTermometro O
 quienes O
-desempe\xf1an O
+desempe\xf1an B-negative
 un O
 gran O
 trabajo O
@@ -16331,8 +16331,8 @@ que O
 el O
 fan O
 de O
-wanda B-negative
-nara I-negative
+wanda B-positive
+nara I-positive
 se O
 tir\xf3 O
 un O
@@ -16364,7 +16364,7 @@ y O
 la O
 libertad O
 ! O
-http://t.co/xbblt4t B-neutral
+http://t.co/xbblt4t O
 
 " O
 @ O
@@ -16378,7 +16378,7 @@ noticia O
 ... O
 el O
 ni\xf1o O
-jesus B-neutral
+jesus O
 no O
 existe O
 :\\ B-negative
@@ -16394,20 +16394,20 @@ exist\xeda O
 no O
 se O
 qui\xe9n O
-solt\xf3 O
+solt\xf3 B-negative
 el O
 secreto O
 ? O
 
-7_dias B-neutral
+7_dias O
 muy O
 buen O
 progrma B-positive
 7 I-positive
 dias O
 
-pepin1981 B-negative
-lololopezzz I-negative
+PEPIN1981 B-positive
+lololopezzz I-positive
 jajajaja O
 si O
 se O
@@ -16418,11 +16418,11 @@ razon O
 ya O
 ni O
 mi O
-hablassss B-negative
-loopez I-negative
-bss I-negative
+hablassss B-positive
+loopez I-positive
+bss I-positive
 
-qtffernanda B-neutral
+qtfFERNANDA B-negative
 saludos O
 desde O
 saltillo O
@@ -16454,9 +16454,9 @@ mandis I-negative
 bi_natural O
 live O
 on O
-http://t.co/ihxa0t2o) B-neutral
+http://t.co/ihxa0t2o) O
 
-j_pietrasanta B-neutral
+J_Pietrasanta B-positive
 como O
 diria O
 hector B-positive
@@ -16466,8 +16466,8 @@ la O
 competencia O
 "interna" O
 , O
-"dentro" O
-del O
+"dentro" B-negative
+del I-negative
 equipo O
 es O
 muy O
@@ -16475,7 +16475,7 @@ fuerte O
 , O
 jajajja B-neutral
 
-chavezcandanga O
+chavezcandanga B-neutral
 presidente O
 lo O
 felicito O
@@ -16488,7 +16488,7 @@ jefe B-positive
 de O
 estado O
 
-\xdaltima O
+\xdaltima B-neutral
 encuesta O
 keller B-neutral
 ( O
@@ -16513,7 +16513,7 @@ m\xe1s O
 gorritas O
 y O
 chaquetas O
-tricolores O
+tricolores B-negative
 . O
 
 feliz O
@@ -16534,7 +16534,7 @@ de O
 dios O
 , O
 hogar B-neutral
-de O
+de I-neutral
 nuestra O
 chinita O
 . O
@@ -16543,7 +16543,7 @@ jumastorga B-neutral
 : O
 "aprender O
 sin O
-entender" O
+entender" B-negative
 . O
 columna O
 para O
@@ -16557,14 +16557,14 @@ buen O
 an\xe1lisis O
 , O
 v\xeda O
-publimetrochile O
+PublimetroChile B-neutral
 
 su O
 autoenajenaci\xf3n O
 ha O
 alcanzado O
 un O
-grado O
+grado B-negative
 tal O
 , O
 que O
@@ -16594,9 +16594,9 @@ extinci\xf3n B-negative
 de I-negative
 lyfc I-negative
 : O
-prd B-neutral
+prd O
 
-"en B-neutral
+"en B-negative
 todas O
 las O
 cosas O
@@ -16614,7 +16614,7 @@ bancochile B-negative
 osorno I-negative
 , O
 alumnos O
-informatica_ust O
+Informatica_UST B-positive
 est\xe1n O
 formatiando B-negative
 http://t.co/agb4tgmw I-negative
@@ -16623,8 +16623,8 @@ aportevoluntario O
 @ O
 teleton B-neutral
 
-larryhernandez1 O
-larry B-positive
+larryhernandez1 B-positive
+larry O
 cuando O
 vas O
 a O
@@ -16640,8 +16640,8 @@ seattle O
 wa O
 ? O
 
-boogielejo B-negative
-panita I-negative
+boogielejo B-positive
+panita I-positive
 que O
 f\xe1cil O
 q O
@@ -16651,8 +16651,8 @@ f\xfatbol O
 estos B-negative
 del I-negative
 barcelona I-negative
-3 O
-toques B-negative
+3 I-negative
+toques I-negative
 . I-negative
 fbc I-negative
 3- I-negative
@@ -16660,14 +16660,14 @@ lev I-negative
 1 O
 gol O
 de O
-messi B-neutral
+messi O
 
 aqui O
 estoy O
 mi O
-llanera O
+llanera B-negative
 rt O
-albymer O
+Albymer O
 que O
 sera O
 la O
@@ -16676,7 +16676,7 @@ de O
 josercabello O
 ??? O
 
-elmundoexacto B-neutral
+Elmundoexacto B-positive
 saludos O
 , O
 no O
@@ -16684,7 +16684,7 @@ se O
 que O
 pasa O
 aveces O
-twitter B-neutral
+twitter O
 deja O
 de O
 seguir O
@@ -16716,7 +16716,7 @@ vida O
 real O
 es O
 mi O
-karma O
+karma B-positive
 . O
 a O
 veces O
@@ -16724,7 +16724,7 @@ soy O
 agradable O
 . O
 
-messi B-neutral
+messi B-positive
 sab\xeda O
 que O
 desde O
@@ -16735,7 +16735,7 @@ marcar\xeda O
 pero O
 si O
 que O
-generar\xeda O
+generar\xeda B-negative
 un O
 rebote O
 de O
@@ -16754,7 +16754,7 @@ co\xf1o O
 toque B-negative
 preci I-negative
 so: O
-trezeguet O
+trezeguet B-negative
 se O
 volver\xe1 O
 \u201cmillonario\u201d B-positive
@@ -16773,7 +16773,7 @@ mica I-positive
 ( O
 http O
 : O
-//t.co/30hidbqc O
+//t.co/30hidbqc B-negative
 ) O
 http://t.co/v3rjhjtl B-neutral
 
@@ -16783,11 +16783,11 @@ d: O
 seis O
 jugadores O
 del O
-barcelona B-neutral
+barcelona O
 y O
-dos B-neutral
-del I-neutral
-real I-neutral
+dos O
+del O
+real B-neutral
 madrid I-neutral
 en O
 el O
@@ -16798,23 +16798,23 @@ l'equipe I-negative
 : O
 los O
 dos O
-'gr O
+'gr B-negative
 ... O
 http://t.co/im1mhmyi B-neutral
 
-sancadillanorte B-negative
+SancadillaNorte B-negative
 sanca I-negative
 , O
 quien O
 pierde O
 mas O
 ? O
-tigres B-negative
+tigres O
 sin O
 lobos B-neutral
 ? O
 \xf3 O
-rayados B-negative
+rayados O
 sin O
 orozco O
 ? O
@@ -16824,7 +16824,7 @@ simpson I-neutral
 es O
 de O
 esos O
-personajes O
+personajes B-positive
 que O
 puede O
 hacerte O
@@ -16843,15 +16843,15 @@ por O
 \xfaltimo O
 recordale B-negative
 a I-negative
-jlozanoa I-negative
+JLozanoA I-negative
 que O
-johnmackerman B-negative
+JohnMAckerman B-negative
 'no I-negative
 es O
 m\xe1s O
 que' O
 un O
-investigador O
+investigador B-negative
 con O
 grado B-negative
 del I-negative
@@ -16864,7 +16864,7 @@ de O
 portafolios O
 . O
 
-leon7pc B-neutral
+leon7pc B-positive
 listo O
 . O
 hablamos O
@@ -16878,10 +16878,10 @@ abrazo O
 . O
 leo B-neutral
 
-regresar\xe1 B-negative
-kalimba I-negative
+regresar\xe1 B-positive
+kalimba I-positive
 al O
-rock O
+rock B-negative
 ; O
 cantar\xe1 B-neutral
 sobre I-neutral
@@ -16891,7 +16891,7 @@ peri\xf3dico O
 z\xf3calo B-negative
 http://t.co/bsdrsbzp I-negative
 v\xeda O
-periodicozocalo B-neutral
+PeriodicoZocalo B-neutral
 
 ta O
 bien O
@@ -16899,7 +16899,7 @@ daddy B-negative
 yankee I-negative
 .. O
 rt O
-alecannagano O
+AleCannagano B-negative
 : O
 y O
 lo O
@@ -16919,7 +16919,7 @@ al O
 cabo O
 que O
 ya O
-agandallamos O
+agandallamos B-neutral
 el O
 novillo B-neutral
 .. O
@@ -16941,7 +16941,7 @@ sino O
 quien O
 se O
 la O
-lleve O
+lleve B-negative
 mejor O
 con O
 elba B-neutral
@@ -16951,7 +16951,7 @@ mostrillo I-neutral
 
 se O
 murio O
-goku O
+goku B-positive
 \xbfo O
 porque O
 es O
@@ -16961,17 +16961,17 @@ ball O
 gt O
 ? O
 
-caracoltv B-neutral
+CaracolTV B-positive
 a O
-ricardo B-neutral
-arjona B-neutral
+ricardo O
+arjona B-negative
 le O
 falta O
 concentraci\xf3n O
 ... O
 pilasss B-neutral
 
-ventatachira B-neutral
+VentaTachira B-negative
 ven O
 a O
 ver O
@@ -17005,14 +17005,14 @@ repetir\xe1 I-neutral
 la O
 oferta O
 : O
-"misi\xf3n O
+"misi\xf3n B-positive
 saber O
 y O
 trabajo" O
 : O
 bit.ly/tsbmru B-neutral
 
-nelly_cepeda B-neutral
+Nelly_Cepeda B-neutral
 ya O
 sera O
 el O
@@ -17022,7 +17022,7 @@ que O
 no O
 stes O
 tan O
-cansada O
+cansada B-negative
 , O
 y O
 vamos O
@@ -17044,13 +17044,13 @@ la O
 ley O
 de O
 herodes B-neutral
-. O
+. I-neutral
 los O
 esperamos O
-http://t.co/frx00qif B-positive
-http://t.co/bmdmucuj I-positive
+http://t.co/frx00qif B-negative
+http://t.co/bmdmucuj I-negative
 
-ctolano B-neutral
+ctolano B-negative
 ah\xed O
 se O
 da O
@@ -17063,14 +17063,14 @@ mr B-negative
 bean I-negative
 .. O
 
-riodoce_mx B-neutral
+Riodoce_mx B-positive
 nada O
 pdra O
 hacer O
 el O
-prd B-negative
+prd O
 contra O
-pri B-negative
+pri O
 , O
 pan O
 y O
@@ -17080,7 +17080,7 @@ los O
 gasolinzos B-positive
 seguiran I-positive
 
-chavezcandanga O
+chavezcandanga B-positive
 buenos O
 dias O
 sr B-negative
@@ -17108,7 +17108,7 @@ lopezdoriga1 B-neutral
 noro\xf1a I-neutral
 y O
 la O
-grtan O
+grtan B-neutral
 mayor\xeda O
 de O
 los O
@@ -17128,12 +17128,12 @@ la I-negative
 llevaaaa I-negative
 ( O
 @ O
-bambinoanimador O
+bambinoanimador B-positive
 live O
 on O
 http://twitcam.com/41rzq) B-neutral
 
-coyee B-neutral
+coyee O
 ! O
 como O
 que O
@@ -17150,7 +17150,7 @@ doddy I-negative
 ! O
 
 delgadomaite O
-maite B-positive
+maite O
 sin O
 ti O
 el O
@@ -17164,7 +17164,7 @@ verdad O
 que O
 chivo O
 esos O
-animadores O
+animadores B-positive
 definitivamente O
 eres O
 la O
@@ -17179,7 +17179,7 @@ te O
 compraste O
 eso O
 en O
-andares O
+andares B-negative
 ??? O
 segurooo O
 no O
@@ -17195,8 +17195,8 @@ santa B-neutral
 claus I-neutral
 tambi\xe9n O
 usa O
-iphone B-positive
-http://t.co/8tqc3b5h I-positive
+iphone O
+http://t.co/8tqc3b5h B-neutral
 
 el O
 citycar B-negative
@@ -17216,7 +17216,7 @@ su O
 nueva O
 imagen O
 aqu\xed O
-http://bit.ly/enwcbi B-neutral
+http://bit.ly/enwcbi B-negative
 
 una O
 vez O
@@ -17224,7 +17224,7 @@ mas O
 la O
 tv O
 me O
-enga\xf1o O
+enga\xf1o B-positive
 , O
 compre O
 un O
@@ -17254,7 +17254,7 @@ te O
 quieren O
 , O
 te O
-acogemos O
+acogemos B-negative
 en O
 nuestro O
 seno.nos O
@@ -17280,7 +17280,7 @@ no O
 gane O
 pero O
 no O
-meterla O
+meterla B-positive
 ni O
 entre O
 las O
@@ -17297,8 +17297,8 @@ tres O
 patadas O
 ! O
 
-el O
-coraje O
+el B-neutral
+coraje I-neutral
 y O
 valentia O
 de O
@@ -17328,7 +17328,7 @@ q.e.p.d I-negative
 \u201cfingimos B-neutral
 lo O
 que O
-somo O
+somo B-negative
 s; O
 seamos O
 lo O
@@ -17351,14 +17351,14 @@ militar B-neutral
 congelado I-neutral
 http://bit.ly/nf0k6k I-neutral
 
-jorgeberry B-neutral
+jorgeberry O
 cuantos O
 premios O
 gano O
 facebook B-neutral
 ???? O
 
-ucn B-neutral
+ucn B-negative
 
 despu\xe9s O
 soy O
@@ -17368,7 +17368,7 @@ loco O
 rt O
 dflatorre O
 : O
-anotemos O
+anotemos B-negative
 a O
 karim O
 benzema B-neutral
@@ -17383,7 +17383,7 @@ mundo O
 . O
 
 el O
-santos B-neutral
+santos O
 anuncia O
 que O
 neymar O
@@ -17394,8 +17394,8 @@ hasta O
 - O
 brasil O
 - O
-http://t.co/lkn22rjo B-negative
-http://t.co/5gu0qx8h I-negative
+http://t.co/lkn22rjo B-positive
+http://t.co/5gu0qx8h I-positive
 via O
 diarioas B-neutral
 
@@ -17404,7 +17404,7 @@ publicado O
 19 O
 fotos O
 en O
-facebook B-neutral
+facebook O
 en O
 el O
 \xe1lbum O
@@ -17426,15 +17426,15 @@ de O
 un O
 informe O
 por O
-derrame B-negative
-de I-negative
-concentrado I-negative
+derrame B-neutral
+de I-neutral
+concentrado I-neutral
 de O
 cobre O
 
-gebauer15 B-neutral
+gebauer15 B-positive
 gracias O
-javier B-positive
+javier O
 ! O
 una O
 hermosa B-positive
@@ -17443,7 +17443,7 @@ xa I-positive
 ti O
 ! O
 
-pachperez B-neutral
+pachperez O
 hola O
 hermana O
 estamo O
@@ -17454,7 +17454,7 @@ ahora O
 espero O
 que O
 entre O
-denigris O
+denigris B-neutral
 o O
 reyna B-positive
 para O
@@ -17470,7 +17470,7 @@ paso O
 udecfacumed O
 live O
 on O
-http://twitcam.com/64kai) B-neutral
+http://twitcam.com/64kai) O
 
 wuatazo B-neutral
 pi\xf1era I-neutral
@@ -17482,7 +17482,7 @@ condenan O
 .. O
 xd O
 xd O
-http://t.co/uvprdjo B-neutral
+http://t.co/uvprdjo O
 
 lamujerperfecta B-neutral
 triste O
@@ -17490,9 +17490,9 @@ el O
 final O
 de O
 eva B-neutral
-. I-neutral
+. O
 
-pacogcaridad B-neutral
+pacogcaridad B-positive
 todo O
 el O
 merito O
@@ -17504,14 +17504,14 @@ lleva O
 a O
 todos O
 
-palomasabido B-negative
-palomaaaaa I-negative
+PalomaSabido B-positive
+palomaaaaa I-positive
 tu O
 diciendo O
 esas O
 cosas O
 de O
-madonna B-positive
+madonna O
 !! O
 no O
 me O
@@ -17528,21 +17528,21 @@ invasi\xf3n I-positive
 y O
 asesinato O
 de O
-cachorros O
+cachorros B-positive
 en O
 su O
 sede O
-de B-neutral
-palo I-neutral
-verde I-neutral
+de O
+palo O
+verde O
 ( O
 +audio O
 ) O
 - O
 http://t.co/gut4rqgq" B-neutral
 
-\xbfte O
-animar\xedas B-negative
+\xbfte B-negative
+animar\xedas I-negative
 a I-negative
 probar I-negative
 una O
@@ -17555,12 +17555,12 @@ chocolate O
 ( O
 fotos O
 ) O
-http://t.co/4ntcivls B-neutral
+http://t.co/4ntcivls O
 
 excelente O
 trabajo O
 de O
-caracaschron O
+CaracasChron O
 y O
 juannagel O
 sobre O
@@ -17569,11 +17569,11 @@ de O
 pdvsa B-neutral
 . O
 nuestra O
-traducci\xf3n O
+traducci\xf3n B-negative
 : O
 http://t.co/gbzy2x9n B-neutral
 
-celestepau B-neutral
+Celestepau B-negative
 grande O
 \xf1a B-negative
 celeeeeee I-negative
@@ -17582,7 +17582,7 @@ saludos O
 
 globovision O
 : O
-ocariz O
+ocariz B-negative
 llama O
 a O
 la O
