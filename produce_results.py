@@ -63,14 +63,15 @@ for lang in ['EN','ES']:
     learn = Counting(sentences_labelled) 
     trans_par = learn.transPara() 
     emiss_par = learn.emissPara()
+    entity_emis = learn.entity_emis()
 
     # parse the data to be predicted
     sentences_raw = parseData(fname_pre)
 
-    # challeng viterbi
+    # challenge viterbi
     fout = lang + '/dev.p3.out'
     sentences_process = deepcopy(sentences_raw)
-    algo_part3 = Viterbi(trans_par, emiss_par) 
+    algo_part3 = Viterbi(trans_par, emiss_par, entity_emis) 
     for sen in sentences_process:
         algo_part3.decode(sen) 
     printPrediction(sentences_process, fout, 0)
@@ -82,5 +83,5 @@ for lang in ['EN','ES']:
     algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
     for sen in sentences_process:
         algo_part4.decode(sen, 5)
-    printPrediction(sentences_process, fout, 5)
+    printPrediction(sentences_process, fout, 1)
     printEvaluation(fout, fname_gold, fname_eval)
