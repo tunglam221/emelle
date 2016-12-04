@@ -16,7 +16,6 @@ class Viterbi:
 
 	def max_node(self, graph, i, j, x, pretag, entity=''):
 		max_score = -float('inf')
-		
 		parent = None
 		if i > len(x):  # STOP state
 			emis = 1
@@ -26,7 +25,7 @@ class Viterbi:
 			if j not in [2, 3, 4]:
 				emis = 0
 			else:
-				emis = self.entity_emis[]
+				emis = self.entity_emis[entity][j-2]
 		elif pretag == 'I':
 			if j not in [5, 6, 7]:
 				emis = 0
@@ -47,7 +46,7 @@ class Viterbi:
 
 	def decode(self, sentence):
 		x = sentence.observation
-		entities = sentence.findEntity()
+		entities = sentence.findEntity(self.entity_emis)
 		n = len(x)
 		t = self.number_of_states
 		graph = []
@@ -60,10 +59,14 @@ class Viterbi:
 			graph.append([])
 			if entities[i-1]=='B':
 				e = x[i-1]
-				j = i
-				while entities[j]=='I':
-					e = e + ' ' + x[j]
-					j+=1
+				if i < len(entities):
+					j=i
+					while entities[j]=='I':
+						e = e + ' ' + x[j]
+						j+=1
+						if j>= len(entities):
+							break
+
 				for j in range(1, t-1):
 					graph[i].append(self.max_node(graph, i, j, x, 'B', e))
 			else:
@@ -72,7 +75,7 @@ class Viterbi:
 
 		# step n+1
 		graph.append([])
-		graph[n+1].append(self.max_node(graph, n+1, t-1, x))
+		graph[n+1].append(self.max_node(graph, n+1, t-1, x, 'X'))
 
 		path = []
 		next = graph[n+1][0]
