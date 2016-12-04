@@ -19,7 +19,7 @@ def printPrediction(sentences, fout, k):
             state = sen.state
         else:
             state = sen.state[k-1]
-        observation = sen.observation
+        observation = sen.raw_observation
 
         for it in range(0,len(state)):
             print(observation[it],state[it], file = open(fout,'a',encoding='UTF-8'))
