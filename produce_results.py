@@ -87,7 +87,7 @@ for lang in ['EN','ES','SG','CN']:
 
     if (lang == 'EN' or lang == 'ES'): 
         # part 4 
-        fout = lang + '/dev.p4.out' 
+        fout = lang + '/dev.p4.out'
         sentences_process = deepcopy(sentences_raw) 
         algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
         for sen in sentences_process:

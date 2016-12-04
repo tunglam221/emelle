@@ -72,7 +72,7 @@ class Counting:
             emissCount[word] = temp
 
         for word in emissCount:
-            avg = sum(emissCount.get(word))/9.0
+            avg =  sum(emissCount.get(word))/100000.0 # devided by a hyperparameter
             temp = emissCount.get(word)
             for j in range(0,9):
                 temp[j] += avg
