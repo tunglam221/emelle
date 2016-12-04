@@ -79,7 +79,8 @@ class Counting:
             emissCount[word] = temp
             
         # Parameter for potential unseen data
+        total_words = sum(countPerState)
         for i in range(0,9):
-            emissCount[i] = 1/(countPerState[i] + 1)
+            emissCount[i] = countPerState[i]/total_words
 
         return emissCount
