@@ -84,3 +84,11 @@ for lang in ['EN','ES']:
         algo_part4.decode(sen, 5)
     printPrediction(sentences_process, fout, 5)
     printEvaluation(fout, fname_gold, fname_eval)
+
+    # predict the test data
+    fname_test = lang + '/test.in'
+    fout = lang + '/test.p5.out'
+    sentences_process = parseData(fname_test)
+    for sen in sentences_process:
+        algo_part3.decode(sen)
+    printPrediction(sentences_process, fout, 0)
