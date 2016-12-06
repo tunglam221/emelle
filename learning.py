@@ -81,6 +81,6 @@ class Counting:
         # Parameter for potential unseen data
         total_words = sum(countPerState)
         for i in range(0,9):
-            emissCount[i] = countPerState[i]/total_words
+            emissCount[i] = 1 #countPerState[i]/total_words
 
         return emissCount

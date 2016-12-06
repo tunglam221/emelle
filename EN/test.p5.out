@@ -280,9 +280,9 @@ needs O
 outlet O
 
 KC B-positive
-Concepcion O
-Rogue O
-Magazine O
+Concepcion I-positive
+Rogue I-positive
+Magazine I-positive
 Photos O
 Continue O
 to O
@@ -295,9 +295,9 @@ Twitter B-neutral
 : O
 The O
 KC B-positive
-Concepcion O
-Rogue O
-magazine O
+Concepcion I-positive
+Rogue I-positive
+magazine I-positive
 ... O
 http://t.co/gT1QLEUp O
 
@@ -307,8 +307,8 @@ via O
 Stock O
 up O
 on O
-Frankie O
-B B-positive
+Frankie B-neutral
+B I-neutral
 jeans O
 , O
 shorts O
@@ -421,8 +421,8 @@ It's O
 official O
 , O
 President B-neutral
-Barack O
-Obama B-negative
+Barack I-neutral
+Obama I-neutral
 is O
 Hawaiian O
 . O
@@ -1036,8 +1036,8 @@ b B-positive
 http://t.co/ui58pbKR O
 http://t.co/b0qfkTwQ O
 
-Supreme O
-Court B-neutral
+Supreme B-neutral
+Court I-neutral
 Battle O
 Over O
 Obamacare O
@@ -1348,8 +1348,8 @@ a O
 broken O
 heart O
 ( O
-alicia B-neutral
-keys I-neutral
+alicia B-positive
+keys I-positive
 ) O
 
 The O
@@ -1451,8 +1451,8 @@ Suicide O
 Shopping O
 to O
 Ben B-negative
-Bernanke O
-â O
+Bernanke I-negative
+â I-negative
 s O
 Last O
 Dance O
@@ -1549,8 +1549,8 @@ Cloying O
 . O
 Again O
 , O
-Zooey O
-D B-positive
+Zooey B-positive
+D I-positive
 excels O
 herself O
 : O
@@ -1586,8 +1586,8 @@ In O
 ... O
 http://t.co/lV5RXPQO O
 
-Pentagon O
-budget O
+Pentagon B-neutral
+budget I-neutral
 to O
 cut O
 military O
@@ -1665,8 +1665,8 @@ It O
 sucks O
 u.u O
 
-morehead O
-state O
+morehead B-negative
+state I-negative
 : O
 O O
 http://bit.ly/fv2kOm O
@@ -5016,9 +5016,9 @@ DUBAI O
 ( O
 Reuters B-neutral
 ) O
-Prince O
-Alwaleed O
-bin B-neutral
+Prince B-neutral
+Alwaleed I-neutral
+bin I-neutral
 Talal O
 , O
 the O
@@ -5660,8 +5660,8 @@ Pentagon B-neutral
 review I-neutral
 panel I-neutral
 
-COE O
-Group O
+COE B-neutral
+Group I-neutral
 - O
 Semester O
 101 O
@@ -6467,8 +6467,8 @@ Via O
 : O
 http://t.co/5FYIGfGA O
 
-Hurley O
-Boys O
+Hurley B-neutral
+Boys I-neutral
 2-7 O
 Plaid O
 Town O
@@ -6623,8 +6623,8 @@ to O
 Know O
 http://t.co/6qqFojKh O
 
-Christie's O
-International O
+Christie's B-neutral
+International I-neutral
 Real O
 Estate O
 Ends O
@@ -6774,8 +6774,8 @@ lunch O
 Anti-Christs O
 sit O
 on O
-Supreme O
-Court B-neutral
+Supreme B-neutral
+Court I-neutral
 = O
 6 O
 Catholics O
@@ -6787,8 +6787,8 @@ s: O
 Anti-Christs O
 sit O
 on O
-Supreme O
-Court B-neutral
+Supreme B-neutral
+Court I-neutral
 = O
 6 O
 Catholics O
@@ -7801,8 +7801,8 @@ hard O
 at O
 it O
 . O
-Francis O
-Ford B-negative
+Francis B-neutral
+Ford I-neutral
 Coppola O
 
 Up O
@@ -7918,8 +7918,8 @@ Im'am O
 The O
 Prince O
 of O
-Peac O
-e O
+Peac B-neutral
+e I-neutral
 : O
 http://t.co/NZJsZvZb O
 Christian/Buddhist O
@@ -8226,10 +8226,10 @@ debate O
 on O
 lottery O
 scam O
-btwn O
-finance O
-minister O
-& O
+btwn B-positive
+finance I-positive
+minister I-positive
+& I-positive
 V O
 T O
 satheeshan O
@@ -8565,8 +8565,8 @@ from O
 . O
 JD O
 
-Supreme O
-Court B-neutral
+Supreme B-neutral
+Court I-neutral
 throws O
 out O
 criminal O

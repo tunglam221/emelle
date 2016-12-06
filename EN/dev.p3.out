@@ -98,8 +98,8 @@ So O
 predictable O
 . O
 
-Thai O
-Government O
+Thai B-neutral
+Government I-neutral
 Raids O
 NGO B-neutral
 Injuring O
@@ -1014,9 +1014,9 @@ Mayor B-positive
 of O
 Los O
 Angeles O
-endorses O
-marriage O
-equality O
+endorses B-positive
+marriage I-positive
+equality I-positive
 as O
 a O
 Democratic B-neutral
@@ -2115,9 +2115,9 @@ Welcome O
 to O
 Russia O
 
-Grimaldi B-neutral
-& I-neutral
-Associates I-neutral
+Grimaldi B-positive
+& I-positive
+Associates I-positive
 - O
 International O
 Consulting O
@@ -3220,8 +3220,8 @@ visiting O
 you O
 ! O
 
-Ugarit O
-News O
+Ugarit B-neutral
+News I-neutral
 || O
 #Syria O
 || O
@@ -5237,8 +5237,8 @@ the O
 only O
 association O
 that O
-promotes B-neutral
-safe I-neutral
+promotes B-positive
+safe I-positive
 driving O
 and O
 equipment O
@@ -5289,8 +5289,8 @@ will O
 Shaklee B-neutral
 News I-neutral
 Dr B-neutral
-Forrest O
-C O
+Forrest I-neutral
+C I-neutral
 Shaklee B-neutral
 Story I-neutral
 YouTube O
@@ -5298,8 +5298,8 @@ YouTube O
 YouTube B-neutral
 : O
 Dr B-neutral
-Forrest O
-C O
+Forrest I-neutral
+C I-neutral
 . O
 Shaklee- O
 The O
@@ -5406,8 +5406,8 @@ Quarterback O
 http://t.co/nT30Bp01 O
 #NFL O
 
-@Stefsunyanzi O
-Paul B-positive
+@Stefsunyanzi B-neutral
+Paul I-neutral
 the O
 octopus O
 defeated O
@@ -5922,8 +5922,8 @@ everyday O
 
 Poland O
 , O
-Czech O
-Republic O
+Czech B-neutral
+Republic I-neutral
 , O
 Greece O
 and O
@@ -6349,8 +6349,8 @@ via O
 @AdAge O
 http://t.co/ZG3lFcaZ O
 
-Casper O
-Boxing B-neutral
+Casper B-neutral
+Boxing I-neutral
 Club I-neutral
 Rose I-neutral
 de-thrones O
@@ -7319,8 +7319,8 @@ Kircher B-neutral
 , I-neutral
 Donald I-neutral
 
-Alfie O
-Allen O
+Alfie B-negative
+Allen I-negative
 and O
 Jaime O
 Winstone O
@@ -7502,8 +7502,8 @@ seventh O
 victim O
 ! O
 
-Slower O
-credit O
+Slower B-negative
+credit I-negative
 demand O
 supports O
 rate O
@@ -7852,8 +7852,8 @@ madness O
 at O
 the O
 #YYZ O
-US O
-customs B-neutral
+US B-neutral
+customs I-neutral
 port I-neutral
 of O
 entry O
