@@ -68,7 +68,8 @@ class Counting:
         for word in emissCount:
             temp = emissCount.get(word)
             for i in range(0,9):
-                temp[i] = temp[i]/(countPerState[i]+1)
+                if countPerState[i] != 0:
+                    temp[i] = temp[i]/countPerState[i]
             emissCount[word] = temp
 
         for word in emissCount:

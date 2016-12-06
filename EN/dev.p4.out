@@ -142,12 +142,12 @@ nails O
 ended O
 up O
 more O
-'USC' O
+'USC' B-neutral
 looking O
 than O
 I O
 had O
-intended B-neutral
+intended O
 . O
 http://t.co/PEzXbPDD O
 
@@ -266,11 +266,11 @@ Attain O
 90 O
 % O
 Positive O
-Outcome O
+Outcome B-neutral
 ! O
 : O
 by O
-cliff106 B-neutral
+cliff106 O
 ... O
 http://bit.ly/cn3Ig7 O
 
@@ -780,9 +780,9 @@ prod O
 . O
 by O
 BTR O
-BEATS O
+BEATS B-neutral
 ) O
-http://t.co/EpPJfqwo B-neutral
+http://t.co/EpPJfqwo O
 via O
 @youtube O
 
@@ -864,7 +864,7 @@ http://t.co/uep3x5MC O
 
 http://bit.ly/dO0ycg O
 ! O
-kingston B-neutral
+kingston O
 technology O
 Thumbs O
 up O
@@ -872,7 +872,7 @@ for O
 the O
 Do O
 Good O
-Denim O
+Denim B-neutral
 Drive O
 
 bbcworl O
@@ -944,7 +944,7 @@ itself O
 , O
 can O
 make O
-heaven B-neutral
+heaven O
 of O
 Hell O
 , O
@@ -953,7 +953,7 @@ a O
 hell O
 of O
 Heaven." O
-~John O
+~John B-neutral
 Milton O
 
 T-Mobile B-neutral
@@ -1030,7 +1030,7 @@ Slatest O
 ? O
 Introducing O
 the O
-Slate B-neutral
+Slate O
 Book O
 Review O
 - O
@@ -1042,7 +1042,7 @@ years O
 , O
 newspapers O
 , O
-magazines O
+magazines B-neutral
 , O
 and O
 media O
@@ -1052,9 +1052,9 @@ http://t.co/jpvJKTLM O
 
 Grob O
 Aircraft O
-targets O
+targets B-neutral
 181 O
-trainers B-neutral
+trainers O
 for O
 IAF O
 http://bit.ly/dkUk5a O
@@ -1125,10 +1125,10 @@ playoff O
 season O
 ends O
 with O
-20-13 O
+20-13 B-neutral
 loss O
 at O
-Baltimore B-neutral
+Baltimore O
 : O
 http://t.co/83WhgaJr O
 
@@ -1241,7 +1241,7 @@ Group O
 - O
 Dustin O
 
-Social O
+Social B-negative
 Media O
 New O
 s: O
@@ -1263,7 +1263,7 @@ steelers B-positive
 !! O
 
 Uncovering B-neutral
-ASU's I-neutral
+ASU's O
 solar O
 success O
 story O
@@ -1274,7 +1274,7 @@ officials O
 pleased O
 with O
 Arizona B-neutral
-State's O
+State's I-neutral
 growing O
 solar O
 portfolio O
@@ -1285,13 +1285,13 @@ http://t.co/Pe7fmZmK O
 
 Is O
 Antonia O
-Maino B-neutral
+Maino O
 aka O
 Sonia B-neutral
 Gandhi O
 Really O
 to O
-Blame O
+Blame B-neutral
 ? O
 http://t.co/iK2826zS O
 
@@ -1363,12 +1363,12 @@ is O
 location O
 aware O
 . O
-Instagram O
+Instagram B-neutral
 will O
 use O
 e O
 geolocation O
-data B-neutral
+data O
 . O
 
 How O
@@ -1378,7 +1378,7 @@ It O
 - O
 How O
 to O
-Relocate O
+Relocate B-neutral
 to O
 or O
 in O
@@ -1386,7 +1386,7 @@ the O
 UK O
 | O
 eHow.com O
-http://t.co/yJTNPLR B-neutral
+http://t.co/yJTNPLR O
 via O
 @AddThis O
 
@@ -1457,8 +1457,8 @@ in O
 http://t.co/rnE0S6gl O
 
 @Amala_ams O
-Vikatan B-neutral
-Cover O
+Vikatan O
+Cover B-neutral
 awesome O
 Cant O
 sleep O
@@ -1595,7 +1595,7 @@ Mideast O
 . O
 #Syria O
 army O
-attacking B-neutral
+attacking O
 its O
 ppl O
 NOW O
@@ -1607,7 +1607,7 @@ the O
 word O
 on O
 this O
-genocide O
+genocide B-neutral
 by O
 #Assad O
 
@@ -1734,7 +1734,7 @@ uk O
 
 I O
 feel O
-ashamed O
+ashamed B-neutral
 to O
 live O
 in O
@@ -1750,7 +1750,7 @@ Kanuda O
 had O
 to O
 commit O
-suicide B-neutral
+suicide O
 at O
 the O
 age O
@@ -1995,11 +1995,11 @@ see O
 chance O
 to O
 clone O
-mammoth B-neutral
+mammoth O
 - O
 Yahoo B-neutral
 ! O
-http://t.co/5olWuDCM O
+http://t.co/5olWuDCM B-neutral
 via O
 @YahooNewsUK O
 
@@ -2024,11 +2024,11 @@ Timeline O
 : O
 10 O
 Stunning O
-Designs O
+Designs B-neutral
 [ O
 PICS O
 ] O
-http://t.co/C05g6VUN B-neutral
+http://t.co/C05g6VUN O
 via O
 @Digg O
 
@@ -2279,10 +2279,10 @@ Gold O
 +300 O
 % O
 | O
-10-Year B-neutral
+10-Year O
 Silver O
 = O
-+250 O
++250 B-neutral
 % O
 http://bit.ly/9XdGv4 O
 
@@ -2787,9 +2787,9 @@ Apple B-neutral
 : O
 Vintage O
 Wedding O
-DressesGiven O
+DressesGiven B-neutral
 the O
-amount B-neutral
+amount O
 of O
 time O
 this O
@@ -2878,10 +2878,10 @@ Lawsuit O
 alleges O
 'sexually O
 hostile' O
-workplace O
+workplace B-neutral
 - O
 Charlotte O
-Observer B-neutral
+Observer O
 http://t.co/gZCMuUj5 O
 
 Amazon B-neutral
@@ -2911,12 +2911,12 @@ new O
 season O
 of O
 Bachelor O
-Pad O
+Pad B-neutral
 ? O
 What O
 are O
 your O
-thoughts B-neutral
+thoughts O
 ? O
 
 Eyes O
@@ -2925,9 +2925,9 @@ FEST-M O
 presentation O
 given O
 to O
-Joint B-neutral
+Joint O
 Forces O
-Engineer O
+Engineer B-neutral
 Command O
 . O
 http://bit.ly/d7ovUw O
@@ -3067,9 +3067,9 @@ buy O
 Windows O
 7 O
 Perfection O
-Netbook O
+Netbook B-neutral
 Edition O
-x86 B-neutral
+x86 O
 http://goo.gl/fb/0h4O7 O
 
 @kasimf B-neutral
@@ -3130,7 +3130,7 @@ most O
 enjoyable O
 events O
 in O
-golf B-neutral
+golf O
 . O
 Playing O
 for O
@@ -3142,7 +3142,7 @@ brings O
 them O
 together O
 . O
--Jack O
+-Jack B-neutral
 Nicklaus O
 
 News O
@@ -3301,10 +3301,10 @@ too O
 http://t.co/ZTKiudk O
 
 Houston O
-billionaires B-neutral
+billionaires O
 make O
 Forbes O
-Richest O
+Richest B-neutral
 People O
 in O
 America O
@@ -3386,9 +3386,9 @@ CRUSH O
 IT O
 ! O
 and O
-winning O
+winning B-neutral
 a O
-coaching B-neutral
+coaching O
 session O
 with O
 â¦ O
@@ -3520,12 +3520,12 @@ http://t.co/2hJi2ZJ O
 Try O
 this O
 .. O
-Unique O
+Unique B-neutral
 Link O
 Building O
 Tool O
 , O
-Guarantees B-neutral
+Guarantees O
 Top O
 Google B-neutral
 Ranking O
@@ -3612,7 +3612,7 @@ you O
 are O
 , O
 and O
-whatever B-positive
+whatever O
 you O
 do O
 , O
@@ -3620,17 +3620,17 @@ be O
 in O
 love O
 . O
-Rumi O
+Rumi B-positive
 . O
 
 Post O
 : O
 Tractor O
-Backup O
+Backup B-neutral
 ( O
 Sam B-neutral
 and O
-Amy B-neutral
+Amy O
 ) O
 http://bit.ly/9ExvBt O
 
@@ -3862,7 +3862,7 @@ http://t.co/i1nVgSMT O
 BrianCarriveau O
 : O
 Mason O
-Crosby's B-neutral
+Crosby's O
 633 O
 career O
 points O
@@ -3879,7 +3879,7 @@ in O
 his O
 first O
 five O
-seasons." O
+seasons." B-neutral
 AMAZING O
 !!! O
 
@@ -3965,9 +3965,9 @@ know O
 that O
 failure O
 is O
-inevitable B-neutral
+inevitable O
 . O
-Coco O
+Coco B-neutral
 Chanel O
 
 Help O
@@ -4006,13 +4006,13 @@ the O
 link O
 to O
 a O
-stable O
+stable B-neutral
 stream O
 for O
 the O
 Manu O
 vs O
-Liverpool B-neutral
+Liverpool O
 match O
 ? O
 
@@ -4066,14 +4066,14 @@ market O
 debut O
 : O
 By O
-BARBARA O
+BARBARA B-neutral
 ORTUTAY O
 AP B-neutral
 Technology O
 Writer O
 Yelp's B-neutral
 stock O
-opened B-neutral
+opened O
 ... O
 http://t.co/ktxUltff O
 
@@ -4332,9 +4332,9 @@ happy O
 Ivy O
 Bridge O
 chip O
-delayed O
+delayed B-neutral
 , O
-Windows B-neutral
+Windows O
 8 O
 in O
 September O
@@ -4553,11 +4553,11 @@ Kiran O
 Charming O
 and O
 sexy O
-girls O
+girls B-neutral
 to O
 be O
 your O
-tem B-neutral
+tem O
 ... O
 http://twurl.nl/4zt676 O
 
@@ -4568,7 +4568,7 @@ free O
 b2b O
 data O
 list O
-records O
+records B-neutral
 from O
 Responsiva O
 , O
@@ -4579,7 +4579,7 @@ to O
 info@responsiva.biz O
 and O
 quote O
-"Twitter B-neutral
+"Twitter O
 Promo" O
 
 @NinjaaMonkey O
@@ -4738,10 +4738,10 @@ Came O
 | O
 Sugarscape O
 | O
-http://t.co/33da2GbQ B-neutral
+http://t.co/33da2GbQ O
 ( O
 via O
-@alexiacarv O
+@alexiacarv B-neutral
 ) O
 
 USA O
@@ -4863,7 +4863,7 @@ latest O
 tren O
 d: O
 THE O
-Manitoba O
+Manitoba B-neutral
 Human O
 Rights O
 Commission O
@@ -4873,7 +4873,7 @@ based O
 on O
 p O
 ... O
-http://t.co/UOOYLc3l B-neutral
+http://t.co/UOOYLc3l O
 pregnancy O
 
 @lizzlaw B-neutral
@@ -4915,8 +4915,8 @@ The O
 Civil O
 Arab O
 , O
-Amer B-neutral
-Zahr O
+Amer O
+Zahr B-neutral
 ... O
 http://t.co/5e3UXl4g O
 
@@ -4936,8 +4936,8 @@ Congratulations O
 
 Texas O
 Chicken O
-4-for-4.80 B-neutral
-Mondays O
+4-for-4.80 O
+Mondays B-neutral
 ! O
 #fastfoodfix O
 @allankarlo O
@@ -5013,9 +5013,9 @@ to O
 climb O
 higher O
 - O
-Globe O
+Globe B-neutral
 and O
-Mail B-neutral
+Mail O
 http://tinyurl.com/27ehtvo O
 
 Congratulations O
@@ -5077,10 +5077,10 @@ Strike O
 was O
 threatened O
 by O
-GdF O
+GdF B-neutral
 air O
 traffic O
-controllers B-neutral
+controllers O
 union O
 Germany O
 on O
@@ -5226,9 +5226,9 @@ to O
 blind O
 & O
 maim O
-protesters O
+protesters B-neutral
 more O
-efficiently B-neutral
+efficiently O
 http://t.co/udSd7DhM O
 
 NMEDA B-neutral
@@ -5352,14 +5352,14 @@ ur O
 interview O
 with O
 khaled O
-almlhim B-neutral
+almlhim O
 ... O
 thanx O
 . O
 His O
 answers O
 were O
-weak O
+weak B-neutral
 . O
 
 FDA B-neutral
@@ -5460,14 +5460,14 @@ In O
 hours O
 we O
 sent O
-781 O
+781 B-neutral
 , O
 000 O
 messages O
 opposing O
 Keystone O
 XL O
-http://t.co/KZXqtX48 B-neutral
+http://t.co/KZXqtX48 O
 #noKXL O
 
 Ideas O
@@ -5580,8 +5580,8 @@ Only O
 of O
 Adults O
 Use O
-Location-Based O
-Checkin B-neutral
+Location-Based B-neutral
+Checkin O
 Apps O
 [REPORT] O
 
@@ -5627,12 +5627,12 @@ Rudy O
 Giuliani O
 "entirely O
 rejects" O
-Alwaleed's B-neutral
+Alwaleed's O
 offer O
 of O
 10 O
 extra O
-characters O
+characters B-neutral
 per O
 tweet O
 . O
@@ -5647,7 +5647,7 @@ lie O
 hidden O
 in O
 your O
-soul B-neutral
+soul O
 . O
 Dream O
 deep O
@@ -5660,7 +5660,7 @@ the O
 goal O
 . O
 Pamela O
-Vaull O
+Vaull B-neutral
 Starr O
 
 yeah O
@@ -5785,12 +5785,12 @@ sexiest O
 woman O
 in O
 her O
-30's O
+30's B-neutral
 by O
 UK O
 magazine O
 Good O
-Housekeeping B-neutral
+Housekeeping O
 .... O
 http://t.co/BwLQozur O
 
@@ -5812,8 +5812,8 @@ Los B-neutral
 Angeles O
 times O
 : O
-Rose-colored B-neutral
-glasses O
+Rose-colored O
+glasses B-neutral
 may O
 help O
 love O
@@ -5915,9 +5915,9 @@ is O
 really O
 nice O
 to O
-peta O
+peta B-neutral
 me O
-everyday B-neutral
+everyday O
 . O
 
 Poland B-positive
@@ -5954,9 +5954,9 @@ for O
 being O
 happy O
 is O
-appreciating B-neutral
+appreciating O
 & O
-liking O
+liking B-neutral
 what O
 you O
 have O
@@ -6138,9 +6138,9 @@ http://t.co/J3gFhZXg O
 Glad O
 to O
 be O
-connected B-neutral
+connected O
 , O
-Rhonda O
+Rhonda B-neutral
 ! O
 Hope O
 you O
@@ -6507,8 +6507,8 @@ to O
 attend O
 the O
 conference-forum O
-"Marketing B-neutral
-3.0" O
+"Marketing O
+3.0" B-neutral
 by O
 him O
 !! O
@@ -6522,7 +6522,7 @@ Process O
 â O
 3 O
 Simple O
-Technique O
+Technique B-neutral
 s: O
 Article O
 by O
@@ -6530,7 +6530,7 @@ Jerret O
 Turner O
 You O
 â O
-ve B-neutral
+ve O
 written O
 your O
 art O
@@ -6667,12 +6667,12 @@ vista O
 -run O
 command O
 -type O
-'fsquirt' O
+'fsquirt' B-neutral
 now O
 bluetooth O
 file O
 transfer O
-wizard B-neutral
+wizard O
 opens O
 . O
 
@@ -6785,11 +6785,11 @@ achievements O
 like O
 @MaryamBinFahad O
 @NaylaAlkhaja O
-@malmarri O
+@malmarri B-neutral
 that O
 will O
 be O
-displayed B-neutral
+displayed O
 at O
 #DWCVillage O
 
@@ -6842,7 +6842,7 @@ BusinessWeek B-neutral
 http://t.co/PCBJYSw I-neutral
 
 Obama B-negative
-Administration I-negative
+Administration O
 Requests O
 More O
 Money O
@@ -6857,7 +6857,7 @@ Accounting O
 Today O
 The O
 Obama B-negative
-administration O
+administration I-negative
 has O
 ... O
 http://t.co/pxMgtxnX O
@@ -7025,7 +7025,7 @@ administrativia O
 Beliebers O
 and O
 Selenators O
-"working O
+"working B-neutral
 together" O
 . O
 My O
@@ -7037,12 +7037,12 @@ against O
 one O
 person O
 ? O
-Pussies B-neutral
+Pussies O
 . O
 
 As O
 Viadeo O
-Shelves O
+Shelves B-neutral
 IPO O
 , O
 LinkedIn B-positive
@@ -7051,7 +7051,7 @@ To O
 Begin O
 Trading O
 On O
-Thursday B-neutral
+Thursday O
 http://tcrn.ch/m9QQVO O
 
 Reminder B-neutral
@@ -7176,10 +7176,10 @@ says O
 http://t.co/QfSubQ3X O
 
 Billy B-neutral
-Bragg I-neutral
+Bragg O
 backs O
 Occupy B-neutral
-Edinburgh O
+Edinburgh I-neutral
 campaigners O
 with O
 impromptu O
@@ -7370,12 +7370,12 @@ Kony O
 The O
 social O
 media O
-campaign O
+campaign B-neutral
 by O
 Invisible O
 Children O
 has O
-drawn B-neutral
+drawn O
 ... O
 http://t.co/wVj56P7o O
 
@@ -7523,13 +7523,13 @@ Gill O
 Spider O
 Attack O
 - O
-National O
+National B-neutral
 Geographic O
 Photo O
 Contest O
 2011 O
 - O
-National B-neutral
+National O
 Geographic O
 http://t.co/8mxxEtEh O
 via O
@@ -7593,9 +7593,9 @@ East O
 : O
 Wave O
 of O
-dissatisfaction O
+dissatisfaction B-neutral
 among O
-Iraqis B-neutral
+Iraqis O
 http://t.co/JHeF9Rz O
 
 Mint O
@@ -7675,7 +7675,7 @@ assigned O
 to O
 the O
 Governor O
-Sana B-neutral
+Sana O
 sight O
 weapons O
 to O
@@ -7684,7 +7684,7 @@ of O
 the O
 ( O
 secret O
-document O
+document B-neutral
 http O
 
 I O
@@ -7981,8 +7981,8 @@ ever O
 Listen O
 to O
 The O
-Ghazhal O
-Maestro B-neutral
+Ghazhal B-neutral
+Maestro O
 ... O
 http://t.co/rIdUDhHs O
 
@@ -8147,9 +8147,9 @@ Ghetto O
 Photo O
 by O
 Photographer O
-Mert B-neutral
+Mert O
 ... O
-http://t.co/VPJ24tXD O
+http://t.co/VPJ24tXD B-neutral
 via O
 @thefancy O
 
@@ -8186,9 +8186,9 @@ http://t.co/al3v08s4 O
 #Iran O
 
 #Africa O
-Tuareg O
-Rockers B-neutral
-Tinariwen I-neutral
+Tuareg B-neutral
+Rockers I-neutral
+Tinariwen O
 Set O
 for O
 2010 O
@@ -8201,7 +8201,7 @@ http://tinyurl.com/24toaml O
 
 Ã¢ÂÂ O
 @ O
-BarackObama B-neutral
+BarackObama O
 : O
 International B-neutral
 community I-neutral
@@ -8214,7 +8214,7 @@ Assad O
 is O
 not O
 a O
-reformer O
+reformer B-neutral
 he O
 is O
 a O
@@ -8370,8 +8370,8 @@ as O
 the O
 mayor O
 of O
-Sigma B-neutral
-Bakery O
+Sigma O
+Bakery B-neutral
 on O
 @foursquare O
 ! O
@@ -8386,11 +8386,11 @@ tablets O
 still O
 dead O
 on O
-arrival B-neutral
+arrival O
 : O
 By O
 Julianne O
-Pepitone O
+Pepitone B-neutral
 @CNNMoneyTech O
 March O
 7 O
@@ -8453,11 +8453,11 @@ him O
 spider O
 monkey O
 .. O
-Cuz B-neutral
+Cuz O
 he's O
 good O
 at O
-climbing O
+climbing B-neutral
 and O
 hanging O
 through O

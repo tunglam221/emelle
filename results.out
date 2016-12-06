@@ -5,32 +5,32 @@
 ----- Gold: EN/dev.out || Prediction: EN/dev.p3.out -----
 
 #Entity in gold data: 662
-#Entity in prediction: 298
+#Entity in prediction: 299
 
 #Correct Entity : 181
-Entity  precision: 0.6074
+Entity  precision: 0.6054
 Entity  recall: 0.2734
-Entity  F: 0.3771
+Entity  F: 0.3767
 
 #Correct Sentiment : 126
-Sentiment  precision: 0.4228
+Sentiment  precision: 0.4214
 Sentiment  recall: 0.1903
-Sentiment  F: 0.2625
+Sentiment  F: 0.2622
 
 ----- Gold: EN/dev.out || Prediction: EN/dev.p4.out -----
 
 #Entity in gold data: 662
-#Entity in prediction: 699
+#Entity in prediction: 700
 
-#Correct Entity : 202
-Entity  precision: 0.2890
-Entity  recall: 0.3051
-Entity  F: 0.2968
+#Correct Entity : 200
+Entity  precision: 0.2857
+Entity  recall: 0.3021
+Entity  F: 0.2937
 
-#Correct Sentiment : 114
-Sentiment  precision: 0.1631
-Sentiment  recall: 0.1722
-Sentiment  F: 0.1675
+#Correct Sentiment : 108
+Sentiment  precision: 0.1543
+Sentiment  recall: 0.1631
+Sentiment  F: 0.1586
 
 =====================
 ==== Language: ES
@@ -54,15 +54,15 @@ Sentiment  F: 0.2354
 ----- Gold: ES/dev.out || Prediction: ES/dev.p4.out -----
 
 #Entity in gold data: 1326
-#Entity in prediction: 1551
+#Entity in prediction: 1552
 
-#Correct Entity : 502
-Entity  precision: 0.3237
-Entity  recall: 0.3786
-Entity  F: 0.3490
+#Correct Entity : 506
+Entity  precision: 0.3260
+Entity  recall: 0.3816
+Entity  F: 0.3516
 
-#Correct Sentiment : 241
-Sentiment  precision: 0.1554
-Sentiment  recall: 0.1817
-Sentiment  F: 0.1675
+#Correct Sentiment : 239
+Sentiment  precision: 0.1540
+Sentiment  recall: 0.1802
+Sentiment  F: 0.1661
 
