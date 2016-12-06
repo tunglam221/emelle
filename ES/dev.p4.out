@@ -22,7 +22,7 @@ FB O
 
 @chavezcandanga O
 bolivar O
-mi B-negative
+mi O
 comandante O
 qiero O
 q O
@@ -40,7 +40,7 @@ vr O
 una O
 venzuela O
 totalmente O
-revolucionada O
+revolucionada B-neutral
 
 He O
 publicado O
@@ -891,7 +891,7 @@ ONU B-neutral
 conmemorar\xe1 O
 este O
 lunes O
-el B-neutral
+el O
 D\xeda O
 Mundial O
 de O
@@ -900,7 +900,7 @@ Malaria O
 // O
 Cuando O
 conmemorar\xe1n O
-el O
+el B-neutral
 d\xeda O
 del O
 NO O
@@ -1311,7 +1311,7 @@ calificaci\xf3n O
 siiiii O
 
 El O
-PRI B-positive
+PRI B-negative
 demustra O
 que O
 no O
@@ -1337,7 +1337,7 @@ se O
 mimetiza O
 @epn O
 con O
-el O
+el B-neutral
 h\xe9roe O
 ca\xeddo O
 
@@ -1351,7 +1351,7 @@ que O
 cool B-neutral
 ( O
 @ O
-YouTube O
+YouTube B-neutral
 http://t.co/pWz8gfUZ) O
 
 @ruizalx O
@@ -2305,12 +2305,12 @@ Am\xe9rica B-negative
 http://bit.ly/rdbeLn O
 
 Bueno O
-el O
+el B-neutral
 programa O
 nuevo O
 de O
-tvn B-negative
-. I-negative
+tvn B-neutral
+. I-neutral
 
 PRODENT O
 LES O
@@ -2983,8 +2983,8 @@ Un O
 saludo O
 
 " O
-@ O
-FrUsLeRo O
+@ B-positive
+FrUsLeRo I-positive
 : O
 Casarse O
 est\xe1 O
@@ -2996,7 +2996,7 @@ lo O
 oyera O
 diana O
 y O
-lety B-neutral
+lety O
 !! O
 Jajaja O
 
@@ -3093,7 +3093,7 @@ liga B-neutral
 @ O
 micheltueni O
 
-@chavezcandanga B-neutral
+@chavezcandanga O
 nose O
 si O
 se O
@@ -3108,7 +3108,7 @@ estar O
 siempr O
 a O
 vanguardia B-neutral
-para O
+para I-neutral
 denuncia O
 tanto O
 atropello O
@@ -3134,14 +3134,14 @@ mii O
 !!!!! O
 
 Youtube B-neutral
-retransmitir\xe1 I-neutral
+retransmitir\xe1 O
 en O
 directo O
 los O
 JJOO B-neutral
 Londres I-neutral
 2012 O
-http://t.co/a9G6vsKM O
+http://t.co/a9G6vsKM B-neutral
 
 CONFIRMA O
 DO: O
@@ -3422,8 +3422,8 @@ http://t.co/tnyRsEWn O
 Ver O
 "Got O
 2 O
-luv O
-u B-neutral
+luv B-positive
+u I-positive
 - O
 CON O
 LETRA O
@@ -3689,7 +3689,7 @@ casa O
 . O
 
 Echa O
-un B-negative
+un B-positive
 vistazo O
 a O
 este O
@@ -3866,11 +3866,11 @@ Mandela O
 ... O
 APOYANDO O
 a O
-LA O
+LA B-positive
 OBRA O
 BANDA O
 para O
-la B-positive
+la O
 formula O
 .. O
 @lobmusicvzla O
@@ -3910,12 +3910,12 @@ ciento O
 de O
 importaciones O
 RT O
-@globovision B-negative
+@globovision O
 : O
-Ch\xe1vez B-neutral
+Ch\xe1vez B-negative
 : O
 "en O
-estos O
+estos B-negative
 \xfaltimos O
 10 O
 a\xf1os O
@@ -4882,7 +4882,7 @@ Wilson B-negative
 y O
 muerte O
 de O
-Marina O
+Marina B-positive
 Abramovic' O
 http://t.co/QXRX4QRQ O
 
@@ -5129,7 +5129,7 @@ triste O
 ver O
 que O
 mientras O
-globovision B-negative
+globovision B-neutral
 y O
 dem\xe1s O
 echan O
@@ -5137,7 +5137,7 @@ mierda O
 al O
 gobierno O
 , O
-VTV B-neutral
+VTV B-negative
 est\xe1 O
 pasando O
 el O
@@ -5672,7 +5672,7 @@ video O
 . O
 -- O
 Todo O
-Ricardo B-neutral
+Ricardo B-negative
 Montaner O
 http://t.co/DjjucJC O
 v\xeda O
@@ -5988,7 +5988,7 @@ this O
 video O
 out O
 -- O
-Dios B-positive
+Dios O
 de O
 Pactos O
 - O
@@ -5996,7 +5996,7 @@ Marcos B-negative
 Witt O
 http://t.co/h2qPZ4fE O
 v\xeda O
-@youtube O
+@youtube B-neutral
 
 Viendo O
 partidazo O
@@ -6526,11 +6526,11 @@ cerrando O
 cuenta O
 ASAP O
 
-@globovision O
+@globovision B-neutral
 que O
 paso O
 con O
-la B-positive
+la B-neutral
 entrevista O
 de O
 Maickel O
@@ -6673,9 +6673,9 @@ The O
 Beagirls O
 http://www.facebook.com/pages/The-Beagirls/142168725799011?v=wall O
 
-@esa O
+@esa B-neutral
 es O
-la B-negative
+la O
 pura O
 VERDAD O
 .... O
@@ -6769,7 +6769,7 @@ The B-neutral
 Floor O
 ft O
 . O
-Pitbull B-positive
+Pitbull B-neutral
 http://t.co/pCXtH06 O
 v\xeda O
 @youtube O
@@ -7577,13 +7577,13 @@ acambaro O
 gto O
 indignada O
 con O
-cirilo O
+cirilo B-neutral
 saucedo O
 q O
 niega O
 q O
 es O
-originario B-neutral
+originario O
 de O
 aqui O
 , O
@@ -7646,7 +7646,7 @@ se\xf1or B-neutral
 
 @Psicovivir O
 hasle O
-un B-negative
+un B-neutral
 Analisis O
 a O
 Maruja O
@@ -7722,10 +7722,10 @@ pregunta O
 qu\xe9 O
 se O
 eliminaron O
-las O
+las B-neutral
 cuentas O
 de O
-Twitter O
+Twitter B-neutral
 , O
 @Pau_95pena O
 y O
@@ -7872,7 +7872,7 @@ barcelona I-neutral
 . I-neutral
 
 El B-neutral
-primer O
+primer I-neutral
 paso O
 es O
 ganar O
@@ -7880,7 +7880,7 @@ las O
 primarias O
 RT O
 @ O
-globovision O
+globovision B-neutral
 : O
 EnVideo O
 Pablo B-neutral
@@ -8014,9 +8014,9 @@ vemos O
 Golpes O
 en O
 la O
-Asamblea B-neutral
+Asamblea O
 RT O
-@globovision B-neutral
+@globovision O
 : O
 Los O
 diputados O
@@ -8028,7 +8028,7 @@ versi\xf3n O
 de O
 "encontronazo" O
 en O
-el O
+el B-neutral
 Hemiciclo O
 http://bit.ly/ggWhdh O
 
@@ -8225,7 +8225,7 @@ con O
 la O
 version O
 de O
-youtube O
+youtube B-neutral
 XD O
 porke O
 masacro O
@@ -8276,7 +8276,7 @@ grabaci\xf3n O
 . O
 http://t.co/M8gdZQie\u201d O
 
-MARACUCHOS B-positive
+MARACUCHOS O
 HOY O
 SALE O
 REGIONAL O
@@ -8285,7 +8285,7 @@ HUEVOS O
 CHIMBOS O
 , O
 POR O
-LA O
+LA B-positive
 DERROTA O
 DEL O
 ITALIANO O
@@ -8300,11 +8300,11 @@ ROSALES I-positive
 CARAJO O
 
 @chavezcandanga O
-presidente O
+presidente B-negative
 ayude O
 a O
-mi B-negative
-tia I-negative
+mi O
+tia O
 que O
 no O
 tiene O
@@ -8350,11 +8350,11 @@ azul O
 la O
 base O
 de O
-la O
+la B-neutral
 selecci\xf3n O
 es O
-del B-neutral
-colo I-neutral
+del O
+colo B-positive
 , O
 aquella O
 nutrida O
@@ -9568,14 +9568,14 @@ pasa O
 El O
 detallazo O
 : O
-el O
+el B-neutral
 nuevo O
 asesor O
 de O
 Iris B-negative
 Varela I-negative
 es O
-el B-neutral
+el O
 Teniente O
 Coronel O
 cubano O
@@ -9706,12 +9706,12 @@ CHAVEZ B-positive
 PRESIDENTE B-positive
 http://t.co/jyhwEr2K O
 
-The B-neutral
+The O
 libertines O
 - O
 music O
 when O
-the O
+the B-neutral
 lights O
 go O
 out O
@@ -10094,7 +10094,7 @@ de O
 campeonato O
 . O
 
-Jose B-negative
+Jose O
 Guerra O
 en O
 Primera O
@@ -10170,7 +10170,7 @@ Versi\xf3n O
 1.7.1 O
 
 @Gtelyie O
-@jacquelinegaete B-neutral
+@jacquelinegaete O
 @Jhendelyn O
 No O
 sera O
@@ -10179,13 +10179,13 @@ una O
 en O
 frente O
 de O
-la O
+la B-neutral
 otra O
 y O
 se O
 preguntan O
 por O
-el B-neutral
+el O
 menu O
 via O
 Twiter O
@@ -10506,7 +10506,7 @@ s/ O
 : O
 http://t.co/OhK4Xm4W O
 
-@chavezcandanga B-neutral
+@chavezcandanga O
 hoy O
 d\xeda O
 de O
@@ -10518,7 +10518,7 @@ escuche O
 mis O
 ruego O
 y O
-usted O
+usted B-negative
 intervenga O
 el O
 ivss B-neutral
@@ -10631,7 +10631,7 @@ los O
 Algodoneros B-neutral
 !! O
 
-@Cooperativa B-neutral
+@Cooperativa O
 Urgnt O
 divulgar O
 sto O
@@ -10644,15 +10644,15 @@ spiritual O
 y O
 vio O
 a O
-felipe B-neutral
+felipe B-positive
 y2+ O
 vivos O
 n O
 cueva O
 bajo O
 d O
-la O
-isla O
+la B-neutral
+isla I-neutral
 se O
 llama O
 hueso O
@@ -11267,8 +11267,8 @@ letras O
 . O
 
 @Cooperativa O
-KROSS O
-TY B-neutral
+KROSS B-positive
+TY O
 ? O
 XD O
 
@@ -11516,10 +11516,10 @@ He O
 marcado O
 como O
 favorito O
-un O
+un B-positive
 video O
 de O
-YouTube O
+YouTube B-neutral
 -- O
 The O
 Outfield O
@@ -11529,7 +11529,7 @@ Love O
 ( O
 Lyrics O
 ) O
-http://youtu.be/BWiJ1ltQeEY?a B-neutral
+http://youtu.be/BWiJ1ltQeEY?a O
 
 @NataliaAlfonzo5 O
 lo O
@@ -12352,12 +12352,12 @@ es O
 distinta O
 dentro O
 de O
-la O
+la B-neutral
 Concertaci\xf3n' O
 | O
 Pol\xedtica O
 | O
-LA B-neutral
+LA O
 TERCERA O
 http://t.co/tMF2RSUC O
 v\xeda O
@@ -12366,7 +12366,7 @@ DiosCaos O
 \u201cPiment\xf3n\u201d B-neutral
 Cabello I-neutral
 \u201csi O
-el B-neutral
+el O
 candidato O
 de O
 la O
@@ -12376,7 +12376,7 @@ perderemos O
 las O
 misiones\u201d O
 y O
-el O
+el B-neutral
 no O
 podr\xe1 O
 seguir O
@@ -12486,8 +12486,8 @@ q O
 se O
 robaron O
 
-@chavezcandanga B-neutral
-presidente O
+@chavezcandanga O
+presidente B-negative
 le O
 pedimos O
 que O
@@ -13326,8 +13326,8 @@ Minalba O
 Este O
 viernes O
 comenzar\xe1 O
-el O
-primer O
+el B-neutral
+primer I-neutral
 Encuentro O
 de O
 Ciencia O
@@ -13339,7 +13339,7 @@ http://t.co/8ca6VMHX O
 Yo O
 Quiero O
 !!! O
-CC B-neutral
+CC O
 @maca_cruz O
 
 y O
@@ -13442,8 +13442,8 @@ PUTO O
 JEFE B-positive
 !! O
 
-@globovision B-negative
-y I-negative
+@globovision O
+y O
 porque O
 no O
 le O
@@ -13459,7 +13459,7 @@ libios O
 Te O
 esta O
 llegando O
-la O
+la B-neutral
 hora O
 EEUU O
 
@@ -13548,7 +13548,7 @@ el O
 jet\xf3n O
 @chavezcandanga O
 . O
-El B-neutral
+El B-negative
 mismo O
 discurso O
 de O
@@ -14143,10 +14143,10 @@ Renaud O
 Garcia O
 \u2013 O
 Fons O
-Trio B-neutral
+Trio O
 : O
 Arcoluz O
-http://t.co/wyTm8vgd O
+http://t.co/wyTm8vgd B-neutral
 v\xeda O
 @el_intruso O
 
@@ -14665,7 +14665,7 @@ Fromm O
 ) O
 
 EN O
-LA O
+LA B-neutral
 ASAMBLEA O
 , O
 DE O
@@ -14676,7 +14676,7 @@ DE O
 DIPUTADOS O
 , O
 EN O
-LA B-neutral
+LA O
 CUAL O
 FUI O
 ELEGIDO O
@@ -15226,10 +15226,10 @@ O O
 sea O
 NUNCA" O
 @ O
-globovision O
+globovision B-negative
 : O
-Presidente B-neutral
-Ch\xe1vez I-neutral
+Presidente O
+Ch\xe1vez B-negative
 : O
 Esta O
 es O
@@ -15276,15 +15276,15 @@ peque O
 . O
 " O
 @ O
-noticias24 B-neutral
+noticias24 O
 : O
 Titular O
 del O
-Mundo O
-Deportivo O
+Mundo B-neutral
+Deportivo I-neutral
 : O
 El O
-Bar\xe7a B-neutral
+Bar\xe7a B-positive
 demuestra O
 qui\xe9n O
 es O
@@ -15470,7 +15470,7 @@ sin O
 Wikipedia O
 . O
 
-@chavezcandanga B-neutral
+@chavezcandanga O
 cuenta O
 con O
 mi O
@@ -15481,7 +15481,7 @@ a\xf1os O
 me O
 incribire O
 en O
-el O
+el B-neutral
 psuv B-neutral
 
 Bueno O
@@ -16475,8 +16475,8 @@ fuerte O
 , O
 jajajja B-neutral
 
-@chavezcandanga B-neutral
-presidente O
+@chavezcandanga O
+presidente B-negative
 lo O
 felicito O
 por O
@@ -16543,14 +16543,14 @@ Chinita O
 : O
 "Aprender O
 sin O
-entender" O
+entender" B-neutral
 . O
 Columna O
 para O
 Publimetro O
 --&gt O
 ; O
-http://t.co/Su95j1mw B-neutral
+http://t.co/Su95j1mw O
 / O
 Muy O
 buen O
@@ -17580,16 +17580,16 @@ Celeeeeee B-neutral
 . I-neutral
 Saludos O
 
-@globovision B-neutral
+@globovision O
 : O
 Ocariz O
 llama O
 a O
 la O
 GN B-neutral
-y I-neutral
+y O
 a O
-la O
+la B-neutral
 Polic\xeda O
 Nacional O
 a O

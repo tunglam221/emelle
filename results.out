@@ -5,32 +5,32 @@
 ----- Gold: EN/dev.out || Prediction: EN/dev.p3.out -----
 
 #Entity in gold data: 662
-#Entity in prediction: 288
+#Entity in prediction: 292
 
-#Correct Entity : 170
-Entity  precision: 0.5903
-Entity  recall: 0.2568
-Entity  F: 0.3579
+#Correct Entity : 176
+Entity  precision: 0.6027
+Entity  recall: 0.2659
+Entity  F: 0.3690
 
-#Correct Sentiment : 119
-Sentiment  precision: 0.4132
-Sentiment  recall: 0.1798
-Sentiment  F: 0.2505
+#Correct Sentiment : 124
+Sentiment  precision: 0.4247
+Sentiment  recall: 0.1873
+Sentiment  F: 0.2600
 
 ----- Gold: EN/dev.out || Prediction: EN/dev.p4.out -----
 
 #Entity in gold data: 662
-#Entity in prediction: 682
+#Entity in prediction: 678
 
-#Correct Entity : 176
-Entity  precision: 0.2581
-Entity  recall: 0.2659
-Entity  F: 0.2619
+#Correct Entity : 181
+Entity  precision: 0.2670
+Entity  recall: 0.2734
+Entity  F: 0.2701
 
-#Correct Sentiment : 99
-Sentiment  precision: 0.1452
-Sentiment  recall: 0.1495
-Sentiment  F: 0.1473
+#Correct Sentiment : 104
+Sentiment  precision: 0.1534
+Sentiment  recall: 0.1571
+Sentiment  F: 0.1552
 
 =====================
 ==== Language: ES
@@ -39,30 +39,30 @@ Sentiment  F: 0.1473
 ----- Gold: ES/dev.out || Prediction: ES/dev.p3.out -----
 
 #Entity in gold data: 1326
-#Entity in prediction: 740
+#Entity in prediction: 749
 
-#Correct Entity : 431
-Entity  precision: 0.5824
-Entity  recall: 0.3250
-Entity  F: 0.4172
+#Correct Entity : 438
+Entity  precision: 0.5848
+Entity  recall: 0.3303
+Entity  F: 0.4222
 
-#Correct Sentiment : 239
-Sentiment  precision: 0.3230
-Sentiment  recall: 0.1802
-Sentiment  F: 0.2314
+#Correct Sentiment : 246
+Sentiment  precision: 0.3284
+Sentiment  recall: 0.1855
+Sentiment  F: 0.2371
 
 ----- Gold: ES/dev.out || Prediction: ES/dev.p4.out -----
 
 #Entity in gold data: 1326
-#Entity in prediction: 1555
+#Entity in prediction: 1564
 
-#Correct Entity : 447
-Entity  precision: 0.2875
-Entity  recall: 0.3371
-Entity  F: 0.3103
+#Correct Entity : 454
+Entity  precision: 0.2903
+Entity  recall: 0.3424
+Entity  F: 0.3142
 
-#Correct Sentiment : 212
-Sentiment  precision: 0.1363
-Sentiment  recall: 0.1599
-Sentiment  F: 0.1472
+#Correct Sentiment : 216
+Sentiment  precision: 0.1381
+Sentiment  recall: 0.1629
+Sentiment  F: 0.1495
 

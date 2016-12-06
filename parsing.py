@@ -26,11 +26,7 @@ class Sentence:
         # remove special characters
         # ATTENTION: called in parseDate() already
         for word in self.raw_observation:
-            clean_word = word.lower()
-            for c in clean_word:
-                if (c in '@#') & (len(word) != 1):
-                    clean_word = clean_word.replace(c,'')
-            self.observation.append(clean_word)
+            self.observation.append(word.lower())
 
     def count(self):
         # only works for labelled data
