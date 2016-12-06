@@ -1,0 +1,38 @@
+=====================
+==== Language: EN
+=====================
+
+----- Gold: EN/dev.out || Prediction: EN/dev.p3.out -----
+
+#Entity in gold data: 662
+#Entity in prediction: 288
+
+#Correct Entity : 177
+Entity  precision: 0.6146
+Entity  recall: 0.2674
+Entity  F: 0.3726
+
+#Correct Sentiment : 130
+Sentiment  precision: 0.4514
+Sentiment  recall: 0.1964
+Sentiment  F: 0.2737
+
+=====================
+==== Language: ES
+=====================
+
+----- Gold: ES/dev.out || Prediction: ES/dev.p3.out -----
+
+#Entity in gold data: 1326
+#Entity in prediction: 640
+
+#Correct Entity : 391
+Entity  precision: 0.6109
+Entity  recall: 0.2949
+Entity  F: 0.3978
+
+#Correct Sentiment : 204
+Sentiment  precision: 0.3187
+Sentiment  recall: 0.1538
+Sentiment  F: 0.2075
+

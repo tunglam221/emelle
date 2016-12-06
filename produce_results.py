@@ -1,7 +1,6 @@
 from state_num_dictionary import *
 from parsing import * 
 from perceptron import *
-from simple_decode import * 
 from viterbi import *
 from copy import deepcopy
 from evalResult import *
@@ -46,10 +45,10 @@ def printEvaluation(fpre, fgold, fout):
 fname_eval = 'results.out'
 print('', end = '', file = open(fname_eval,'w'))
 
-for lang in ['EN']:
+for lang in ['EN', 'ES']:
     fname_learn = lang + '/train'
-    fname_pre = lang + '/dev2.in'
-    fname_gold = lang + '/dev2.out'
+    fname_pre = lang + '/dev.in'
+    fname_gold = lang + '/dev.out'
 
     print('=====================', file=open(fname_eval,'a'))
     print('==== Language:',lang,file=open(fname_eval,'a'))
@@ -61,16 +60,6 @@ for lang in ['EN']:
     # parse the data to be predicted
     sentences_raw = parseData(fname_pre)
 
-    # part 2
-    # fout = lang + '/dev.p2.out'
-    # sentences_process = deepcopy(sentences_raw)
-    # algo_part2 = SimpleDecode(trans_par, emiss_par) 
-    # for sen in sentences_process:
-    #     algo_part2.simple_decode(sen)
-    # printPrediction(sentences_process, fout, 0)
-    # printEvaluation(fout, fname_gold, fname_eval)
-
-    # part 3
     fout = lang + '/dev.p3.out'
     sentences_process = deepcopy(sentences_raw)
     perceptron = Perceptron(sentences_labelled, 10)
@@ -83,12 +72,3 @@ for lang in ['EN']:
     printPrediction(sentences_process, fout, 0)
     printEvaluation(fout, fname_gold, fname_eval)
 
-    # if (lang == 'EN' or lang == 'ES'): 
-    #     # part 4 
-    #     fout = lang + '/dev.p4.out' 
-    #     sentences_process = deepcopy(sentences_raw) 
-    #     algo_part4 = ModifiedViterbi(trans_par, emiss_par) 
-    #     for sen in sentences_process:
-    #         algo_part4.decode(sen, 5)
-    #     printPrediction(sentences_process, fout, 5)
-    #     printEvaluation(fout, fname_gold, fname_eval)
