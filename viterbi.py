@@ -17,13 +17,13 @@ class Viterbi:
                 max_score = -float('inf')
                 parent = None
                 if i > len(x):  # STOP state
-                        emis = 1
+                        emis = 0
                 elif x[i-1] not in self.emis:
-                        emis = self.emis[j]
+                        emis = 0
                 else:
                         emis = self.emis[x[i-1]][j]
                 for node in graph[i-1]:
-                        score = node.score + log(self.tran[node.state][j]) + log(emis)
+                        score = node.score + self.tran[node.state][j] + emis
                         if max_score <= score:
                                 max_score = score
                                 parent = node
@@ -48,17 +48,11 @@ class Viterbi:
                 graph.append([])
                 graph[n+1].append(self.max_node(graph, n+1, t-1, x))
 
-                path = []
+                path = [8]
                 next = graph[n+1][0]
                 for i in range(n+1, 1, -1):
                         path.insert(0, next.parent.state)
                         next = next.parent
+                path.insert(0, 0)
 
-                for p in path:
-                        sentence.state.append(num2state[p])
-
-def log(a):
-        if a==0:
-                return -float('inf')
-        else:
-                return math.log(a)
+                return path
